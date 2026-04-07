@@ -357,7 +357,7 @@
     </message>
     <message>
         <source>Refines the edges of the image.</source>
-        <translation>Redéfinit os bordures do imagem.</translation>
+        <translation>Redéfinit os bordas do imagem.</translation>
     </message>
     <message>
         <source>Focus</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Sets the ParticleSystem3D for the affector. If system is direct parent of the affector, this property does not need to be defined.</source>
-        <translation>Define o ParticleSystem3D para este affecteur. esta propriedade não precisa de ser definida quando o sistema é o pai direct do affecteur.</translation>
+        <translation>Define o ParticleSystem3D para este afetador. esta propriedade não precisa de ser definida quando o sistema é o pai direct do afetador.</translation>
     </message>
     <message>
         <source>Particles</source>
@@ -404,7 +404,7 @@
     </message>
     <message>
         <source>Sets which logical particles will be affected. When empty, all particles in the system are affected.</source>
-        <translation>Define quais partículas logiques serão affectées. quando esta propriedade é vazio, todas os partículas do sistema serão affectées.</translation>
+        <translation>Define quais partículas lógicas serão afetadas. Quando esta propriedade estiver vazia, todas as partículas do sistema serão afetadas.</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>If set to false, this affector will not alter any particles. Usually this is used to conditionally turn an affector on or off.</source>
-        <translation>quando falso, este affecteur n&apos;altère pas os partículas. esta propriedade permet dativar ou de desativar o affecteur conditionnellement.</translation>
+        <translation>Quando falso, este afetador não altera nenhuma partícula. Esta propriedade permite ativar ou desativar o afetador condicionalmente.</translation>
     </message>
 </context>
 <context>
@@ -420,8 +420,8 @@
     <message>
         <source>Attach an image.
 The attached image will be analyzed and integrated into the response by the AI.</source>
-        <translation>Joindre uma imagem.
-L&apos;imagnanexada será analisada e integrada pelo IA na resposta.</translation>
+        <translation>Anexar uma imagem.
+A imagem anexada será analisada e integrada pela IA na resposta.</translation>
     </message>
 </context>
 <context>
@@ -496,19 +496,19 @@ L&apos;imagnanexada será analisada e integrada pelo IA na resposta.</translatio
     </message>
     <message>
         <source>Disables the distribution of spacing in pixels.</source>
-        <translation>desativa a répartition do espacement em pixels.</translation>
+        <translation>desativa a distribuição do espaçamento em pixels.</translation>
     </message>
     <message>
         <source>Sets the left or top border of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation>Define o borda esquerda ou superior da zone ou do elemento alvo como ponto de partida, em função do orientation da répartition.</translation>
+        <translation>Define o borda esquerda ou superior da zone ou do elemento alvo como ponto de partida, em função do orientation da distribuição.</translation>
     </message>
     <message>
         <source>Sets the horizontal or vertical center of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation>Define o centro horizontal ou vertical da zone ou do elemento alvo como ponto de partida, em função do orientation da répartition.</translation>
+        <translation>Define o centro horizontal ou vertical da zone ou do elemento alvo como ponto de partida, em função do orientation da distribuição.</translation>
     </message>
     <message>
         <source>Sets the bottom or right border of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation>Define o borda direita ou inferior da zone ou do elemento alvo como ponto de partida, em função do orientation da répartition.</translation>
+        <translation>Define o borda direita ou inferior da zone ou do elemento alvo como ponto de partida, em função do orientation da distribuição.</translation>
     </message>
     <message>
         <source>Pixel spacing</source>
@@ -536,7 +536,7 @@ L&apos;imagnanexada será analisada e integrada pelo IA na resposta.</translatio
     </message>
     <message>
         <source>- A component in the selection uses anchors.</source>
-        <translation>- Un componente da seleção usa dos ancres.</translation>
+        <translation>- Um componente da seleção usa âncoras.</translation>
     </message>
 </context>
 <context>
@@ -586,11 +586,11 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     <name>AnchorButtons</name>
     <message>
         <source>Anchors can only be applied to child items.</source>
-        <translation>Os ancres ne podem ser aplicadas que aos elementos filhos.</translation>
+        <translation>As âncoras só podem ser aplicadas aos elementos filhos.</translation>
     </message>
     <message>
         <source>Anchors can only be applied to the base state.</source>
-        <translation>Os ancres ne podem ser aplicadas que aos estados base.</translation>
+        <translation>As âncoras só podem ser aplicadas ao estado base.</translation>
     </message>
     <message>
         <source>Anchor component to the top.</source>
@@ -734,7 +734,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Indicates whether the application is running or not</source>
@@ -807,7 +807,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Sets the coordinates of the first frame of the animated sprite.</source>
-        <translation>Define os coordenadas da primeira imagem do sprite animé.</translation>
+        <translation>Define os coordenadas da primeira imagem do sprite animado.</translation>
     </message>
     <message>
         <source>X</source>
@@ -835,7 +835,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Sets the number of frames in this animated sprite.</source>
-        <translation>Define o número de imagens do sprite animé.</translation>
+        <translation>Define o número de imagens do sprite animado.</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -895,7 +895,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Whether the sprite is animating or not.</source>
@@ -926,7 +926,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Whether the animation is running and/or paused.</source>
@@ -1000,7 +1000,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     <name>ApplicationScreensSpecifics</name>
     <message>
         <source>Application Screens</source>
-        <translation>Telas do application</translation>
+        <translation>Telas do aplicação</translation>
     </message>
 </context>
 <context>
@@ -1077,7 +1077,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Sets the color inside the Arc stroke. This only works if the &lt;b&gt;Full outline&lt;/b&gt; option is selected and the Arc stroke is not thick enough to fill the space.</source>
-        <translation>Define a cor ao interior do traçado do arc. isso ne fonctionne que se o option &lt;b&gt;Contour complet&lt;/b&gt; é selecionada e o contour do arc ne remplit pas o intégralité do espaço.</translation>
+        <translation>Define a cor ao interior do traçado do arc. isso ne fonctionne que se o option &lt;b&gt;Contorno complet&lt;/b&gt; é selecionada e o contorno do arc ne remplit pas o intégralité do espaço.</translation>
     </message>
     <message>
         <source>Stroke color</source>
@@ -1121,11 +1121,11 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Outline width</source>
-        <translation>largura do contour</translation>
+        <translation>largura do contorno</translation>
     </message>
     <message>
         <source>Sets the width of the outline that follows the Arc.</source>
-        <translation>Define a largura do contour próximo o arc.</translation>
+        <translation>Define a largura do contorno próximo o arc.</translation>
     </message>
     <message>
         <source>Full outline</source>
@@ -1137,7 +1137,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Toggles the &lt;b&gt;Full outline&lt;/b&gt; to have rounded edges.</source>
-        <translation>Bascule o &lt;b&gt;contour complet&lt;/b&gt; para obtenir dos bordas arrondis.</translation>
+        <translation>Bascule o &lt;b&gt;contorno complet&lt;/b&gt; para obtenir dos bordas arredondados.</translation>
     </message>
     <message>
         <source>Round start</source>
@@ -1145,7 +1145,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Toggles the starting edge of the &lt;b&gt;Full outline&lt;/b&gt; to be rounded.</source>
-        <translation>Ativa/desativa se o contour de início do &lt;b&gt;contour complet&lt;/b&gt; deve ser arrondi.</translation>
+        <translation>Ativa/desativa se o contorno de início do &lt;b&gt;contorno complet&lt;/b&gt; deve ser arredondado.</translation>
     </message>
     <message>
         <source>Round end</source>
@@ -1153,7 +1153,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Toggles the end edge of the &lt;b&gt;Full outline&lt;/b&gt; to be rounded.</source>
-        <translation>Ativa/desativa se o contour de fim do &lt;b&gt;contour complet&lt;/b&gt; deve ser arrondi.</translation>
+        <translation>Ativa/desativa se o contorno de fim do &lt;b&gt;contorno complet&lt;/b&gt; deve ser arredondado.</translation>
     </message>
     <message>
         <source>Cap style</source>
@@ -1175,7 +1175,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     <name>AssetImage</name>
     <message>
         <source>Remove the attached image.</source>
-        <translation>remover o imagnanexada.</translation>
+        <translation>Remover a imagem anexada.</translation>
     </message>
 </context>
 <context>
@@ -1271,7 +1271,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     <name>Attractor3DSection</name>
     <message>
         <source>Particle Attractor</source>
-        <translation>Attracteur de partículas</translation>
+        <translation>Atrator de partículas</translation>
     </message>
     <message>
         <source>Position Variation</source>
@@ -1334,7 +1334,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     <name>AudioEngineSection</name>
     <message>
         <source>Audio Engine</source>
-        <translation>Moteur audio</translation>
+        <translation>Motor audio</translation>
     </message>
     <message>
         <source>Master Volume</source>
@@ -1352,7 +1352,7 @@ Une valor entre 0 e 1 atenuará o son então que uma valor superior à 1 amplifi
     </message>
     <message>
         <source>Sets the current output mode of the engine.</source>
-        <translation>Define o modo de saída do moteur.</translation>
+        <translation>Define o modo de saída do motor.</translation>
     </message>
     <message>
         <source>Output Device</source>
@@ -1494,7 +1494,7 @@ Une valor positive augmente a reverberação para os hautes fréquences e étouf
     </message>
     <message>
         <source>Show colored axis indicator lines.</source>
-        <translation>exibe dos linhas colorées para indiquer os eixos.</translation>
+        <translation>Exibir linhas coloridas para indicar os eixos.</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -1696,11 +1696,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <source>Bar spacing in the X and Z dimensions</source>
-        <translation>Espacement dos barres em os dimensões X e Z</translation>
+        <translation>Espaçamento dos barres em os dimensões X e Z</translation>
     </message>
     <message>
         <source>Col</source>
@@ -1712,11 +1712,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Relative Spacing</source>
-        <translation>Espacement relatif</translation>
+        <translation>Espaçamento relatif</translation>
     </message>
     <message>
         <source>Set bar spacing relative to thickness</source>
-        <translation>Define um espacement dépendant do espessura</translation>
+        <translation>Define um espaçamento dépendant do espessura</translation>
     </message>
     <message>
         <source>Series Margin</source>
@@ -1747,7 +1747,7 @@ o caminho deve ser relatif.</translation>
     <name>BevelSection</name>
     <message>
         <source>Corner Bevel</source>
-        <translation>Coins biseautés</translation>
+        <translation>Cantos biseautés</translation>
     </message>
     <message>
         <source>Top</source>
@@ -1755,7 +1755,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets a flat cut on the top left or right corners.</source>
-        <translation>Define uma coupe plate em os coins supérieurs esquerda e direita.</translation>
+        <translation>Define uma coupe plate em os cantos supérieurs esquerda e direita.</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -1763,7 +1763,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets a flat cut on the bottom left or right corners.</source>
-        <translation>Define uma coupe plate em os coins inférieurs esquerda e direita.</translation>
+        <translation>Define uma coupe plate em os cantos inférieurs esquerda e direita.</translation>
     </message>
     <message>
         <source>Global</source>
@@ -1771,14 +1771,14 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets a flat cut on all of the corners.</source>
-        <translation>Define uma coupe plate para todos os coins.</translation>
+        <translation>Define uma coupe plate para todos os cantos.</translation>
     </message>
 </context>
 <context>
     <name>BidirectionalBindingSpecifics</name>
     <message>
         <source>Bidrectional Binding</source>
-        <translation>Liaison bidirectionnelle</translation>
+        <translation>Ligação bidirectionnelle</translation>
     </message>
     <message>
         <source>Target 01</source>
@@ -1786,7 +1786,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Target of the binding.</source>
-        <translation>alvo da liaison.</translation>
+        <translation>alvo da ligação.</translation>
     </message>
     <message>
         <source>Property 01</source>
@@ -1809,11 +1809,11 @@ o caminho deve ser relatif.</translation>
     <name>BindingsDialog</name>
     <message>
         <source>Owner</source>
-        <translation>Propriétaire</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>The owner of the property</source>
-        <translation>o propriétaire da propriedade</translation>
+        <translation>O proprietário da propriedade</translation>
     </message>
 </context>
 <context>
@@ -1824,7 +1824,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the component and its property from which the value is copied.</source>
-        <translation>Define a propriedade do componente à partir de lao qualle a valor é copiée.</translation>
+        <translation>Define o componente e a propriedade de origem da qual o valor é copiado.</translation>
     </message>
     <message>
         <source>To</source>
@@ -1832,14 +1832,14 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the property of the selected component to which the copied value is assigned.</source>
-        <translation>Define a propriedade do componente selecionado em lao qualle a valor copiée é assignée.</translation>
+        <translation>Define a propriedade do componente selecionado à qual o valor copiado é atribuído.</translation>
     </message>
 </context>
 <context>
     <name>BindingsListView</name>
     <message>
         <source>Removes the binding.</source>
-        <translation>Supprime a liaison.</translation>
+        <translation>Remove a ligação.</translation>
     </message>
 </context>
 <context>
@@ -1855,34 +1855,34 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>The mode which is used when foreground source is blended over source.</source>
-        <translation>o modo de mélange utilizado quando o elemento ao premier plan é apposé na fonte.</translation>
+        <translation>O modo de mistura usado quando a origem de primeiro plano é mesclada sobre a origem.</translation>
     </message>
     <message>
         <source>Foreground source</source>
-        <translation>elemento de premier plan</translation>
+        <translation>Origem de primeiro plano</translation>
     </message>
     <message>
         <source>The component that is going to be blended over the source.</source>
-        <translation>o componente que vai ser apposé na fonte.</translation>
+        <translation>O componente que será mesclado sobre a origem.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
     <name>BlurSection</name>
     <message>
         <source>Blur</source>
-        <translation>Flou</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -1902,11 +1902,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the source image for the border.</source>
-        <translation>Define o imagem fonte para a bordure.</translation>
+        <translation>Define o imagem fonte para a borda.</translation>
     </message>
     <message>
         <source>Sets the dimension of the border image.</source>
-        <translation>Define os dimensões do imagem de bordure.</translation>
+        <translation>Define os dimensões do imagem de borda.</translation>
     </message>
     <message>
         <source>W</source>
@@ -1946,35 +1946,35 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Border left</source>
-        <translation>Bordure esquerda</translation>
+        <translation>Borda esquerda</translation>
     </message>
     <message>
         <source>Sets the left border.</source>
-        <translation>Define a bordure esquerda.</translation>
+        <translation>Define a borda esquerda.</translation>
     </message>
     <message>
         <source>Border right</source>
-        <translation>Bordure direita</translation>
+        <translation>Borda direita</translation>
     </message>
     <message>
         <source>Sets the right border.</source>
-        <translation>Define a bordure direita.</translation>
+        <translation>Define a borda direita.</translation>
     </message>
     <message>
         <source>Border top</source>
-        <translation>Bordure haute</translation>
+        <translation>Borda haute</translation>
     </message>
     <message>
         <source>Sets the top border.</source>
-        <translation>Define a bordure haute.</translation>
+        <translation>Define a borda haute.</translation>
     </message>
     <message>
         <source>Border bottom</source>
-        <translation>Bordure basse</translation>
+        <translation>Borda basse</translation>
     </message>
     <message>
         <source>Sets the bottom border.</source>
-        <translation>Define a bordure basse.</translation>
+        <translation>Define a borda basse.</translation>
     </message>
     <message>
         <source>Mirror</source>
@@ -2002,7 +2002,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Border Image</source>
-        <translation>Imagem com bordure</translation>
+        <translation>Imagem com borda</translation>
     </message>
     <message>
         <source>Source size</source>
@@ -2013,7 +2013,7 @@ o caminho deve ser relatif.</translation>
     <name>BorderItemSpecifics</name>
     <message>
         <source>Border Item</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Stroke color</source>
@@ -2021,7 +2021,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the stroke color of the Border.</source>
-        <translation>Define a cor de traçado da bordure.</translation>
+        <translation>Define a cor de traçado da borda.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -2029,7 +2029,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the stroke thickness of the Border.</source>
-        <translation>Define o espessura do traçado da bordure.</translation>
+        <translation>Define o espessura do traçado da borda.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -2122,15 +2122,15 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -2174,7 +2174,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <source>Angle of the brush</source>
@@ -2257,18 +2257,18 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the size multiplier for the buffer.</source>
-        <translation>Define o multiplicateur de tamanho para este tampon.</translation>
+        <translation>Define o multiplicador de tamanho para este buffer.</translation>
     </message>
 </context>
 <context>
     <name>BusyIndicatorSpecifics</name>
     <message>
         <source>Busy Indicator</source>
-        <translation>Indicateur doccupation</translation>
+        <translation>Indicador de atividade</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Toggles if the busy indicator indicates activity.</source>
@@ -2283,7 +2283,7 @@ o caminho deve ser relatif.</translation>
     <name>ButtonSection</name>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -2306,7 +2306,7 @@ o caminho deve ser relatif.</translation>
     <name>ButtonSpecifics</name>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Text</source>
@@ -2510,11 +2510,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the letter spacing for the text.</source>
-        <translation>Define o espacement dos lettres do texto.</translation>
+        <translation>Define o espaçamento dos lettres do texto.</translation>
     </message>
     <message>
         <source>Sets the word spacing for the text.</source>
-        <translation>Define o espacement dos mots do texto.</translation>
+        <translation>Define o espaçamento dos mots do texto.</translation>
     </message>
     <message>
         <source>Sets the line height for the text.</source>
@@ -2566,11 +2566,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation>Espacement dos lettres</translation>
+        <translation>Espaçamento dos lettres</translation>
     </message>
     <message>
         <source>Word spacing</source>
-        <translation>Espacement dos mots</translation>
+        <translation>Espaçamento dos mots</translation>
     </message>
     <message>
         <source>Line height</source>
@@ -2593,11 +2593,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Roundness</source>
-        <translation>Arrondi</translation>
+        <translation>Arredondado</translation>
     </message>
     <message>
         <source>Diameter of the rounding circle at the corners</source>
-        <translation>Diâmetro darrondissement aos coins</translation>
+        <translation>Diâmetro darrondissement aos cantos</translation>
     </message>
     <message>
         <source>Drop Shadow</source>
@@ -2605,7 +2605,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Enable border drop shadow</source>
-        <translation>ativa o ombre portée da bordure</translation>
+        <translation>ativa o ombre portée da borda</translation>
     </message>
     <message>
         <source>Plot Area</source>
@@ -2973,15 +2973,15 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -3027,15 +3027,15 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -3043,7 +3043,7 @@ o caminho deve ser relatif.</translation>
     <message>
         <source>Colorized Image</source>
         <translatorcomment>colorée?</translatorcomment>
-        <translation>Imagem teintée</translation>
+        <translation>Imagem colorizada</translation>
     </message>
     <message>
         <source>Image color</source>
@@ -3074,11 +3074,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Column spacing</source>
-        <translation>Espacement dos colunas</translation>
+        <translation>Espaçamento dos colunas</translation>
     </message>
     <message>
         <source>Sets the space between the items in pixels in the &lt;b&gt;Column Layout&lt;/b&gt;.</source>
-        <translation>Define o espacement em pixels entre os elementos do &lt;b&gt;agencement em colonne&lt;/b&gt;.</translation>
+        <translation>Define o espaçamento em pixels entre os elementos do &lt;b&gt;agencement em colonne&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -3105,11 +3105,11 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <source>Sets the spacing between column items.</source>
-        <translation>Define o espacement entre os colunas.</translation>
+        <translation>Define o espaçamento entre os colunas.</translation>
     </message>
 </context>
 <context>
@@ -3592,7 +3592,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>No materials available. Make sure you have an internet connection.</source>
-        <translation>nenhum material disponível. Assurez-vous davoir uma conexão Internet.</translation>
+        <translation>Nenhum material disponível. Verifique se você tem uma conexão com a Internet.</translation>
     </message>
     <message>
         <source>No match found.</source>
@@ -3672,7 +3672,7 @@ isso ne pode ser cancelado.</translation>
     <name>ContentLibraryTexturesView</name>
     <message>
         <source>No textures available. Make sure you have an internet connection.</source>
-        <translation>nenhuma texture disponível. Assurez-vous davoir uma conexão Internet.</translation>
+        <translation>Nenhuma textura disponível. Verifique se você tem uma conexão com a Internet.</translation>
     </message>
     <message>
         <source>No match found.</source>
@@ -3768,7 +3768,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Sets the spacing between internal elements of the component.</source>
-        <translation>Define o espacement entre os elementos internes do componente.</translation>
+        <translation>Define o espaçamento entre os elementos internes do componente.</translation>
     </message>
     <message>
         <source>Toggles if the component supports mouse wheel events.</source>
@@ -3784,7 +3784,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <source>Wheel</source>
@@ -3810,7 +3810,7 @@ isso ne pode ser cancelado.</translation>
     <name>CornerRadiusSection</name>
     <message>
         <source>Corner Radiuses</source>
-        <translation>Rayons dos coins</translation>
+        <translation>Rayons dos cantos</translation>
     </message>
     <message>
         <source>Top</source>
@@ -3818,7 +3818,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Toggles the top left or right corner to a rounded shape.</source>
-        <translation>Ativa/desativa o arrondi dos coins supérieurs esquerda e direita.</translation>
+        <translation>Ativa/desativa o arredondado dos cantos supérieurs esquerda e direita.</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -3826,7 +3826,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Toggles the bottom left or right corner to a rounded shape.</source>
-        <translation>Ativa/desativa o arrondi dos coins inférieurs esquerda e direita.</translation>
+        <translation>Ativa/desativa o arredondado dos cantos inférieurs esquerda e direita.</translation>
     </message>
     <message>
         <source>Global</source>
@@ -3834,7 +3834,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Toggles all the corners into a rounded shape.</source>
-        <translation>Ativa/desativa o arrondi de todos os coins.</translation>
+        <translation>Ativa/desativa o arredondado de todos os cantos.</translation>
     </message>
 </context>
 <context>
@@ -3953,7 +3953,7 @@ Os materiais «&#xa0;unshaded&#xa0;» ne são pas afetados pelo environnement (p
     </message>
     <message>
         <source>Gap</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
 </context>
 <context>
@@ -4026,7 +4026,7 @@ calcule a luz diffuse e especular para cada pixel desenhado.</translation>
     </message>
     <message>
         <source>Sets how the colors of the model blend with colors behind it.</source>
-        <translation>Define como os cores do modelo se mélangent com os cores atrás.</translation>
+        <translation>Define como as cores do modelo se misturam com as cores ao fundo.</translation>
     </message>
     <message>
         <source>Enable Vertex Colors</source>
@@ -4316,7 +4316,7 @@ Une valor de 0 n&apos;enveloppe pas a luz, tandis que uma valor de 1 vai envelop
     <name>DepthOfFieldHQBlurSection</name>
     <message>
         <source>Blur</source>
-        <translation>Flou</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Blur Amount</source>
@@ -4336,18 +4336,18 @@ Une valor de 0 n&apos;enveloppe pas a luz, tandis que uma valor de 1 vai envelop
     </message>
     <message>
         <source>Focus Range</source>
-        <translation>Plage de focus</translation>
+        <translation>Faixa de foco</translation>
     </message>
     <message>
         <source>Focus range of the blur.</source>
-        <translation>Plage de focus do desfoque.</translation>
+        <translation>Faixa de foco do desfoque.</translation>
     </message>
 </context>
 <context>
     <name>DesaturateSection</name>
     <message>
         <source>Desaturate</source>
-        <translation>Désaturation</translation>
+        <translation>Dessaturação</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -4355,30 +4355,30 @@ Une valor de 0 n&apos;enveloppe pas a luz, tandis que uma valor de 1 vai envelop
     </message>
     <message>
         <source>Strength of the desaturate.</source>
-        <translation>Force de désaturation.</translation>
+        <translation>Intensidade da dessaturação.</translation>
     </message>
 </context>
 <context>
     <name>DesaturationEffectSpecifics</name>
     <message>
         <source>Desaturation</source>
-        <translation>Désaturation</translation>
+        <translation>Dessaturação</translation>
     </message>
     <message>
         <source>How much the source colors are desaturated.</source>
-        <translation>valor indiquant o niveau de désaturation dos cores.</translation>
+        <translation>Valor que indica o nível de dessaturação das cores.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -4532,11 +4532,11 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     <name>DirectionalBlurEffectSpecifics</name>
     <message>
         <source>Directional Blur</source>
-        <translation>Flou directionnel</translation>
+        <translation>Desfoque direcional</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <source>The direction for the blur. Blur is applied to both sides of each pixel. Therefore, setting the direction to 0 and 180 produces the same result.</source>
@@ -4560,19 +4560,19 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparante</translation>
+        <translation>Borda transparante</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -4603,15 +4603,15 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -4626,7 +4626,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Radius of the effect.</source>
-        <translation>Rayon do effet.</translation>
+        <translation>Raio do efeito.</translation>
     </message>
     <message>
         <source>Width</source>
@@ -4658,14 +4658,14 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Center of the distortion.</source>
-        <translation>Centro da distortion.</translation>
+        <translation>Centro da distorção.</translation>
     </message>
 </context>
 <context>
     <name>DistortionSphereSection</name>
     <message>
         <source>Distortion</source>
-        <translation>Distortion</translation>
+        <translation>Distorção</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -4673,7 +4673,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Radius of the effect.</source>
-        <translation>Rayon do effet.</translation>
+        <translation>Raio do efeito.</translation>
     </message>
     <message>
         <source>Height</source>
@@ -4681,7 +4681,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Height of the distortion.</source>
-        <translation>altura da distortion.</translation>
+        <translation>Altura da distorção.</translation>
     </message>
     <message>
         <source>Center</source>
@@ -4689,14 +4689,14 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Center of the distortion.</source>
-        <translation>Centro da distortion.</translation>
+        <translation>Centro da distorção.</translation>
     </message>
 </context>
 <context>
     <name>DistortionSpiralSection</name>
     <message>
         <source>Distortion</source>
-        <translation>Distortion</translation>
+        <translation>Distorção</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -4704,7 +4704,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Radius of the effect.</source>
-        <translation>Rayon do effet.</translation>
+        <translation>Raio do efeito.</translation>
     </message>
     <message>
         <source>Strength</source>
@@ -4720,7 +4720,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Center of the distortion.</source>
-        <translation>Centro da distortion.</translation>
+        <translation>Centro da distorção.</translation>
     </message>
 </context>
 <context>
@@ -4776,15 +4776,15 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     <name>DrawerSpecifics</name>
     <message>
         <source>Drawer</source>
-        <translation>Tiroir</translation>
+        <translation>Gaveta</translation>
     </message>
     <message>
         <source>Edge</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Defines the edge of the window the drawer will open from.</source>
-        <translation>Define a bordure da janela à partir de lao qualle o tiroir se ouvre.</translation>
+        <translation>Define a borda da janela a partir da qual a gaveta será aberta.</translation>
     </message>
     <message>
         <source>Drag margin</source>
@@ -4792,7 +4792,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Defines the distance from the screen edge within which drag actions will open the drawer.</source>
-        <translation>Define a distância da bordure do tela à partir de lao qualle os actions de glissement ouvrent o tiroir.</translation>
+        <translation>Define a distância da borda do tela à partir de lao qualle os actions de glissement ouvrent o tiroir.</translation>
     </message>
 </context>
 <context>
@@ -4823,7 +4823,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Samples per pixel for edge softening blur calculation. Ideally, this value should be twice as large as the highest required radius value plus one.</source>
-        <translation>Número damostras por pixel para o calcul do adoucissement dos bordures do ombre. Idéalement, esta valor deve correspondre à dois fois a valor do mas grand rayon desejado, mas un.</translation>
+        <translation>Número damostras por pixel para o calcul do adoucissement dos bordas do ombre. Idéalement, esta valor deve correspondre à dois fois a valor do mas grand rayon desejado, mas un.</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -4863,19 +4863,19 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparentee</translation>
+        <translation>Borda transparentee</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -4886,7 +4886,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     <name>DynamicBurst3DSection</name>
     <message>
         <source>Particle Dynamic Burst</source>
-        <translation>Rafale dynamique de partículas</translation>
+        <translation>Rajada dinâmica de partículas</translation>
     </message>
     <message>
         <source>Trigger Mode</source>
@@ -4967,7 +4967,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     <name>EdgeDetectSection</name>
     <message>
         <source>Edge</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Strength</source>
@@ -4975,7 +4975,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Strength of the edge.</source>
-        <translation>Force da bordure.</translation>
+        <translation>Force da borda.</translation>
     </message>
 </context>
 <context>
@@ -5249,7 +5249,7 @@ Voulez-vous vraiment remover este nó&#xa0;:
     </message>
     <message>
         <source>Passes</source>
-        <translation>Passes</translation>
+        <translation>Passagens</translation>
     </message>
     <message>
         <source>Sets the render passes of the effect.</source>
@@ -5297,7 +5297,7 @@ Voulez-vous vraiment remover este nó&#xa0;:
     </message>
     <message>
         <source>Blur</source>
-        <translation>Flou</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Sets the intensity of the &lt;b&gt;Layer Blur&lt;/b&gt; on the component.</source>
@@ -5340,7 +5340,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Sets the softness of the component shadow. A larger value causes the edges of the shadow to appear more blurry.</source>
-        <translation>Define a douceur do sombreamento do componente. Une mas grande valor rend os bordures do ombre mas floues.</translation>
+        <translation>Define a douceur do sombreamento do componente. Une mas grande valor rend os bordas do ombre mas floues.</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -5417,7 +5417,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado do contour.</translation>
+        <translation>Define a cor do traçado do contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -5425,7 +5425,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -5532,7 +5532,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Set Binding</source>
-        <translation>Definir a liaison</translation>
+        <translation>Definir a ligação</translation>
     </message>
     <message>
         <source>Export Property as Alias</source>
@@ -5742,11 +5742,11 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Alpha Mix</source>
-        <translation>Mélange alpha</translation>
+        <translation>Mistura alfa</translation>
     </message>
     <message>
         <source>Sets the amount of color grading to mix with the scene.</source>
-        <translation>Define a quantidade de étalonnage à mélanger com a cena.</translation>
+        <translation>Define a quantidade de gradação de cor a ser misturada com a cena.</translation>
     </message>
     <message>
         <source>Ambient Occlusion (SSAO)</source>
@@ -5802,7 +5802,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Enables scattering the edges of the ambient occlusion shadow bands to improve smoothness.</source>
-        <translation>ativa a dispersion dos bordures dos bandes dombres docclusion ambiente afin de melhorar a douceur.</translation>
+        <translation>ativa a dispersion dos bordas dos bandes dombres docclusion ambiente afin de melhorar a douceur.</translation>
     </message>
     <message>
         <source>Depth of Field</source>
@@ -5822,7 +5822,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Focus Range</source>
-        <translation>Plage de focus</translation>
+        <translation>Faixa de foco</translation>
     </message>
     <message>
         <source>Sets the range of distances from the focus distance that are in focus.</source>
@@ -5876,7 +5876,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Bloom</source>
-        <translation>Flou lumineux</translation>
+        <translation>Brilho difuso</translation>
     </message>
     <message>
         <source>Sets the amount of bloom applied to the glow effect.</source>
@@ -6044,7 +6044,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Blur</source>
-        <translation>Flou</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Set amount of blur to apply to the lens flare.</source>
@@ -6195,19 +6195,19 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparentee</translation>
+        <translation>Borda transparentee</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -6399,7 +6399,7 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Sets if the edges of the flickable should be soft or hard.</source>
-        <translation>Define se a bordure do flickable deve ser douce ou solide.</translation>
+        <translation>Define se a borda do flickable deve ser douce ou solide.</translation>
     </message>
     <message>
         <source>Sets how fast an item can be flicked.</source>
@@ -6531,7 +6531,7 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Sets the spacing between flow items.</source>
-        <translation>Define o espacement entre os elementos do flux.</translation>
+        <translation>Define o espaçamento entre os elementos do flux.</translation>
     </message>
     <message>
         <source>Sets the direction of flow items.</source>
@@ -6547,7 +6547,7 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
 </context>
 <context>
@@ -6799,11 +6799,11 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation>Espacement dos lettres</translation>
+        <translation>Espaçamento dos lettres</translation>
     </message>
     <message>
         <source>Word spacing</source>
-        <translation>Espacement dos mots</translation>
+        <translation>Espaçamento dos mots</translation>
     </message>
     <message>
         <source>Auto kerning</source>
@@ -6884,15 +6884,15 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -6927,19 +6927,19 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparentee</translation>
+        <translation>Borda transparentee</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -6950,7 +6950,7 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     <name>GaussianBlurSection</name>
     <message>
         <source>Blur</source>
-        <translation>Flou</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -7081,7 +7081,7 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>The softness of the glow. A larger radius causes the edges of the glow to appear more blurry. Depending on the radius value, value of the samples should be set to sufficiently large to ensure the visual quality.</source>
-        <translation>a douceur do brilho. Un rayon mas grand rend os bordures do brilho mas floues. a quantidade damostras deve ser definida próximo o rayon afin dassurer uma qualidade visuelle correcte.</translation>
+        <translation>a douceur do brilho. Un rayon mas grand rend os bordas do brilho mas floues. a quantidade damostras deve ser definida próximo o rayon afin dassurer uma qualidade visuelle correcte.</translation>
     </message>
     <message>
         <source>Samples</source>
@@ -7089,7 +7089,7 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Samples per pixel for edge softening blur calculation. A larger value produces better quality, but is slower to render. Ideally, this value should be twice as large as the highest required radius value plus one.</source>
-        <translation>o número damostras por pixel para o calcul do desfoque dadoucissement dos bordures. Une mas grande valor entraine uma mas grande qualidade mas ralentit o renderização. esta valor deve ser dois fois mas grande que o mas grand rayon desejado, mas un.</translation>
+        <translation>o número damostras por pixel para o calcul do desfoque dadoucissement dos bordas. Une mas grande valor entraine uma mas grande qualidade mas ralentit o renderização. esta valor deve ser dois fois mas grande que o mas grand rayon desejado, mas un.</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -7101,19 +7101,19 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparentee</translation>
+        <translation>Borda transparentee</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -7439,11 +7439,11 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <source>Sets the space between the items in pixels in the rows and columns in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation>Define o espacement em pixels entre os elementos dos linhas e colunas em o &lt;b&gt;agencement em grade&lt;/b&gt;.</translation>
+        <translation>Define o espaçamento em pixels entre os elementos dos linhas e colunas em o &lt;b&gt;agencement em grade&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -7534,7 +7534,7 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
 </context>
 <context>
@@ -7822,15 +7822,15 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -8078,7 +8078,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>The softness of the shadow. A larger radius causes the edges of the shadow to appear more blurry.</source>
-        <translation>a douceur do sombreamento. Un mas grand rayon rend os bordures do sombreamento mas floues.</translation>
+        <translation>a douceur do sombreamento. Un mas grand rayon rend os bordas do sombreamento mas floues.</translation>
     </message>
     <message>
         <source>Samples</source>
@@ -8086,7 +8086,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Samples per pixel for edge softening blur calculation. Ideally, this value should be twice as large as the highest required radius value plus one.</source>
-        <translation>Número damostras por pixel para o calcul do desfoque adoucissant os bordures. Idéalement, esta valor deve ser dois fois mas grande que o mas grand rayon, mas un.</translation>
+        <translation>Número damostras por pixel para o calcul do desfoque adoucissant os bordas. Idéalement, esta valor deve ser dois fois mas grande que o mas grand rayon, mas un.</translation>
     </message>
     <message>
         <source>Spread</source>
@@ -8094,7 +8094,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>The part of the shadow color that is strengthened near the source edges.</source>
-        <translation>a partie da cor do sombreamento que deve ser renforcée ao niveau dos bordures da fonte.</translation>
+        <translation>a partie da cor do sombreamento que deve ser renforcée ao niveau dos bordas da fonte.</translation>
     </message>
     <message>
         <source>Fast</source>
@@ -8134,15 +8134,15 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -8737,15 +8737,15 @@ dessinée na texture.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -8768,7 +8768,7 @@ dessinée na texture.</translation>
     </message>
     <message>
         <source>Raycasting bias to avoid self-intersection artifacts.</source>
-        <translation>Biais de lancer de rayon permettant de éviter os artefacts liés aos intersections com soi-mesmo.</translation>
+        <translation>Biais de lancer de rayon permettant de éviter os artefacts vinculados aos intersections com soi-mesmo.</translation>
     </message>
     <message>
         <source>Opacity Threshold</source>
@@ -8926,7 +8926,7 @@ dessinée na texture.</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <source>Move velocity</source>
@@ -8950,7 +8950,7 @@ dessinée na texture.</translation>
     </message>
     <message>
         <source>Sets the spacing between components.</source>
-        <translation>Define o espacement entre os componentes.</translation>
+        <translation>Define o espaçamento entre os componentes.</translation>
     </message>
     <message>
         <source>Sets in pixels how far the components are kept loaded outside the view&apos;s visible area.</source>
@@ -9225,7 +9225,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Show application output.</source>
-        <translation>exibir a saída do application.</translation>
+        <translation>exibir a saída do aplicação.</translation>
     </message>
     <message>
         <source>Switch to Design Mode.</source>
@@ -9332,7 +9332,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Adds a Connection, Binding, or Custom Property to the components.</source>
-        <translation>Ajoute uma conexão, liaison ou uma propriedade personalizada aos componentes.</translation>
+        <translation>Ajoute uma conexão, ligação ou uma propriedade personalizada aos componentes.</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -9348,7 +9348,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Invalid binding. Please use a valid non-cyclic binding.</source>
-        <translation>Liaison invalide. Veuillez utilisez uma valor de liaison não cyclique.</translation>
+        <translation>Ligação invalide. Veuillez utilisez uma valor de ligação não cyclique.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -9393,7 +9393,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Invalid binding. Cyclic binding is not allowed.</source>
-        <translation>Liaison invalide. Os liaisons cycliques ne são pas autorisées.</translation>
+        <translation>Ligação invalide. Os liaisons cycliques ne são pas autorisées.</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -9401,7 +9401,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Set Binding</source>
-        <translation>Definir a liaison</translation>
+        <translation>Definir a ligação</translation>
     </message>
     <message>
         <source>Duplicate mode</source>
@@ -9473,7 +9473,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>To preview your application on an Android device:</source>
-        <translation>para prévisualiser votre application em um dispositivo Android&#xa0;:</translation>
+        <translation>para prévisualiser votre aplicação em um dispositivo Android&#xa0;:</translation>
     </message>
     <message>
         <source>Select the “GET IT ON Google Play” link or scan the QR code below with your Android device.</source>
@@ -9493,7 +9493,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Open the application you want to preview in Qt Design Studio.</source>
-        <translation>Ouvrez o application que vous souhaitez prévisualiser em Qt&#xa0;Design&#xa0;Studio.</translation>
+        <translation>Ouvrez o aplicação que vous souhaitez prévisualiser em Qt&#xa0;Design&#xa0;Studio.</translation>
     </message>
     <message>
         <source>Go to Run dropdown in the top toolbar and select Device Manager.</source>
@@ -9671,15 +9671,15 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -10138,7 +10138,7 @@ Celle-ci remplacera a sonde de luz da cena.</translation>
     <name>MotionBlurSection</name>
     <message>
         <source>Blur</source>
-        <translation>Flou</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Fade Amount</source>
@@ -10510,15 +10510,15 @@ Celle-ci remplacera a sonde de luz da cena.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -10959,7 +10959,7 @@ a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Emit Bursts</source>
-        <translation>Rafales de emissão</translation>
+        <translation>Rajadas de emissão</translation>
     </message>
     <message>
         <source>Sets a list of EmitBurst3D elements to declaratively define bursts.</source>
@@ -11106,7 +11106,7 @@ a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets if the shape should be filled or just use the shape outlines.</source>
-        <translation>Define se a forma deve ser remplie ou n&apos;usar que os bordures.</translation>
+        <translation>Define se a forma deve ser remplie ou n&apos;usar que os bordas.</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -11129,7 +11129,7 @@ a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets if the shape should be filled or just use the shape outlines.</source>
-        <translation>Define se a forma deve ser remplie ou n&apos;usar que os bordures.</translation>
+        <translation>Define se a forma deve ser remplie ou n&apos;usar que os bordas.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -11485,7 +11485,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Whether the physics world is running.</source>
@@ -11576,7 +11576,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado do contour.</translation>
+        <translation>Define a cor do traçado do contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -11584,7 +11584,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -11747,11 +11747,11 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <source>Spacing between internal elements of the control.</source>
-        <translation>Espacement entre os elementos internes do controle.</translation>
+        <translation>Espaçamento entre os elementos internes do controle.</translation>
     </message>
 </context>
 <context>
@@ -11855,7 +11855,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Blend Mode</source>
-        <translation>Modo de mélange</translation>
+        <translation>Modo de mistura</translation>
     </message>
     <message>
         <source>Sets how the colors of the model rendered blend with those behind it.</source>
@@ -12011,7 +12011,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Sets the minimum number of samples used for performing Parallex Occlusion Mapping using the heightMap.</source>
-        <translation>Define o número minimum damostras da texture dos hauteurs à usar durante do application do «&#xa0;Parallax Occlusion Mapping&#xa0;».</translation>
+        <translation>Define o número minimum damostras da texture dos hauteurs à usar durante do aplicação do «&#xa0;Parallax Occlusion Mapping&#xa0;».</translation>
     </message>
     <message>
         <source>Max Map Samples</source>
@@ -12019,7 +12019,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Sets the maximum number of samples used for performing Parallex Occlusion Mapping using the heightMap.</source>
-        <translation>Define o número maximum damostras da texture dos hauteurs à usar durante do application do «&#xa0;Parallax Occlusion Mapping&#xa0;».</translation>
+        <translation>Define o número maximum damostras da texture dos hauteurs à usar durante do aplicação do «&#xa0;Parallax Occlusion Mapping&#xa0;».</translation>
     </message>
     <message>
         <source>Clearcoat</source>
@@ -12405,11 +12405,11 @@ Une barre de progressão em este modo exibe que uma operação
     <name>PropertiesDialog</name>
     <message>
         <source>Owner</source>
-        <translation>Propriétaire</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>The owner of the property</source>
-        <translation>o propriétaire da propriedade</translation>
+        <translation>O proprietário da propriedade</translation>
     </message>
 </context>
 <context>
@@ -14585,11 +14585,11 @@ Os componentes verrouillés ne podem ser ni modificados ni selecionados.</transl
     </message>
     <message>
         <source>To create an expression binding animation, delete all animations from this timeline.</source>
-        <translation>para criar uma expression de liaison danimação, supprimez todas os animations de esta linha temporelle.</translation>
+        <translation>para criar uma expression de ligação danimação, supprimez todas os animations de esta linha temporelle.</translation>
     </message>
     <message>
         <source>Expression binding</source>
-        <translation>Liaison de expression</translation>
+        <translation>Ligação de expression</translation>
     </message>
     <message>
         <source>Name for the timeline.</source>
@@ -14613,7 +14613,7 @@ Os componentes verrouillés ne podem ser ni modificados ni selecionados.</transl
     </message>
     <message>
         <source>Expression binding:</source>
-        <translation>Liaison de expression&#xa0;:</translation>
+        <translation>Ligação de expression&#xa0;:</translation>
     </message>
     <message>
         <source>Invalid Id</source>
@@ -15237,7 +15237,7 @@ Os componentes verrouillés ne podem ser ni modificados ni selecionados.</transl
     </message>
     <message>
         <source>Reset anchors for selected component.</source>
-        <translation>Redefinir os ancres para o componente selecionado.</translation>
+        <translation>Redefinir as âncoras para o componente selecionado.</translation>
     </message>
     <message>
         <source>Layout selected components in column layout.</source>
@@ -16108,7 +16108,7 @@ If the automatic download fails, Qt Creator proposes to open the download URL
 in the system&apos;s browser for manual download.</source>
         <translation>Baixar automatiquement os bibliotecas OpenSSL précompilées.
 
-estes bibliotecas devem ser intégrées com votre application se uma operação SSL
+estes bibliotecas devem ser intégrées com votre aplicação se uma operação SSL
 é effectuée. Trouvez a checkbox em «&#xa0;projetos&#xa0;&gt;&#xa0;Compiler&#xa0;&gt;&#xa0;Étapes de compilation&#xa0;&gt;
 Compilation do APK Android&#xa0;&gt;&#xa0;Bibliotecas additionnelles&#xa0;».
 se o download automática échoue, Qt Creator proposera dabrir o URL de download
@@ -16332,7 +16332,7 @@ em o navigateur sistema para um download manuel.</translation>
     </message>
     <message>
         <source>This is useful for apps that use SSL operations. The path can be defined in Edit &gt; Preferences &gt; Devices &gt; Android.</source>
-        <translation>Utile para os applications effectuant dos opérations SSL. o caminho pode ser definido em editar &gt; Preferências &gt; Dispositivos &gt; Android.</translation>
+        <translation>Utile para os aplicações effectuant dos opérations SSL. o caminho pode ser definido em editar &gt; Preferências &gt; Dispositivos &gt; Android.</translation>
     </message>
     <message>
         <source>Build Android APK</source>
@@ -16414,7 +16414,7 @@ o niveau minimum de API necessário pelo kit é %1.</translation>
     </message>
     <message>
         <source>Uninstall the existing app before deployment</source>
-        <translation>Désinstaller o application existante antes o implantação</translation>
+        <translation>Désinstaller o aplicação existante antes o implantação</translation>
     </message>
     <message>
         <source>Could not install custom APK.</source>
@@ -16453,7 +16453,7 @@ o kit supporte «&#xa0;%2&#xa0;», mas o dispositivo usa «&#xa0;%3&#xa0;».</tr
     </message>
     <message>
         <source>Android: The main ABI of the deployment device (%1) is not selected. The app execution or debugging might not work properly. Add it from Projects &gt; Build &gt; Build Steps &gt; qmake &gt; ABIs.</source>
-        <translation>Android&#xa0;: o ABI principal do dispositivo (%1) para o implantação não é selecionado. L&apos;execução ou o depuração do application pode ne pas fonctionner correctement. Ajoutez-o desde projetos &gt; Compilation &gt; Étapes de compilation &gt; qmake &gt; ABIs.</translation>
+        <translation>Android&#xa0;: o ABI principal do dispositivo (%1) para o implantação não é selecionado. L&apos;execução ou o depuração do aplicação pode ne pas fonctionner correctement. Ajoutez-o desde projetos &gt; Compilation &gt; Étapes de compilation &gt; qmake &gt; ABIs.</translation>
     </message>
     <message>
         <source>Deploying to %1</source>
@@ -16493,11 +16493,11 @@ o kit supporte «&#xa0;%2&#xa0;», mas o dispositivo usa «&#xa0;%3&#xa0;».</tr
     </message>
     <message>
         <source>Installing the app failed even after uninstalling the previous one.</source>
-        <translation>falha do installation do application, mesmo depois a désinstallation do application anterior.</translation>
+        <translation>falha do installation do aplicação, mesmo depois a désinstallation do aplicação anterior.</translation>
     </message>
     <message>
         <source>Installing the app failed with an unknown error.</source>
-        <translation>falha de installation do application com uma erro inconnue.</translation>
+        <translation>falha de installation do aplicação com uma erro inconnue.</translation>
     </message>
     <message>
         <source>Uninstalling the installed package may solve the issue.</source>
@@ -16708,11 +16708,11 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Copy application data</source>
-        <translation>Copie dos dados do application</translation>
+        <translation>Copie dos dados do aplicação</translation>
     </message>
     <message>
         <source>&lt;b&gt;Make install:&lt;/b&gt; Copy App Files to &quot;%1&quot;</source>
-        <translation>&lt;b&gt;Make install&#xa0;:&lt;/b&gt; Copie dos arquivos do application para «&#xa0;%1&#xa0;»</translation>
+        <translation>&lt;b&gt;Make install&#xa0;:&lt;/b&gt; Copie dos arquivos do aplicação para «&#xa0;%1&#xa0;»</translation>
     </message>
     <message>
         <source>&quot;%1&quot; step has an invalid C++ toolchain.</source>
@@ -16720,7 +16720,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Product type is not an application, not running the Make install step.</source>
-        <translation>o tipo do produit não é uma application. Pas de execução do etapa Make install.</translation>
+        <translation>o tipo do produit não é uma aplicação. Pas de execução do etapa Make install.</translation>
     </message>
     <message>
         <source>Removing directory %1</source>
@@ -16760,7 +16760,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Failed to find application directory.</source>
-        <translation>impossível de trouver o diretório do application.</translation>
+        <translation>impossível de trouver o diretório do aplicação.</translation>
     </message>
     <message>
         <source>Cannot find C++ debug server in NDK installation.</source>
@@ -16777,19 +16777,19 @@ isso ne pode ser cancelado.</translation>
     <message>
         <source>Art: Cleared App Profiles.</source>
         <translatorcomment>Art -&gt; Android Runtime</translatorcomment>
-        <translation>Art&#xa0;: profils dapplication nettoyés.</translation>
+        <translation>Art&#xa0;: profils da aplicação nettoyés.</translation>
     </message>
     <message>
         <source>Art: Clearing App Profiles failed.</source>
-        <translation>Art&#xa0;: nettoyage dos profils dapplication falhou.</translation>
+        <translation>Art&#xa0;: nettoyage dos profils da aplicação falhou.</translation>
     </message>
     <message>
         <source>Art: Compiled App Profiles.</source>
-        <translation>Art&#xa0;: profils dapplication compilés.</translation>
+        <translation>Art&#xa0;: profils da aplicação compilés.</translation>
     </message>
     <message>
         <source>Art: Compiling App Profiles failed.</source>
-        <translation>Art&#xa0;: compilation dos profils dapplication falhou.</translation>
+        <translation>Art&#xa0;: compilation dos profils da aplicação falhou.</translation>
     </message>
     <message>
         <source>Android Manifest editor</source>
@@ -16827,7 +16827,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>The structure of the Android manifest file is corrupted. Expected an &apos;application&apos; and &apos;activity&apos; sub node.</source>
-        <translation>a structure do arquivo manifest Android é corrompue. dos sous-nós «&#xa0;application&#xa0;» e «&#xa0;activity&#xa0;» são attendus.</translation>
+        <translation>a structure do arquivo manifest Android é corrompue. dos sous-nós «&#xa0;aplicação&#xa0;» e «&#xa0;activity&#xa0;» são attendus.</translation>
     </message>
     <message>
         <source> MiB</source>
@@ -16871,7 +16871,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Application Signature</source>
-        <translation>Signature do application</translation>
+        <translation>Signature do aplicação</translation>
     </message>
     <message>
         <source>Select Keystore File</source>
@@ -16891,7 +16891,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Build Android App Bundle (*.aab)</source>
-        <translation>Construire um bundle dapplication Android (*.aab)</translation>
+        <translation>Construire um bundle da aplicação Android (*.aab)</translation>
     </message>
     <message>
         <source>Additional Libraries</source>
@@ -16915,7 +16915,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>Product type is not an application, not building an APK.</source>
-        <translation>o tipo do produit construit não é uma application. Construction do arquivo APK cancelada.</translation>
+        <translation>o tipo do produit construit não é uma aplicação. Construction do arquivo APK cancelada.</translation>
     </message>
     <message>
         <source>Failed to run keytool.</source>
@@ -16931,11 +16931,11 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>No application build targets found in this project.</source>
-        <translation>nenhuma alvo de compilation para o application n&apos;a foi encontrada para este projeto.</translation>
+        <translation>nenhuma alvo de compilation para o aplicação n&apos;a foi encontrada para este projeto.</translation>
     </message>
     <message>
         <source>No Application Build Target</source>
-        <translation>nenhuma alvo de compilation para o application</translation>
+        <translation>nenhuma alvo de compilation para o aplicação</translation>
     </message>
     <message>
         <source>Select the build target for which to create the Android templates.</source>
@@ -16960,7 +16960,7 @@ isso ne pode ser cancelado.</translation>
     </message>
     <message>
         <source>It is highly recommended if you are planning to extend the Java side of your Qt application.</source>
-        <translation>Hautement recommandé se vous souhaitez étendre a partie Java de votre application Qt.</translation>
+        <translation>Hautement recommandé se vous souhaitez étendre a partie Java de votre aplicação Qt.</translation>
     </message>
     <message>
         <source>Select the Android package source directory.
@@ -17179,7 +17179,7 @@ Définissez a propriedade «&#xa0;%2&#xa0;» manualmente.</translation>
     <message>
         <source>A non-sticky splash screen is hidden automatically when an activity is drawn.
 To hide a sticky splash screen, invoke QtAndroid::hideSplashScreen().</source>
-        <translation>Un tela de inicialização não collant é caché automatiquement quando o activité é dessinée.
+        <translation>Un tela de inicialização não collant é em cache automatiquement quando o activité é dessinée.
 para cacher um tela de inicialização collant, appelez a função QtAndroid::hideSplashScreen().</translation>
     </message>
     <message>
@@ -17363,7 +17363,7 @@ para cacher um tela de inicialização collant, appelez a função QtAndroid::hi
     </message>
     <message>
         <source>Cannot debug: Only QML and native applications are supported.</source>
-        <translation>impossível de depurar&#xa0;: únicas os applications QML ou natives são prises em charge.</translation>
+        <translation>impossível de depurar&#xa0;: únicas os aplicações QML ou natives são prises em charge.</translation>
     </message>
     <message>
         <source>Cannot debug: Local executable is not set.</source>
@@ -17371,7 +17371,7 @@ para cacher um tela de inicialização collant, appelez a função QtAndroid::hi
     </message>
     <message>
         <source>Application ID:</source>
-        <translation>ID do application&#xa0;:</translation>
+        <translation>ID do aplicação&#xa0;:</translation>
     </message>
     <message>
         <source>Application Manager instance ID:</source>
@@ -17399,7 +17399,7 @@ para cacher um tela de inicialização collant, appelez a função QtAndroid::hi
     </message>
     <message>
         <source>Restarts the application in case it is already running.</source>
-        <translation>Redémarre o application se celle-ci é já em execução.</translation>
+        <translation>Redémarre o aplicação se celle-ci é já em execução.</translation>
     </message>
     <message>
         <source>Controller:</source>
@@ -17946,11 +17946,11 @@ executável&#xa0;: %2</translation>
     </message>
     <message>
         <source>Shuffle tests</source>
-        <translation>Mélanger os tests</translation>
+        <translation>Misturar os tests</translation>
     </message>
     <message>
         <source>Shuffles tests automatically on every iteration by the given seed.</source>
-        <translation>Mélange os tests automatiquement à cada itération, com a graine dado.</translation>
+        <translation>Mistura os tests automatiquement à cada itération, com a graine dado.</translation>
     </message>
     <message>
         <source>Repeats a test run (you might be required to increase the timeout to avoid canceling the tests).</source>
@@ -18578,7 +18578,7 @@ isso pode provoquer dos problemas durante do execução.
     </message>
     <message>
         <source>Hides warnings related to a deduced run configuration.</source>
-        <translation>Oculta os avertissements liés à déduction da configuração de execução.</translation>
+        <translation>Oculta os avertissements vinculados à déduction da configuração de execução.</translation>
     </message>
     <message>
         <source>Limit result output</source>
@@ -18642,7 +18642,7 @@ isso pode provoquer dos problemas durante do execução.
     </message>
     <message>
         <source>Group results by application</source>
-        <translation>Regrupelos resultados por application</translation>
+        <translation>Regrupelos resultados por aplicação</translation>
     </message>
     <message>
         <source>Process arguments</source>
@@ -18724,11 +18724,11 @@ aviso&#xa0;: fonctionnalité expérimentale pouvant entraîner um falha durante 
     </message>
     <message>
         <source>Mixing test frameworks and test tools.</source>
-        <translation>Mélanger os cadriciels de test e os ferramentas de test.</translation>
+        <translation>Misturar os cadriciels de test e os ferramentas de test.</translation>
     </message>
     <message>
         <source>Mixing test frameworks and test tools can lead to duplicating run information when using &quot;Run All Tests&quot;, for example.</source>
-        <translation>o mélange dos cadriciels de test e dos ferramentas de test pode mener à dos informations de execução dupliquées, especialmente durante o uso da fonctionnalité «&#xa0;executar todos os tests&#xa0;».</translation>
+        <translation>A mistura de frameworks e ferramentas de teste pode levar a informações de execução duplicadas, especialmente ao usar o recurso «&#xa0;executar todos os testes&#xa0;».</translation>
     </message>
     <message>
         <source>%1 (none)</source>
@@ -18793,7 +18793,7 @@ aviso&#xa0;: fonctionnalité expérimentale pouvant entraîner um falha durante 
     <name>QtC::Axivion</name>
     <message>
         <source>Owner</source>
-        <translation>Propriétaire</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>Path globbing</source>
@@ -18996,7 +18996,7 @@ usuário&#xa0;: %2</translation>
         <source>The activated link appears to be external.
 Do you want to open &quot;%1&quot; with its default application?</source>
         <translation>o lien ativado semble ser externe.
-Souhaitez-vous abrir «&#xa0;%1&#xa0;» com o application por padrão&#xa0;?</translation>
+Souhaitez-vous abrir «&#xa0;%1&#xa0;» com o aplicação por padrão&#xa0;?</translation>
     </message>
     <message>
         <source>Open External Links</source>
@@ -19465,13 +19465,13 @@ Tente novamente quando o analyse será concluída.</translation>
     <message>
         <source>GDB compatible provider engine
 (used together with the GDB debuggers).</source>
-        <translation>Moteur fournissant uma couche compatible com GDB
+        <translation>Motor fournissant uma couche compatible com GDB
 (utilisable com os débogueurs GDB).</translation>
     </message>
     <message>
         <source>UVSC compatible provider engine
 (used together with the KEIL uVision).</source>
-        <translation>Moteur fournissant uma couche compatible com UVSC
+        <translation>Motor fournissant uma couche compatible com UVSC
 (utilisable com KEIL uVision).</translation>
     </message>
     <message>
@@ -19484,7 +19484,7 @@ Tente novamente quando o analyse será concluída.</translation>
     </message>
     <message>
         <source>Engine</source>
-        <translation>Moteur</translation>
+        <translation>Motor</translation>
     </message>
     <message>
         <source>Duplicate Providers Detected</source>
@@ -20121,7 +20121,7 @@ Tente novamente quando o analyse será concluída.</translation>
     <message>
         <source>Performs a local commit in a bound branch.
 Local commits are not pushed to the master branch until a normal commit is performed.</source>
-        <translation>Effectue um commit local em uma branch liée.
+        <translation>Effectue um commit local em uma branch vinculada.
 Os commits locaux ne são pas envoyés para a branch master jusque à este que um commit normal é effectué.</translation>
     </message>
     <message>
@@ -20209,7 +20209,7 @@ unconditionally.</source>
     <message>
         <source>Performs a local pull in a bound branch.
 Local pulls are not applied to the master branch.</source>
-        <translation>Effectue um pull local em uma branch liée.
+        <translation>Effectue um pull local em uma branch vinculada.
 Os pulls locaux ne são pas appliqués à branch master.</translation>
     </message>
     <message>
@@ -20960,7 +20960,7 @@ Par exemple, «&#xa0;Revision&#xa0;: 15&#xa0;» laissera a branch à revisão 15
     <message>
         <source>Implies the %1 target, but sets the %2 variable to install into the specified directory instead of into the default system directories. This does not affect the target location for deployment configurations.</source>
         <extracomment>%1 = the &quot;install&quot; CMake target, %2 = the DESTDIR environment variable</extracomment>
-        <translation>Implique a alvo %1, mas define a variável %2 para uma installation em o diretório especificado ao lieu dos diretórios por padrão do sistema. isso n&apos;affecte pas o emplacement da alvo para os configuraçãos de implantação.</translation>
+        <translation>Implique a alvo %1, mas define a variável %2 para uma installation em o diretório especificado ao lieu dos diretórios por padrão do sistema. isso n&apos;afeta pas o emplacement da alvo para os configuraçãos de implantação.</translation>
     </message>
     <message>
         <source>Use this option for example if you develop for a remote target device and do not want to install into the system directories of the build device, or to use separate installation directories on the build device for different build configurations.</source>
@@ -21111,7 +21111,7 @@ Par exemple, «&#xa0;Revision&#xa0;: 15&#xa0;» laissera a branch à revisão 15
     </message>
     <message>
         <source>Enter one CMake &lt;a href=&quot;variable&quot;&gt;variable&lt;/a&gt; per line.&lt;br/&gt;To set or change a variable, use -D&amp;lt;variable&amp;gt;:&amp;lt;type&amp;gt;=&amp;lt;value&amp;gt;.&lt;br/&gt;&amp;lt;type&amp;gt; can have one of the following values: FILEPATH, PATH, BOOL, INTERNAL, or STRING.&lt;br/&gt;To unset a variable, use -U&amp;lt;variable&amp;gt;.&lt;br/&gt;</source>
-        <translation>Saisir uma &lt;a href=&quot;variável&quot;&gt;variável&lt;/a&gt; CMake por linha.&lt;br/&gt;para definir ou editar uma variável, usar -D&amp;lt;variável&amp;gt;:&amp;lt;tipo&amp;gt;=&amp;lt;valor&amp;gt;.&lt;br/&gt;o &amp;lt;tipo&amp;gt; podavoir o une dos valores suivantes : FILEPATH, PATH, BOOL, INTERNAL, ou STRING.&lt;br/&gt;para remettre à zéro uma variável, usar -U&amp;lt;variável&amp;gt;.&lt;br/&gt;</translation>
+        <translation>Informe uma &lt;a href=&quot;variável&quot;&gt;variável&lt;/a&gt; do CMake por linha.&lt;br/&gt;Para definir ou editar uma variável, use -D&amp;lt;variável&amp;gt;:&amp;lt;tipo&amp;gt;=&amp;lt;valor&amp;gt;.&lt;br/&gt;O &amp;lt;tipo&amp;gt; pode ser um dos seguintes valores: FILEPATH, PATH, BOOL, INTERNAL ou STRING.&lt;br/&gt;Para redefinir uma variável, use -U&amp;lt;variável&amp;gt;.&lt;br/&gt;</translation>
     </message>
     <message>
         <source>Re-configure with Initial Parameters</source>
@@ -21428,7 +21428,7 @@ Par exemple, «&#xa0;Revision&#xa0;: 15&#xa0;» laissera a branch à revisão 15
     </message>
     <message>
         <source>Enter one CMake &lt;a href=&quot;variable&quot;&gt;variable&lt;/a&gt; per line.&lt;br/&gt;To set a variable, use -D&amp;lt;variable&amp;gt;:&amp;lt;type&amp;gt;=&amp;lt;value&amp;gt;.&lt;br/&gt;&amp;lt;type&amp;gt; can have one of the following values: FILEPATH, PATH, BOOL, INTERNAL, or STRING.</source>
-        <translation>Saisir uma &lt;a href=&quot;variável&quot;&gt;variável&lt;/a&gt; CMake por linha.&lt;br/&gt;para definir uma variável, usar -D&amp;lt;variável&amp;gt;:&amp;lt;tipo&amp;gt;=&amp;lt;valor&amp;gt;.&lt;br/&gt;o &amp;lt;tipo&amp;gt; podavoir o une dos valores suivantes : FILEPATH, PATH, BOOL, INTERNAL, ou STRING.</translation>
+        <translation>Informe uma &lt;a href=&quot;variável&quot;&gt;variável&lt;/a&gt; do CMake por linha.&lt;br/&gt;Para definir uma variável, use -D&amp;lt;variável&amp;gt;:&amp;lt;tipo&amp;gt;=&amp;lt;valor&amp;gt;.&lt;br/&gt;O &amp;lt;tipo&amp;gt; pode ser um dos seguintes valores: FILEPATH, PATH, BOOL, INTERNAL ou STRING.</translation>
     </message>
     <message>
         <source>CMake Configuration</source>
@@ -22698,7 +22698,7 @@ Assurez-vous que a variável CMAKE_BUILD_TYPE contém o campo «&#xa0;Build tipo
     </message>
     <message>
         <source>You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used in Debug mode since enabled assertions can reduce the number of false positives.</source>
-        <translation>Vous essayez de executar o ferramenta «&#xa0;%1&#xa0;» em uma application em modo %2. L’ferramenta é conçu para ser utilizado em modo Debug car os assertions activées podem réduire o número de falso positifs.</translation>
+        <translation>Vous essayez de executar o ferramenta «&#xa0;%1&#xa0;» em uma aplicação em modo %2. L’ferramenta é conçu para ser utilizado em modo Debug car os assertions activées podem réduire o número de falso positifs.</translation>
     </message>
     <message>
         <source>Do you want to continue and run the tool in %1 mode?</source>
@@ -23000,7 +23000,7 @@ Saída :
     </message>
     <message>
         <source>Failed to Apply</source>
-        <translation>falha do application</translation>
+        <translation>falha do aplicação</translation>
     </message>
     <message>
         <source>Applied</source>
@@ -23887,15 +23887,15 @@ sim :)</translatorcomment>
     </message>
     <message>
         <source>Cannot start bridge process.</source>
-        <translation>impossível de iniciar o processo de liaison.</translation>
+        <translation>impossível de iniciar o processo de ligação.</translation>
     </message>
     <message>
         <source>Cannot start bridge process: %1</source>
-        <translation>impossível de iniciar o processo de liaison&#xa0;: %1</translation>
+        <translation>impossível de iniciar o processo de ligação&#xa0;: %1</translation>
     </message>
     <message>
         <source>The bridge process is not running.</source>
-        <translation>o processo de liaison não é em execução.</translation>
+        <translation>o processo de ligação não é em execução.</translation>
     </message>
     <message>
         <source>FollowSymlinks is not supported.</source>
@@ -23911,7 +23911,7 @@ sim :)</translatorcomment>
     </message>
     <message>
         <source>No command bridge available for architecture &quot;%1-%2&quot;.</source>
-        <translation>nenhuma comando de liaison n&apos;é disponível para o architecture «&#xa0;%1-%2&#xa0;».</translation>
+        <translation>nenhuma comando de ligação n&apos;é disponível para o architecture «&#xa0;%1-%2&#xa0;».</translation>
     </message>
 </context>
 <context>
@@ -24124,7 +24124,7 @@ sim :)</translatorcomment>
     </message>
     <message>
         <source>Error: CoverageScanner at &quot;%1&quot; did not run correctly.</source>
-        <translation>erro&#xa0;: o scanneur de couverture «&#xa0;%1&#xa0;» ne se é pas exécuté correctement.</translation>
+        <translation>erro&#xa0;: o scanneur de couverture «&#xa0;%1&#xa0;» ne se é pas executado correctement.</translation>
     </message>
     <message>
         <source>Found Coco directory &quot;%1&quot;.</source>
@@ -24662,7 +24662,7 @@ o coda foi copié em votre presse-papiers.</translation>
     </message>
     <message>
         <source>Enabling %1 is subject to your agreement and abidance with your applicable %1 terms. It is your responsibility to know and accept the requirements and parameters of using tools like %1. This may include, but is not limited to, ensuring you have the rights to allow %1 access to your code, as well as understanding any implications of your use of %1 and suggestions produced (like copyright, accuracy, etc.).</source>
-        <translation>L&apos;activation de %1 é sujette à votre accord e votre conformité em os termes applicables %1. Ele é de votre responsabilité de connaître e daccepter os prérequis e os conditions de uso de um ferramenta como %1. isso pode inclure, mas não é limité à, se assurer davoir os droits de permettre à %1 dacessar à votre code, assim que de comprendre os implications de votre uso de %1 e os suggestions produites (tels que os droits dauteur, a précision, etc.).</translation>
+        <translation>A ativação de %1 está sujeita ao seu acordo e à sua conformidade com os termos aplicáveis de %1. É sua responsabilidade conhecer e aceitar os pré-requisitos e as condições de uso de uma ferramenta como %1. Isso pode incluir, entre outros pontos, garantir que você tenha os direitos para permitir que %1 acesse seu código, bem como compreender as implicações do seu uso de %1 e das sugestões geradas (como direitos autorais, precisão etc.).</translation>
     </message>
     <message>
         <source>The Copilot plugin requires node.js and the Copilot neovim plugin. If you install the neovim plugin as described in %1, the plugin will find the %3 file automatically.
@@ -24952,7 +24952,7 @@ Sinon, vous deve especificar o caminho para o arquivo %2 do greffon Copilot Neov
     </message>
     <message>
         <source>X-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation>Abscisse do coin superior esquerda do editor atual, relative ao tela.</translation>
+        <translation>Abscisse do canto superior esquerda do editor atual, relative ao tela.</translation>
     </message>
     <message>
         <source>Save Without Formatting</source>
@@ -24976,7 +24976,7 @@ Sinon, vous deve especificar o caminho para o arquivo %2 do greffon Copilot Neov
     </message>
     <message>
         <source>Y-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation>Ordonnée do coin superior esquerda do editor atual, relative ao tela.</translation>
+        <translation>Ordonnée do canto superior esquerda do editor atual, relative ao tela.</translation>
     </message>
     <message>
         <source>Continue Opening Huge Text File?</source>
@@ -25601,7 +25601,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation>Caché</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Show %1</source>
@@ -26406,7 +26406,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Owner:</source>
-        <translation>Propriétaire :</translation>
+        <translation>Proprietário:</translation>
     </message>
     <message>
         <source>Group:</source>
@@ -26548,7 +26548,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Ignore generated files when using project related filters.</source>
-        <translation>Ignore os arquivos gerados durante do uso de filtres liés ao projeto.</translation>
+        <translation>Ignore os arquivos gerados durante do uso de filtres vinculados ao projeto.</translation>
     </message>
     <message>
         <source>Web Search</source>
@@ -26560,7 +26560,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Triggers a web search with the selected search engine.</source>
-        <translation>dispara uma pesquisa Internet com o moteur de pesquisa selecionado.</translation>
+        <translation>dispara uma pesquisa Internet com o motor de pesquisa selecionado.</translation>
     </message>
     <message>
         <source>Triggers a search in the Qt bug tracker.</source>
@@ -28080,11 +28080,11 @@ Vous rencontrerez probablement dautres problemas em utilisant esta instância de
     </message>
     <message>
         <source>Reset Engine</source>
-        <translation>Réinitialisation do moteur</translation>
+        <translation>Réinitialisation do motor</translation>
     </message>
     <message>
         <source>Engine aborted after timeout.</source>
-        <translation>o moteur se é parado depois o atraso dattente.</translation>
+        <translation>o motor se é parado depois o atraso dattente.</translation>
     </message>
     <message>
         <source>The evaluation was interrupted.</source>
@@ -28092,11 +28092,11 @@ Vous rencontrerez probablement dautres problemas em utilisant esta instância de
     </message>
     <message>
         <source>Engine reinitialized properly.</source>
-        <translation>o moteur a foi réinitialisé com sucesso.</translation>
+        <translation>o motor a foi réinitialisé com sucesso.</translation>
     </message>
     <message>
         <source>Engine did not reinitialize properly.</source>
-        <translation>o moteur n&apos;a pas foi réinitialisé correctement.</translation>
+        <translation>o motor n&apos;a pas foi réinitialisé correctement.</translation>
     </message>
     <message>
         <source>Copy to clipboard: %1</source>
@@ -28180,8 +28180,8 @@ Double-cliquez para editar o elemento.</translation>
     <message numerus="yes">
         <source>Elided %n characters due to Application Output settings</source>
         <translation>
-            <numerusform>Élision de um caractere em raison dos parâmetros de saída do application</numerusform>
-            <numerusform>Élision de %n caracteres em raison dos parâmetros de saída do application</numerusform>
+            <numerusform>Élision de um caractere em raison dos parâmetros de saída do aplicação</numerusform>
+            <numerusform>Élision de %n caracteres em raison dos parâmetros de saída do aplicação</numerusform>
         </translation>
     </message>
     <message>
@@ -28592,7 +28592,7 @@ o modelo de code intégré gerenciará o surlignage, a conclusão, etc.</transla
 If you have sessions with tightly coupled projects that should be
 managed by the same clangd process, add them here.</source>
         <translation>Par padrão, Qt Creator lance um processo clangd por projeto.
-se vous avez dos sessions com dos projetos étroitement liés que 
+se vous avez dos sessions com dos projetos étroitement vinculados que 
 devraient ser gérés pelo mesmo processo clangd, ajoutez-os aqui.</translation>
     </message>
     <message>
@@ -30183,7 +30183,7 @@ estes préfixes são utilizados em complément ao diretório atual para basculer
     </message>
     <message>
         <source>&lt;b&gt;Warning&lt;/b&gt;: This file is not part of any project. The code model might have issues parsing this file properly.</source>
-        <translation>&lt;b&gt;aviso&lt;/b&gt; : este arquivo ne feito partie de nenhum projeto. o modelo de code podavoir dos difficultés ànalyser correctement este arquivo.</translation>
+        <translation>&lt;b&gt;Aviso&lt;/b&gt;: este arquivo não faz parte de nenhum projeto. O modelo de código pode ter dificuldades para analisar este arquivo corretamente.</translation>
     </message>
     <message>
         <source>Add File to Project</source>
@@ -31047,11 +31047,11 @@ para mas de detalhes, voir /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Break When a New Process Is Executed</source>
-        <translation>Parada quando um novo processo é exécuté</translation>
+        <translation>Parada quando um novo processo é executado</translation>
     </message>
     <message>
         <source>Break When a System Call Is Executed</source>
-        <translation>Parada quando um appel sistema é exécuté</translation>
+        <translation>Parada quando um appel sistema é executado</translation>
     </message>
     <message>
         <source>Break on Data Access at Fixed Address</source>
@@ -31071,7 +31071,7 @@ para mas de detalhes, voir /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>&lt;p&gt;Determines how the path is specified when setting breakpoints:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Use Engine Default&lt;/i&gt;: Preferred setting of the debugger engine.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Use Full Path&lt;/i&gt;: Pass full path, avoiding ambiguities should files of the same name exist in several modules. This is the engine default for CDB and LLDB.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Use File Name&lt;/i&gt;: Pass the file name only. This is useful when using a source tree whose location does not match the one used when building the modules. It is the engine default for GDB as using full paths can be slow with this engine.&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;p&gt;Determina a maneira cujo o caminho é especificado durante da definição dos pontos de parada :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;usar o moteur por padrão&lt;/i&gt; : parâmetro préféré do moteur de depuração.&lt;/li&gt;&lt;li&gt;&lt;i&gt;usar o caminho complet&lt;/i&gt; : passer o caminho complet, afin de éviter os ambiguidades se dos arquivos portant o mesmo nome existent em vários modules. C’é a valor por padrão do moteur para CDB e LLDB.&lt;/li&gt;&lt;li&gt;&lt;i&gt;usar o nome do arquivo&lt;/i&gt; : indiquer uniquement o nome do arquivo. esta option é utile quando o on usa um arbre fonte cujo o emplacement ne correspond pas à celui utilizado durante da compilation dos modules. C’é o moteur por padrão para GDB, car o uso de chemins complets pode ser lente com este moteur.&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;p&gt;Determina a maneira cujo o caminho é especificado durante da definição dos pontos de parada :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;usar o motor por padrão&lt;/i&gt; : parâmetro préféré do motor de depuração.&lt;/li&gt;&lt;li&gt;&lt;i&gt;usar o caminho complet&lt;/i&gt; : passer o caminho complet, afin de éviter os ambiguidades se dos arquivos portant o mesmo nome existent em vários modules. C’é a valor por padrão do motor para CDB e LLDB.&lt;/li&gt;&lt;li&gt;&lt;i&gt;usar o nome do arquivo&lt;/i&gt; : indiquer uniquement o nome do arquivo. esta option é utile quando o on usa um arbre fonte cujo o emplacement ne correspond pas à celui utilizado durante da compilation dos modules. C’é o motor por padrão para GDB, car o uso de chemins complets pode ser lente com este motor.&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Specifying the module (base name of the library or executable) for function or file type breakpoints can significantly speed up debugger startup times (CDB, LLDB).</source>
@@ -31211,7 +31211,7 @@ para mas de detalhes, voir /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Bring %1 to foreground when application interrupts</source>
-        <translation>Ramener %1 ao premier plan quando o application se interrompt</translation>
+        <translation>Ramener %1 ao premier plan quando o aplicação se interrompt</translation>
     </message>
     <message>
         <source>Debug all child processes</source>
@@ -31285,7 +31285,7 @@ listing source files takes much longer than that on slow machines.
 In this case, the value should be increased.</source>
         <translation>o número de segundos antes que un processo GDB ne réponde mas.
 a valor por padrão de 20 segundos devrait ser suffisante para a plupart 
-dos applications. mas ele existe dos situations ondo carregamento de grosses bibliotecas 
+dos aplicações. mas ele existe dos situations ondo carregamento de grosses bibliotecas 
 ou o énumération darquivos sources prend beaucoup mas de tempo que isso em dos machines lentes.
 em este cas, a valor deve ser augmentée.</translation>
     </message>
@@ -31457,7 +31457,7 @@ Vous pouvez décider entre attendre mas longtemps ou colocar fim ao depuração.
     </message>
     <message>
         <source>Application exited normally.</source>
-        <translation>L’application se é concluída normalmente.</translation>
+        <translation>A aplicação se é concluída normalmente.</translation>
     </message>
     <message>
         <source>Cannot Execute Python Code</source>
@@ -31573,7 +31573,7 @@ Vous pouvez décider entre attendre mas longtemps ou colocar fim ao depuração.
     </message>
     <message>
         <source>Failed to Start Application</source>
-        <translation>falha ao inicialização do application</translation>
+        <translation>falha ao inicialização do aplicação</translation>
     </message>
     <message>
         <source>Application started.</source>
@@ -31581,7 +31581,7 @@ Vous pouvez décider entre attendre mas longtemps ou colocar fim ao depuração.
     </message>
     <message>
         <source>Attached to stopped application.</source>
-        <translation>Attaché ao application arrêtée.</translation>
+        <translation>Attaché ao aplicação arrêtée.</translation>
     </message>
     <message>
         <source>Setting breakpoints...</source>
@@ -31613,7 +31613,7 @@ Vous pouvez décider entre attendre mas longtemps ou colocar fim ao depuração.
     </message>
     <message>
         <source>Failed to start application:</source>
-        <translation>impossível de iniciar o application :</translation>
+        <translation>impossível de iniciar o aplicação :</translation>
     </message>
     <message>
         <source>The gdb process could not be stopped:
@@ -31623,7 +31623,7 @@ Vous pouvez décider entre attendre mas longtemps ou colocar fim ao depuração.
     <message>
         <source>Application process could not be stopped:
 %1</source>
-        <translation>o processo do application ne pode ser parado : %1</translation>
+        <translation>o processo do aplicação ne pode ser parado : %1</translation>
     </message>
     <message>
         <source>Connecting to remote server failed:
@@ -31637,11 +31637,11 @@ Vous pouvez décider entre attendre mas longtemps ou colocar fim ao depuração.
     </message>
     <message>
         <source>Application exited with exit code %1</source>
-        <translation>L’application se é concluída com o code de saída %1</translation>
+        <translation>A aplicação se é concluída com o code de saída %1</translation>
     </message>
     <message>
         <source>Application exited after receiving signal %1</source>
-        <translation>L’application se é concluída depois a reception do signal %1</translation>
+        <translation>A aplicação se é concluída depois a reception do signal %1</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -31847,7 +31847,7 @@ de um signal terminera directement em o slot connecté à celui-ci.</translation
     <message>
         <source>Displays a message box as soon as your application
 receives a signal like SIGSEGV during debugging.</source>
-        <translation>exibe um message assim que que votre application
+        <translation>exibe um message assim que que votre aplicação
 reçoit um signal como SIGSEGV pendant o depuração.</translation>
     </message>
     <message>
@@ -31892,7 +31892,7 @@ reçoit um signal como SIGSEGV pendant o depuração.</translation>
     </message>
     <message>
         <source>Uses CDB&apos;s native console for console applications. This overrides the setting in Environment &gt; System. The native console does not prompt on application exit. It is suitable for diagnosing cases in which the application does not start up properly in the configured console and the subsequent attach fails.</source>
-        <translation>Usa a console native de CDB para os applications de console. esta option remplace o parâmetro definido em Environnement &gt; sistema. a console native n’invite pas à quitter o application. Ela convient para diagnostiquer os cas ondo application ne démarre pas correctement na console configurée e ondo attachement ultérieur échoue.</translation>
+        <translation>Usa a console native de CDB para os aplicações de console. esta option remplace o parâmetro definido em Environnement &gt; sistema. a console native n’invite pas à quitter o aplicação. Ela convient para diagnostiquer os cas ondo aplicação ne démarre pas correctement na console configurée e ondo attachement ultérieur échoue.</translation>
     </message>
     <message>
         <source>Attempts to correct the location of a breakpoint based on file and line number should it be in a comment or in a line for which no code is generated. The correction is based on the code model.</source>
@@ -31916,7 +31916,7 @@ reçoit um signal como SIGSEGV pendant o depuração.</translation>
     </message>
     <message>
         <source>Allocate memory using the debug heap rather than the normal heap. The debug heap enables additional checks to help diagnose heap related bugs. However it comes at a performance cost when allocating memory in the debugged process.</source>
-        <translation>Alloue da memória em utilisant o tas de depuração à lugar do tas classique. o tas de depuração permet dos vérifications adicionais para trouver os bogues liés ao tas. Toutefois, os performances dallocation de memória em o processo débogué serão impactées.</translation>
+        <translation>Alloue da memória em utilisant o tas de depuração à lugar do tas classique. o tas de depuração permet dos vérifications adicionais para trouver os bogues vinculados ao tas. Toutefois, os performances dallocation de memória em o processo débogué serão impactées.</translation>
     </message>
     <message>
         <source>Show &quot;std::&quot; namespace in types</source>
@@ -31940,7 +31940,7 @@ reçoit um signal como SIGSEGV pendant o depuração.</translation>
     </message>
     <message>
         <source>Displays the objectName property of QObject based items. Note that this can negatively impact debugger performance even if no QObjects are present.</source>
-        <translation>exibe a propriedade nomObjet dos elementos basés em QObject. Notez que isso podavoir um impact négatif em os performances do depurador, mesmo se nenhum QObject n’é présent.</translation>
+        <translation>Exibe a propriedade objectName dos elementos baseados em QObject. Observe que isso pode ter um impacto negativo no desempenho do depurador, mesmo que nenhum QObject esteja presente.</translation>
     </message>
     <message>
         <source>Sort members of classes and structs alphabetically</source>
@@ -31960,7 +31960,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Uses the default GDB pretty printers installed in your system or linked to the libraries your application uses.</source>
-        <translation>Usa o exibição amélioré por padrão de GDB instalado em votre sistema ou lié aos bibliotecas utilisées por votre application.</translation>
+        <translation>Usa o exibição amélioré por padrão de GDB instalado em votre sistema ou vinculado aos bibliotecas utilisées por votre aplicação.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;Adds common paths to locations of debug information such as &lt;i&gt;/usr/src/debug&lt;/i&gt; when starting GDB.&lt;/body&gt;&lt;/html&gt;</source>
@@ -31994,7 +31994,7 @@ por padrão do usuário ao inicialização do depurador.</translation>
     </message>
     <message>
         <source>The options below give access to advanced&lt;br&gt;or experimental functions of GDB.&lt;p&gt;Enabling them may negatively impact&lt;br&gt;your debugging experience.</source>
-        <translation>Os options ci-dessous permettent dacessar&lt;br&gt;à dos fonctions avancées ou expérimentales de GDB.&lt;p&gt;Seu activation podavoir um impact négatif&lt;br&gt;em votre expérience de depuração.</translation>
+        <translation>As opções abaixo permitem acessar&lt;br&gt;funções avançadas ou experimentais do GDB.&lt;p&gt;A ativação delas pode ter um impacto negativo&lt;br&gt;na sua experiência de depuração.</translation>
     </message>
     <message>
         <source>Additional Attach Commands</source>
@@ -32403,7 +32403,7 @@ por padrão do usuário ao inicialização do depurador.</translation>
     </message>
     <message>
         <source>An error occurred when attempting to write to the DAP process. For example, the process may not be running, or it may have closed its input channel.</source>
-        <translation>Une erro se é produite durante de uma tentative de gravação ao processo DAP. Par exemple, o processo pode ne pas ser em execução ou, ele podavoir fermé son canal de entrada.</translation>
+        <translation>Ocorreu um erro durante uma tentativa de gravação no processo DAP. Por exemplo, o processo pode não estar em execução ou pode ter fechado seu canal de entrada.</translation>
     </message>
     <message>
         <source>An error occurred when attempting to read from the DAP process. For example, the process may not be running.</source>
@@ -32427,7 +32427,7 @@ por padrão do usuário ao inicialização do depurador.</translation>
     </message>
     <message>
         <source>An error occurred when attempting to write to the Pdb process. For example, the process may not be running, or it may have closed its input channel.</source>
-        <translation>Une erro se é produite durante de une tentative de gravação em o processo Pdb. o processo pode ne pas ser iniciado ou ele podavoir fermé son entrada standard.</translation>
+        <translation>Ocorreu um erro durante uma tentativa de gravação no processo Pdb. O processo pode não estar iniciado ou pode ter fechado sua entrada padrão.</translation>
     </message>
     <message>
         <source>An error occurred when attempting to read from the Pdb process. For example, the process may not be running.</source>
@@ -32495,7 +32495,7 @@ por padrão do usuário ao inicialização do depurador.</translation>
     </message>
     <message>
         <source>Use Engine Default</source>
-        <translation>usar o moteur por padrão</translation>
+        <translation>usar o motor por padrão</translation>
     </message>
     <message>
         <source>Use Full Path</source>
@@ -32755,7 +32755,7 @@ selecionar GDB ou LLDB como depurador améliorerait o expérience de depuração
     </message>
     <message>
         <source>Unable to create a debugging engine.</source>
-        <translation>impossível de criar um moteur de depuração.</translation>
+        <translation>impossível de criar um motor de depuração.</translation>
     </message>
     <message>
         <source>The kit does not have a debugger set.</source>
@@ -32829,7 +32829,7 @@ You may be asked to share the contents of this log when reporting bugs related t
 
 </source>
         <translation>Remarque : este journal contém dos informations éventuellement confidentielles em votre machine, dos variables de environnement, dos dados em memória dos processo que vous déboguez, e bien dautres choses encore. Ele n’é nunca transféré em Internet por %1, e n’é stocké em o disque que se vous utilisez manualmente o option correspondante do menu contextuel, ou por dos mécanismes que ne são pas sous o controle do greffon de depuração de %1, por exemple em os arquivos de échange, ou dautres greffons que vous pourriez usar.
-Ele pode vous ser demandé de partager o conteúdo de este journal quando vous signalez dos bogues liés ao fonctionnement do depurador. em este cas, assurez-vous que votre soumission ne contém pas de dados que vous ne voulez pas ou que vous n’êtes pas autorisé à partager.
+Ele pode vous ser demandé de partager o conteúdo de este journal quando vous signalez dos bogues vinculados ao fonctionnement do depurador. em este cas, assurez-vous que votre soumission ne contém pas de dados que vous ne voulez pas ou que vous n’êtes pas autorisé à partager.
 
 </translation>
     </message>
@@ -32979,7 +32979,7 @@ Ele pode vous ser demandé de partager o conteúdo de este journal quando vous s
     </message>
     <message>
         <source>Reload debugging helpers skipped as no engine is running.</source>
-        <translation>o rechargement do assistance ao depuração é ignoré car nenhum moteur n’é em execução.</translation>
+        <translation>o rechargement do assistance ao depuração é ignoré car nenhum motor n’é em execução.</translation>
     </message>
     <message>
         <source>&amp;Attach to Process</source>
@@ -33167,7 +33167,7 @@ Ele pode vous ser demandé de partager o conteúdo de este journal quando vous s
     </message>
     <message>
         <source>Start and Debug External Application...</source>
-        <translation>Depurar uma application externe…</translation>
+        <translation>Depurar uma aplicação externe…</translation>
     </message>
     <message>
         <source>Load Core File...</source>
@@ -33211,7 +33211,7 @@ Ele pode vous ser demandé de partager o conteúdo de este journal quando vous s
     </message>
     <message>
         <source>Attach to Running Application...</source>
-        <translation>Attacher ao application em execução…</translation>
+        <translation>Attacher ao aplicação em execução…</translation>
     </message>
     <message>
         <source>Copy Content to Clipboard</source>
@@ -33235,7 +33235,7 @@ Ele pode vous ser demandé de partager o conteúdo de este journal quando vous s
     </message>
     <message>
         <source>Attach to Unstarted Application...</source>
-        <translation>Attacher ao application não démarrée…</translation>
+        <translation>Attacher ao aplicação não démarrée…</translation>
     </message>
     <message>
         <source>Attach to Running Debug Server...</source>
@@ -33292,11 +33292,11 @@ Ele pode vous ser demandé de partager o conteúdo de este journal quando vous s
     </message>
     <message>
         <source>Attach to Running Application</source>
-        <translation>Attacher ao application em execução</translation>
+        <translation>Attacher ao aplicação em execução</translation>
     </message>
     <message>
         <source>Attach to Unstarted Application</source>
-        <translation>Attacher ao application não démarrée</translation>
+        <translation>Attacher ao aplicação não démarrée</translation>
     </message>
     <message>
         <source>Shift+Ctrl+Y</source>
@@ -33401,7 +33401,7 @@ Ele pode vous ser demandé de partager o conteúdo de este journal quando vous s
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used %3.&lt;/p&gt;&lt;p&gt;Run-time characteristics differ significantly between optimized and non-optimized binaries. Analytical findings for one mode may or may not be relevant for the other.&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translatorcomment>%3 é remplacé por a cadeia précédente (on optimized code...)</translatorcomment>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vous essayez de executar o ferramenta «&#xa0;%1&#xa0;» em uma application em modo %2. L&apos;ferramenta é conçu para ser utilizado %3.&lt;/p&gt;&lt;p&gt;Os caractéristiques de execução diferem considérablement entre os binaires optimisés e não optimisés. L&apos;execução de ferramentas nécessitant dos symboles de depuração em dos binaires que n&apos;em fournissent pas pode conduire à dos nomes de fonctions manquants ou à dos resultados insuffisants.&lt;/p&gt;&lt;p&gt;Voulez-vous continuer e executar o ferramenta em modo %2&#xa0;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vous essayez de executar o ferramenta «&#xa0;%1&#xa0;» em uma aplicação em modo %2. L&apos;ferramenta é conçu para ser utilizado %3.&lt;/p&gt;&lt;p&gt;Os caractéristiques de execução diferem considérablement entre os binaires optimisés e não optimisés. L&apos;execução de ferramentas nécessitant dos symboles de depuração em dos binaires que n&apos;em fournissent pas pode conduire à dos nomes de fonctions manquants ou à dos resultados insuffisants.&lt;/p&gt;&lt;p&gt;Voulez-vous continuer e executar o ferramenta em modo %2&#xa0;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Start</source>
@@ -33421,7 +33421,7 @@ Ele pode vous ser demandé de partager o conteúdo de este journal quando vous s
     </message>
     <message>
         <source>Show Application on Top</source>
-        <translation>exibir o application ao premier plan</translation>
+        <translation>exibir o aplicação ao premier plan</translation>
     </message>
     <message>
         <source>From</source>
@@ -33622,7 +33622,7 @@ L’examen dos symboles e a definição de pontos de parada por nome darquivo e 
     </message>
     <message>
         <source>No application output received in time</source>
-        <translation>Pas de saída do application reçue à tempo</translation>
+        <translation>Pas de saída do aplicação reçue à tempo</translation>
     </message>
     <message>
         <source>Could not connect to the in-process QML debugger.
@@ -33644,7 +33644,7 @@ Voulez-vous réessayer&#xa0;?</translation>
     </message>
     <message>
         <source>Waiting for JavaScript engine to interrupt on next statement.</source>
-        <translation>En attente do interruption do moteur JavaScript à prochaine declaração.</translation>
+        <translation>En attente do interruption do motor JavaScript à prochaine declaração.</translation>
     </message>
     <message>
         <source>Run to line %1 (%2) requested...</source>
@@ -33978,7 +33978,7 @@ Vous pouvez choisir um autre canal de communication aqui, como uma linha série 
     </message>
     <message>
         <source>Cannot debug application: Kit has no device.</source>
-        <translation>impossível de depurar o application&#xa0;: o kit n&apos;a pas de dispositivo.</translation>
+        <translation>impossível de depurar o aplicação&#xa0;: o kit n&apos;a pas de dispositivo.</translation>
     </message>
     <message>
         <source>Attach to %1</source>
@@ -34081,11 +34081,11 @@ Vous pouvez choisir um autre canal de communication aqui, como uma linha série 
     </message>
     <message>
         <source>Attached to running application.</source>
-        <translation>Attaché ao application em execução.</translation>
+        <translation>Attaché ao aplicação em execução.</translation>
     </message>
     <message>
         <source>Failed to attach to application: %1</source>
-        <translation>falha do attachement ao application : %1</translation>
+        <translation>falha do attachement ao aplicação : %1</translation>
     </message>
     <message>
         <source>Symbols found.</source>
@@ -34093,7 +34093,7 @@ Vous pouvez choisir um autre canal de communication aqui, como uma linha série 
     </message>
     <message>
         <source>This can be caused by a path length limitation in the core file.</source>
-        <translation>isso pode ser lié à uma limitation da tamanho do caminho em o arquivo core.</translation>
+        <translation>isso pode ser vinculado à uma limitation da tamanho do caminho em o arquivo core.</translation>
     </message>
     <message>
         <source>Attached to core.</source>
@@ -34101,7 +34101,7 @@ Vous pouvez choisir um autre canal de communication aqui, como uma linha série 
     </message>
     <message>
         <source>Attach to core &quot;%1&quot; failed:</source>
-        <translation>falha de liaison ao core «&#xa0;%1&#xa0;» :</translation>
+        <translation>falha de ligação ao core «&#xa0;%1&#xa0;» :</translation>
     </message>
     <message>
         <source>Error</source>
@@ -34908,7 +34908,7 @@ L’acesso ao module ou a mise em lugar de pontos de parada por arquivo e por li
     </message>
     <message>
         <source>Registers %1 for debugging crashed applications.</source>
-        <translation>Os registres %1 para o depuração dos applications ont travou.</translation>
+        <translation>Os registres %1 para o depuração dos aplicações ont travou.</translation>
     </message>
     <message>
         <source>Use %1 for post-mortem debugging</source>
@@ -35247,11 +35247,11 @@ L’acesso ao module ou a mise em lugar de pontos de parada por arquivo e por li
     </message>
     <message>
         <source>Reopen dialog when application finishes</source>
-        <translation>Rouvrir a boite de dialogue à fim do application</translation>
+        <translation>Rouvrir a boite de dialogue à fim do aplicação</translation>
     </message>
     <message>
         <source>Reopens this dialog when application finishes.</source>
-        <translation>Rouvre esta boite de dialogue quando o application se termine.</translation>
+        <translation>Rouvre esta boite de dialogue quando o aplicação se termine.</translation>
     </message>
     <message>
         <source>Continue on attach</source>
@@ -35259,7 +35259,7 @@ L’acesso ao module ou a mise em lugar de pontos de parada por arquivo e por li
     </message>
     <message>
         <source>Debugger does not stop the application after attach.</source>
-        <translation>o depurador n’arrête pas o application depois o attachement.</translation>
+        <translation>o depurador n’arrête pas o aplicação depois o attachement.</translation>
     </message>
     <message>
         <source>Start Watching</source>
@@ -36274,12 +36274,12 @@ a recompilation do projeto podaider.</translation>
     <message>
         <source>Mount Command Bridge:</source>
         <translatorcomment>Command Bridge ?</translatorcomment>
-        <translation>Montage da liaison de comando&#xa0;:</translation>
+        <translation>Montage da ligação de comando&#xa0;:</translation>
     </message>
     <message>
         <source>The Command Bridge facilitates communication between Qt Creator and the running Container. It is mounted into the Container by default. If your Docker server does not have access to the folder where Qt Creator is installed this can fail. In that case you can disable this option for a slower workaround.</source>
         <translatorcomment>Command Bridge ?</translatorcomment>
-        <translation>a liaison de comando simplifie a communication entre Qt&#xa0;Creator e o conteneur em execução. Par padrão, ele é monté em o conteneur. a comando pode échouer, se votre servidor Docker ne pode pas acessar ao pasta onde Qt&#xa0;Creator é instalado. em este cas, vous pouvez desativar esta option e usar em uma solution de contournement mas lente.</translation>
+        <translation>a ligação de comando simplifie a communication entre Qt&#xa0;Creator e o conteneur em execução. Par padrão, ele é monté em o conteneur. a comando pode échouer, se votre servidor Docker ne pode pas acessar ao pasta onde Qt&#xa0;Creator é instalado. em este cas, vous pouvez desativar esta option e usar em uma solution de contournement mas lente.</translation>
     </message>
     <message>
         <source>Docker system is not reachable.</source>
@@ -36610,11 +36610,11 @@ a recompilation do projeto podaider.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Set this property to animate the effect.</source>
-        <translation>Definir esta propriedade para um effet animé.</translation>
+        <translation>Definir esta propriedade para um effet animado.</translation>
     </message>
     <message>
         <source>Time</source>
@@ -37299,7 +37299,7 @@ désactivera également os greffons suivants :
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Stopped</source>
@@ -39271,7 +39271,7 @@ Valider maintenant&#xa0;?</translation>
     <message>
         <source>There were warnings while applying &quot;%1&quot; to &quot;%2&quot;:
 %3</source>
-        <translation>Avertissements durante do application do patch «&#xa0;%1&#xa0;» em «&#xa0;%2&#xa0;» :
+        <translation>Avertissements durante do aplicação do patch «&#xa0;%1&#xa0;» em «&#xa0;%2&#xa0;» :
 %3</translation>
     </message>
     <message>
@@ -39887,7 +39887,7 @@ Valider maintenant&#xa0;?</translation>
     </message>
     <message>
         <source>Another submit is currently being executed.</source>
-        <translation>Un autre submit é actuellement exécuté.</translation>
+        <translation>Un autre submit é actuellement executado.</translation>
     </message>
     <message>
         <source>Git Commit</source>
@@ -40001,8 +40001,8 @@ This causes Git to look for the SSH-keys in that location
 instead of its installation directory when run outside git bash.</source>
         <translation>Definir a variável de environnement HOME à «&#xa0;%1&#xa0;»
 (%2).
-Git cherchera então os chaves SSH à este ponto, plutôt que em son diretório de installation, quando ele será exécuté em dehors de git bash.
-ao lieu de son diretório de installation quando ele é exécuté em dehors de git bash.</translation>
+Git cherchera então os chaves SSH à este ponto, plutôt que em son diretório de installation, quando ele será executado em dehors de git bash.
+ao lieu de son diretório de installation quando ele é executado em dehors de git bash.</translation>
     </message>
     <message>
         <source>currently set to &quot;%1&quot;</source>
@@ -40438,7 +40438,7 @@ Souhaitez-vous y colocar fim&#xa0;?</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation>Propriétaire</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>Updated</source>
@@ -41372,7 +41372,7 @@ Remarque : isso pode vous exposer à uma attaque de tipo «&#xa0;homme do meio&#
     </message>
     <message>
         <source>Owner</source>
-        <translation>Propriétaire</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>Link with GitLab</source>
@@ -41388,11 +41388,11 @@ Remarque : isso pode vous exposer à uma attaque de tipo «&#xa0;homme do meio&#
     </message>
     <message>
         <source>Linked GitLab Configuration</source>
-        <translation>configuração GitLab liée</translation>
+        <translation>configuração GitLab vinculada</translation>
     </message>
     <message>
         <source>Projects linked with GitLab receive event notifications in the Version Control output pane.</source>
-        <translation>Os projetos liés à GitLab reçoivent dos notifications de eventos em o panneau de saída do gestionnaire de versões.</translation>
+        <translation>Os projetos vinculados à GitLab reçoivent dos notifications de eventos em o panneau de saída do gestionnaire de versões.</translation>
     </message>
     <message>
         <source>Remote host does not match chosen GitLab configuration.</source>
@@ -42009,7 +42009,7 @@ Remarque : isso pode vous exposer à uma attaque de tipo «&#xa0;homme do meio&#
     </message>
     <message>
         <source>Use the current settings for background, outline, and fitting to screen as the default for new image viewers. Current default:</source>
-        <translation>usar os parâmetros actuels para o plano de fundo, o contour e o adaptation ao tela como valor por padrão para os nouveaux afficheurs de imagens. valor por padrão atual :</translation>
+        <translation>usar os parâmetros actuels para o plano de fundo, o contorno e o adaptation ao tela como valor por padrão para os nouveaux afficheurs de imagens. valor por padrão atual :</translation>
     </message>
     <message>
         <source>Background: %1</source>
@@ -42017,7 +42017,7 @@ Remarque : isso pode vous exposer à uma attaque de tipo «&#xa0;homme do meio&#
     </message>
     <message>
         <source>Outline: %1</source>
-        <translation>Contour : %1</translation>
+        <translation>Contorno : %1</translation>
     </message>
     <message>
         <source>Fit to Screen: %1</source>
@@ -42045,7 +42045,7 @@ Remarque : isso pode vous exposer à uma attaque de tipo «&#xa0;homme do meio&#
     </message>
     <message>
         <source>Switch Outline</source>
-        <translation>Basculer o contour</translation>
+        <translation>Basculer o contorno</translation>
     </message>
     <message>
         <source>Toggle Animation</source>
@@ -42132,7 +42132,7 @@ Souhaitez-vous o sobrescrever&#xa0;?</translation>
     </message>
     <message>
         <source>Enter a file name containing place holders %1 which will be replaced by the width and height of the image, respectively.</source>
-        <translation>Saisir um nome darquivo contenant dos caracteres de espacement %1 que serão remplacés por a largura e a altura do imagem, respectivement.</translation>
+        <translation>Saisir um nome darquivo contenant dos caracteres de espaçamento %1 que serão remplacés por a largura e a altura do imagem, respectivement.</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -42164,7 +42164,7 @@ Souhaitez-vous o sobrescrever&#xa0;?</translation>
     </message>
     <message>
         <source>The file name must contain one of the placeholders %1, %2.</source>
-        <translation>o nome do arquivo deve conter o un de estes caracteres de espacement %1, %2.</translation>
+        <translation>o nome do arquivo deve conter o un de estes caracteres de espaçamento %1, %2.</translation>
     </message>
     <message>
         <source>The file %1 already exists.
@@ -42319,7 +42319,7 @@ Souhaitez-vous os sobrescrever&#xa0;?</translation>
     </message>
     <message>
         <source>Overrides the internal Incredibuild logging level for this build. Does not affect output or any user accessible logging. Used mainly to troubleshoot issues with the help of IncrediBuild support.</source>
-        <translation>Écrase o niveau interne de journalisation de IncrediBuild para esta construction. N&apos;affecte pas a saída ou um quelconque journal accessible pelo usuário. Utilizado principalmente para comprendre os problemas com o ajuda do support de IncrediBuild.</translation>
+        <translation>Écrase o niveau interne de journalisation de IncrediBuild para esta construction. N&apos;afeta pas a saída ou um quelconque journal accessible pelo usuário. Utilizado principalmente para comprendre os problemas com o ajuda do support de IncrediBuild.</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -42479,7 +42479,7 @@ Souhaitez-vous os sobrescrever&#xa0;?</translation>
     </message>
     <message>
         <source>Transferring application</source>
-        <translation>Transfert do application</translation>
+        <translation>Transfert do aplicação</translation>
     </message>
     <message>
         <source>Deployment failed. The settings in the Devices window of Xcode might be incorrect.</source>
@@ -42495,11 +42495,11 @@ Souhaitez-vous os sobrescrever&#xa0;?</translation>
     </message>
     <message>
         <source>devicectl returned unexpected output ... deployment might have failed.</source>
-        <translation>devicectl a renvoyé uma saída inattendue… o implantação podavoir falhou.</translation>
+        <translation>O devicectl retornou uma saída inesperada… a implantação pode ter falhado.</translation>
     </message>
     <message>
         <source>The provisioning profile &quot;%1&quot; (%2) used to sign the application does not cover the device %3 (%4). Deployment to it will fail.</source>
-        <translation>o profil dapprovisionnement «&#xa0;%1&#xa0;» (%2) utilizado para signer o application ne concerne pas o dispositivo %3 (%4). o implantação vai échouer.</translation>
+        <translation>o profil dapprovisionnement «&#xa0;%1&#xa0;» (%2) utilizado para signer o aplicação ne concerne pas o dispositivo %3 (%4). o implantação vai échouer.</translation>
     </message>
     <message>
         <source>Deploy to iOS device</source>
@@ -42826,7 +42826,7 @@ Souhaitez-vous os sobrescrever&#xa0;?</translation>
 App ID: %2
 Expiration date: %3</source>
         <translation>Équipe&#xa0;: %1
-Identifiant dapplication&#xa0;: %2
+Identifiant da aplicação&#xa0;: %2
 Date de expiration&#xa0;: %3</translation>
     </message>
     <message>
@@ -42835,23 +42835,23 @@ Date de expiration&#xa0;: %3</translation>
     </message>
     <message>
         <source>Application install on Simulator failed. Could not find bundle at expected location &quot;%1&quot;.</source>
-        <translation>falha do installation do application em o simulateur. impossível de trouver um bundle ao emplacement attendu «&#xa0;%1&#xa0;».</translation>
+        <translation>falha do installation do aplicação em o simulateur. impossível de trouver um bundle ao emplacement attendu «&#xa0;%1&#xa0;».</translation>
     </message>
     <message>
         <source>Application install on simulator failed. Simulator not running.</source>
-        <translation>Installation do application em o simulateur com falha. o simulateur não é em execução.</translation>
+        <translation>Installation do aplicação em o simulateur com falha. o simulateur não é em execução.</translation>
     </message>
     <message>
         <source>Application launch on simulator failed. Invalid bundle path %1</source>
-        <translation>Lancement do application em o simulateur falhou. caminho de bundle invalide %1</translation>
+        <translation>Lancement do aplicação em o simulateur falhou. caminho de bundle invalide %1</translation>
     </message>
     <message>
         <source>Application launch on simulator failed. Simulator not running. %1</source>
-        <translation>Lancement do application em o simulateur falhou. o simulateur não é em execução. %1</translation>
+        <translation>Lancement do aplicação em o simulateur falhou. o simulateur não é em execução. %1</translation>
     </message>
     <message>
         <source>Application install on simulator failed. %1</source>
-        <translation>Installation do application em o simulateur com falha. %1</translation>
+        <translation>Installation do aplicação em o simulateur com falha. %1</translation>
     </message>
     <message>
         <source>Cannot capture console output from %1. Error redirecting output to %2.*</source>
@@ -42863,7 +42863,7 @@ Date de expiration&#xa0;: %3</translation>
     </message>
     <message>
         <source>Application launch on simulator failed. %1</source>
-        <translation>Lancement do application em o simulateur falhou. %1</translation>
+        <translation>Lancement do aplicação em o simulateur falhou. %1</translation>
     </message>
     <message>
         <source>Invalid simulator response. Device Id mismatch. Device Id = %1 Response Id = %2</source>
@@ -43647,7 +43647,7 @@ Voir a documentation spécifique ao servidor de langage para a lista dos parâme
     </message>
     <message>
         <source>Cannot create app data directory.</source>
-        <translation>impossível de criar o diretório para os dados do application.</translation>
+        <translation>impossível de criar o diretório para os dados do aplicação.</translation>
     </message>
     <message>
         <source>Cannot write to package info: %1</source>
@@ -44442,7 +44442,7 @@ Voir a documentation spécifique ao servidor de langage para a lista dos parâme
     </message>
     <message>
         <source>You cannot use the selected kit to preview Qt for MCUs applications.</source>
-        <translation>Vous ne pouvez pas usar o kit selecionado para prévisualiser os applications Qt para MCU.</translation>
+        <translation>Vous ne pouvez pas usar o kit selecionado para prévisualiser os aplicações Qt para MCU.</translation>
     </message>
     <message>
         <source>Cannot find a valid Qt for MCUs kit.</source>
@@ -45091,7 +45091,7 @@ Utile se o diretório de compilation é corrompu ou durante de une recompilation
     </message>
     <message>
         <source>Add Related Elements...</source>
-        <translation>adicionar dos elementos liés…</translation>
+        <translation>adicionar dos elementos vinculados…</translation>
     </message>
     <message>
         <source>Update Include Dependencies</source>
@@ -45111,7 +45111,7 @@ Utile se o diretório de compilation é corrompu ou durante de une recompilation
     </message>
     <message>
         <source>Linked file:</source>
-        <translation>arquivo lié&#xa0;:</translation>
+        <translation>arquivo vinculado&#xa0;:</translation>
     </message>
     <message>
         <source>Select Image File</source>
@@ -45735,7 +45735,7 @@ Utile se o diretório de compilation é corrompu ou durante de une recompilation
         <source>The profiler did not produce any samples. Make sure that you are running a recent Linux kernel and that the &quot;perf&quot; utility is available and generates useful call graphs.
 You might find further explanations in the Application Output view.</source>
         <translation>o profileur n’a produit nenhum échantillon. Assurez-vous que vous utilisez um noyau Linux récent e que o utilitaire «&#xa0;perf&#xa0;» é disponível e gera dos graphiques dappels utiles.
-Vous pouvez trouver dos explications adicionais na visualização «&#xa0;Saída do application&#xa0;».</translation>
+Vous pouvez trouver dos explications adicionais na visualização «&#xa0;Saída do aplicação&#xa0;».</translation>
     </message>
     <message>
         <source>A performance analysis is still in progress.</source>
@@ -46583,11 +46583,11 @@ Vous pouvez trouver dos explications adicionais na visualização «&#xa0;Saída
     </message>
     <message>
         <source>Stop Applications</source>
-        <translation>parar os applications</translation>
+        <translation>parar os aplicações</translation>
     </message>
     <message>
         <source>Stop these applications before building?</source>
-        <translation>parar estes applications antes de compiler&#xa0;?</translation>
+        <translation>parar estes aplicações antes de compiler&#xa0;?</translation>
     </message>
     <message>
         <source>The build device failed to prepare for the build of %1 (%2).</source>
@@ -46618,7 +46618,7 @@ Vous pouvez trouver dos explications adicionais na visualização «&#xa0;Saída
     </message>
     <message>
         <source>Issues found when deploying applications to devices.</source>
-        <translation>problemas provenant do implantação dos applications em os dispositivos.</translation>
+        <translation>problemas provenant do implantação dos aplicações em os dispositivos.</translation>
     </message>
     <message>
         <source>Issues found when running tests.</source>
@@ -48089,7 +48089,7 @@ Veuillez réessayer.</translation>
     <message>
         <source>The amount of seconds to wait between a &quot;soft kill&quot; and a &quot;hard kill&quot; of a running application.</source>
         <translatorcomment>mort douce ?</translatorcomment>
-        <translation>o número de segundos àttendre entre uma «&#xa0;mort douce&#xa0;» e uma «&#xa0;mort brutale&#xa0;» do application em execução.</translation>
+        <translation>o número de segundos àttendre entre uma «&#xa0;mort douce&#xa0;» e uma «&#xa0;mort brutale&#xa0;» do aplicação em execução.</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -48146,7 +48146,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Clear issues list on new build</source>
-        <translation>Effacer a lista dos problemas liés à nova compilation</translation>
+        <translation>Effacer a lista dos problemas vinculados à nova compilation</translation>
     </message>
     <message>
         <source>Abort on error when building all projects</source>
@@ -48186,7 +48186,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Build Only the Application to Be Run</source>
-        <translation>Compiler uniquement o application à executar</translation>
+        <translation>Compiler uniquement o aplicação à executar</translation>
     </message>
     <message>
         <source>Same Project</source>
@@ -48198,7 +48198,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Same Application</source>
-        <translation>a mesmo application</translation>
+        <translation>a mesmo aplicação</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -48222,7 +48222,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Application environment:</source>
-        <translation>Environnement do application&#xa0;:</translation>
+        <translation>Environnement do aplicação&#xa0;:</translation>
     </message>
     <message>
         <source>Closing Projects</source>
@@ -48234,7 +48234,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Stop applications before building:</source>
-        <translation>parar os applications antes a compilation :</translation>
+        <translation>parar os aplicações antes a compilation :</translation>
     </message>
     <message>
         <source>Default for &quot;Run in terminal&quot;:</source>
@@ -48242,7 +48242,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Time to wait before force-stopping applications:</source>
-        <translation>Tempo dattente antes de forcer o parada dos applications&#xa0;:</translation>
+        <translation>Tempo dattente antes de forcer o parada dos aplicações&#xa0;:</translation>
     </message>
     <message>
         <source>Always deploy project before running it</source>
@@ -48250,7 +48250,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Always ask before stopping applications</source>
-        <translation>sempre demander antes de parar dos applications</translation>
+        <translation>sempre demander antes de parar dos aplicações</translation>
     </message>
     <message>
         <source>Merge stderr and stdout</source>
@@ -48507,7 +48507,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Creates a qmake-based project without any files. This allows you to create an application without any default classes.</source>
-        <translation>Gera um projeto fondé em qmake sem nenhum arquivo. isso vous permet de criar uma application sem nenhuma classe por padrão.</translation>
+        <translation>Gera um projeto fondé em qmake sem nenhum arquivo. isso vous permet de criar uma aplicação sem nenhuma classe por padrão.</translation>
     </message>
     <message>
         <source>Empty qmake Project</source>
@@ -48571,7 +48571,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Statically Linked Library</source>
-        <translation>Biblioteca liée statiquement</translation>
+        <translation>Biblioteca vinculada statiquement</translation>
     </message>
     <message>
         <source>Qt Plugin</source>
@@ -48695,7 +48695,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Creates a C++ plugin to load Qt Quick extensions dynamically into applications using the QQmlEngine class.</source>
-        <translation>Criado um greffon C++ para charger os extensions Qt Quick dynamiquement em os applications em utilisant a classe QQmlEngine.</translation>
+        <translation>Criado um greffon C++ para charger os extensions Qt Quick dynamiquement em os aplicações em utilisant a classe QQmlEngine.</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -48721,9 +48721,9 @@ Display name of the clean build step list. Used as part of the labels in the pro
         <source>You must tell Qt Creator which test framework is used inside the project.
 
 You should not mix multiple test frameworks in a project.</source>
-        <translation>Vous deve indiquer à Qt Creator quel cadriciel de test usar em o projeto.
+        <translation>Você deve informar ao Qt Creator qual framework de teste é usado no projeto.
 
-Vous ne deve pas mélanger vários cadriciels de tests em um mesmo projeto.</translation>
+Você não deve misturar vários frameworks de teste em um mesmo projeto.</translation>
     </message>
     <message>
         <source>Test Information</source>
@@ -48751,7 +48751,7 @@ Vous ne deve pas mélanger vários cadriciels de tests em um mesmo projeto.</tra
 Preselects a desktop Qt for building the application if available.</source>
         <translation>Gera um projeto contenant um apenas arquivo main.cpp com um início de implementação sem interface graphique.
 
-Présélectionne um Qt optimisé para o bureau para compiler o application, se disponível.</translation>
+Présélectionne um Qt optimisé para o bureau para compiler o aplicação, se disponível.</translation>
     </message>
     <message>
         <source>Define Python Interpreter</source>
@@ -48759,7 +48759,7 @@ Présélectionne um Qt optimisé para o bureau para compiler o application, se d
     </message>
     <message>
         <source>Creates a Qt for Python application that includes a Qt Widgets Designer-based widget (ui file). Requires .ui to Python conversion.</source>
-        <translation>Gera uma application Qt para Python que inclût um widget basé em Qt Widgets Designer (arquivo ui). Requer uma conversion de .ui para Python.</translation>
+        <translation>Gera uma aplicação Qt para Python que inclût um widget basé em Qt Widgets Designer (arquivo ui). Requer uma conversion de .ui para Python.</translation>
     </message>
     <message>
         <source>Create a project that you can open in Qt Design Studio</source>
@@ -48775,7 +48775,7 @@ Présélectionne um Qt optimisé para o bureau para compiler o application, se d
 To develop a full application, create a Qt Quick Application project instead.</source>
         <translation>Gera um projeto Qt Quick UI para prévisualiser e protyper dos designs.
 
-para développer uma application complête, criar um projeto Qt Quick Application à lugar.</translation>
+para développer uma aplicação complête, criar um projeto Qt Quick Application à lugar.</translation>
     </message>
     <message>
         <source>Creates a C++ library. You can create:&lt;ul&gt;&lt;li&gt;a shared C++ library for use with &lt;tt&gt;QPluginLoader&lt;/tt&gt; and runtime (Plugins)&lt;/li&gt;&lt;li&gt;a shared or static C++ library for use with another project at linktime&lt;/li&gt;&lt;/ul&gt;</source>
@@ -48827,7 +48827,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Proprietary</source>
-        <translation>Propriétaire</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>Other</source>
@@ -48871,7 +48871,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a Nim application with Nimble.</source>
-        <translation>Gera uma application Nim com Nimble.</translation>
+        <translation>Gera uma aplicação Nim com Nimble.</translation>
     </message>
     <message>
         <source>Nimble Application</source>
@@ -48879,7 +48879,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a simple C++ application with no dependencies.</source>
-        <translation>Gera uma simple application C++ com nenhuma dependência.</translation>
+        <translation>Gera uma simple aplicação C++ com nenhuma dependência.</translation>
     </message>
     <message>
         <source>Plain C++ Application</source>
@@ -49009,7 +49009,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a Qt Quick 3D XR application with QML and C++ code. You can build and deploy the application to desktop VR and standalone XR platforms. For the Apple Vision Pro, you can develop in Qt Creator but must deploy the CMake project with XCode.</source>
-        <translation>criar uma application Qt&#xa0;Quick&#xa0;3D&#xa0;XR com do code QML e C++. Vous pouvez compiler e implantar o application em da réalité virtuelle de bureau ou em dos plateformas XR indépendantes. para o Apple&#xa0;Vision&#xa0;Pro, vous pouvez développer desde Qt&#xa0;Creator, mas vous deve implantar o projeto CMake com XCode.</translation>
+        <translation>criar uma aplicação Qt&#xa0;Quick&#xa0;3D&#xa0;XR com do code QML e C++. Vous pouvez compiler e implantar o aplicação em da réalité virtuelle de bureau ou em dos plateformas XR indépendantes. para o Apple&#xa0;Vision&#xa0;Pro, vous pouvez développer desde Qt&#xa0;Creator, mas vous deve implantar o projeto CMake com XCode.</translation>
     </message>
     <message>
         <source>XR Application</source>
@@ -49149,7 +49149,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a simple Nim application.</source>
-        <translation>Gera uma application Nim simple.</translation>
+        <translation>Gera uma aplicação Nim simple.</translation>
     </message>
     <message>
         <source>Nim Application</source>
@@ -49157,7 +49157,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>This wizard generates a Qt Widgets Application project. The application derives by default from QApplication and includes an empty widget.</source>
-        <translation>este assistant gera um projeto dapplication Qt com widgets. L’application dérive por padrão de QApplication e inclut um widget vazio.</translation>
+        <translation>este assistant gera um projeto da aplicação Qt com widgets. A aplicação dérive por padrão de QApplication e inclut um widget vazio.</translation>
     </message>
     <message>
         <source>Generate form</source>
@@ -49185,7 +49185,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a simple C application with no dependencies.</source>
-        <translation>Gera uma simple application em C sem nenhuma dependência.</translation>
+        <translation>Gera uma simple aplicação em C sem nenhuma dependência.</translation>
     </message>
     <message>
         <source>Plain C Application</source>
@@ -49209,7 +49209,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a Qt for Python application that contains an empty window.</source>
-        <translation>Gera uma application Qt para Python que contém uma janela vazio.</translation>
+        <translation>Gera uma aplicação Qt para Python que contém uma janela vazio.</translation>
     </message>
     <message>
         <source>Empty Window</source>
@@ -49221,7 +49221,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a Qt Quick application that contains an empty window.</source>
-        <translation>Gera uma application Qt Quick que contém uma janela vazio.</translation>
+        <translation>Gera uma aplicação Qt Quick que contém uma janela vazio.</translation>
     </message>
     <message>
         <source>Qt Quick Application - Empty</source>
@@ -49229,7 +49229,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>Creates a Qt for Python application that contains only the main code for a QApplication.</source>
-        <translation>Gera uma application Qt para Python que ne contém que o code principal de une QApplication.</translation>
+        <translation>Gera uma aplicação Qt para Python que ne contém que o code principal de une QApplication.</translation>
     </message>
     <message>
         <source>Empty Application</source>
@@ -49237,7 +49237,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
     </message>
     <message>
         <source>This wizard creates a simple Qt-based console application.</source>
-        <translation>este assistant gera uma application em console simple basée em Qt.</translation>
+        <translation>este assistant gera uma aplicação em console simple basée em Qt.</translation>
     </message>
     <message>
         <source>Qt Console Application</source>
@@ -49409,7 +49409,7 @@ para développer uma application complête, criar um projeto Qt Quick Applicatio
         <source>Creates a Qt Quick application that contains an empty window.
 
 Use this &quot;compat&quot; version if you want to use other build systems than CMake or Qt versions lower than 6.</source>
-        <translation>Gera uma application Qt Quick que contém uma janela vazio.
+        <translation>Gera uma aplicação Qt Quick que contém uma janela vazio.
 
 Utilisez esta versão «&#xa0;de compatibilité&#xa0;» se vous souhaitez usar um autre sistema de construction que CMake ou uma versão de Qt inférieure à 6.</translation>
     </message>
@@ -49421,9 +49421,9 @@ Utilisez esta versão «&#xa0;de compatibilité&#xa0;» se vous souhaitez usar u
         <source>Creates a widget-based Qt application that contains a Qt Widgets Designer-based main window and C++ source and header files to implement the application logic.
 
 Preselects a desktop Qt for building the application if available.</source>
-        <translation>Gera uma application basée em os widgets que contém uma janela principale basée em Qt Widgets Designer e um ensemble darquivos de entêtes e de sources C++ para implémenter a lógica do application.
+        <translation>Gera uma aplicação basée em os widgets que contém uma janela principale basée em Qt Widgets Designer e um ensemble darquivos de entêtes e de sources C++ para implémenter a lógica do aplicação.
 
-Sélectionne um Qt optimisé para bureaux para compiler o application, se disponível.</translation>
+Sélectionne um Qt optimisé para bureaux para compiler o aplicação, se disponível.</translation>
     </message>
     <message>
         <source>This wizard creates a simple unit test project using Qt Test.</source>
@@ -49552,7 +49552,7 @@ Sélectionne um Qt optimisé para bureaux para compiler o application, se dispon
     </message>
     <message>
         <source>Creates a Qt Quick application that can have both QML and C++ code. You can build the application and deploy it to desktop, embedded, and mobile target platforms.</source>
-        <translation>Criado uma application Qt&#xa0;Quick que pode conter do code QML e do code C++. Vous pouvez compiler o application e a implantar em PC, os plateformas embarquées e os plateformas mobiles.</translation>
+        <translation>Criado uma aplicação Qt&#xa0;Quick que pode conter do code QML e do code C++. Vous pouvez compiler o aplicação e a implantar em PC, os plateformas embarquées e os plateformas mobiles.</translation>
     </message>
     <message>
         <source>Creates a new unit test project using Boost. Unit tests allow you to verify that the code is fit for use and that there are no regressions.</source>
@@ -50581,11 +50581,11 @@ Activez esta option se vous envisagez de criar dos binaires x86 32 bits sem usar
     </message>
     <message>
         <source>Show &amp;App Output</source>
-        <translation>exibir a saída do &amp;application</translation>
+        <translation>exibir a saída do &amp;aplicação</translation>
     </message>
     <message>
         <source>Show the output that generated this issue in Application Output.</source>
-        <translation>exibir a saída que a gerado este problema na saída do application.</translation>
+        <translation>exibir a saída que a gerado este problema na saída do aplicação.</translation>
     </message>
     <message>
         <source>A</source>
@@ -50602,7 +50602,7 @@ Activez esta option se vous envisagez de criar dos binaires x86 32 bits sem usar
     <message>
         <source>application-output-%1.txt</source>
         <extracomment>file name suggested for saving application output, %1 = run configuration display name</extracomment>
-        <translation>saída-application-%1.txt</translation>
+        <translation>saída-aplicação-%1.txt</translation>
     </message>
     <message>
         <source>Filter Qt Internal Log Categories</source>
@@ -50660,7 +50660,7 @@ Activez esta option se vous envisagez de criar dos binaires x86 32 bits sem usar
     <message>
         <source>Customize background color of the application output.
 Note: existing output will not get recolored.</source>
-        <translation>Personnalise a cor de fundo da saída do application.
+        <translation>Personnalise a cor de fundo da saída do aplicação.
 Note&#xa0;: os sorties existantes ne serão pas modifiées.</translation>
     </message>
     <message>
@@ -50678,19 +50678,19 @@ Note&#xa0;: os sorties existantes ne serão pas modifiées.</translation>
     </message>
     <message>
         <source>Open Application Output when running:</source>
-        <translation>abrir a saída do application em execução :</translation>
+        <translation>abrir a saída do aplicação em execução :</translation>
     </message>
     <message>
         <source>Open Application Output when debugging:</source>
-        <translation>abrir a saída do application durante do depuração :</translation>
+        <translation>abrir a saída do aplicação durante do depuração :</translation>
     </message>
     <message>
         <source>Application Output</source>
-        <translation>Saída do application</translation>
+        <translation>Saída do aplicação</translation>
     </message>
     <message>
         <source>Application Output Window</source>
-        <translation>janela de saída do application</translation>
+        <translation>janela de saída do aplicação</translation>
     </message>
     <message>
         <source>Code Style</source>
@@ -51179,7 +51179,7 @@ Os ports locaux e distants são déterminés automatiquement.</translation>
     </message>
     <message>
         <source>The device used to build applications on.</source>
-        <translation>o dispositivo utilizado para criar dos applications.</translation>
+        <translation>o dispositivo utilizado para criar dos aplicações.</translation>
     </message>
     <message>
         <source>No build device set.</source>
@@ -51247,11 +51247,11 @@ Os ports locaux e distants são déterminés automatiquement.</translation>
     </message>
     <message>
         <source>The type of device to run applications on.</source>
-        <translation>o tipo de dispositivo em lequel os applications são exécutées.</translation>
+        <translation>o tipo de dispositivo em lequel os aplicações são exécutées.</translation>
     </message>
     <message>
         <source>The device to run the applications on.</source>
-        <translation>o dispositivo em lequel os applications são exécutées.</translation>
+        <translation>o dispositivo em lequel os aplicações são exécutées.</translation>
     </message>
     <message>
         <source>%1 on %2</source>
@@ -51460,7 +51460,7 @@ Os ports locaux e distants são déterminés automatiquement.</translation>
     </message>
     <message>
         <source>Show in Application Output when running</source>
-        <translation>exibir a saída dapplication em execução</translation>
+        <translation>exibir a saída da aplicação em execução</translation>
     </message>
     <message>
         <source>Custom Output Parsers</source>
@@ -51793,7 +51793,7 @@ Os ports locaux e distants são déterminés automatiquement.</translation>
     </message>
     <message>
         <source>Waiting for Applications to Stop</source>
-        <translation>Attente do parada dos applications</translation>
+        <translation>Attente do parada dos aplicações</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -51801,7 +51801,7 @@ Os ports locaux e distants são déterminés automatiquement.</translation>
     </message>
     <message>
         <source>Waiting for applications to stop.</source>
-        <translation>Attente do parada dos applications.</translation>
+        <translation>Attente do parada dos aplicações.</translation>
     </message>
     <message>
         <source>Debug</source>
@@ -52500,7 +52500,7 @@ ao projeto «&#xa0;%2&#xa0;».</translation>
         <source>The process cannot access the file because it is being used by another process.
 Please close all running instances of your application before starting a build.</source>
         <translation>o processo ne pode pas acessar ao arquivo car ele é utilizado por um autre processo.
-Veuillez fechar todas os instâncias em execução de votre application antes de lancer uma compilation.</translation>
+Veuillez fechar todas os instâncias em execução de votre aplicação antes de lancer uma compilation.</translation>
     </message>
     <message>
         <source>Parse Build Output</source>
@@ -52720,7 +52720,7 @@ que deve fazer %1 maintenant&#xa0;?</translation>
     </message>
     <message>
         <source>Enables filtering for logging categories (QLoggingCategory) in the Application Output. Requires Qt 6.11 or later.</source>
-        <translation>ativa o filtrage dos catégories dos journaux (QLoggingCategory) da saída do application. Requer Qt 6.11 ou superior.</translation>
+        <translation>ativa o filtrage dos catégories dos journaux (QLoggingCategory) da saída do aplicação. Requer Qt 6.11 ou superior.</translation>
     </message>
     <message>
         <source>Emulator</source>
@@ -52971,7 +52971,7 @@ estes arquivos são préservés.</numerusform>
     <message>
         <source>Select the download path of NuGet and Windows App SDK.</source>
         <translatorcomment>Windows App SDK?</translatorcomment>
-        <translation>Selecione o caminho de download de NuGet e do SDK dapplication Windows.</translation>
+        <translation>Selecione o caminho de download de NuGet e do SDK da aplicação Windows.</translation>
     </message>
     <message>
         <source>Select Download Path</source>
@@ -52995,22 +52995,22 @@ estes arquivos são préservés.</numerusform>
 NuGet is needed for downloading Windows App SDK.</source>
         <translation>Download automática de NuGet.
 
-NuGet é necessário para baixar o SDK dapplication Windows.</translation>
+NuGet é necessário para baixar o SDK da aplicação Windows.</translation>
     </message>
     <message>
         <source>Select the path of the Windows App SDK.</source>
-        <translation>Selecione o caminho do SDK dapplication Windows.</translation>
+        <translation>Selecione o caminho do SDK da aplicação Windows.</translation>
     </message>
     <message>
         <source>Download Windows App SDK</source>
-        <translation>Baixar o SDK dapplication Windows</translation>
+        <translation>Baixar o SDK da aplicação Windows</translation>
     </message>
     <message>
         <source>Automatically download Windows App SDK with NuGet.
 
 If the automatic download fails, Qt Creator proposes to open the download URL
 in the system browser for manual download.</source>
-        <translation>Download automática do SDK dapplication Windows com NuGet.
+        <translation>Download automática do SDK da aplicação Windows com NuGet.
 
 se o download automática échoue, Qt&#xa0;Creator propose dabrir o URL de download
 em o navigateur Internet do sistema para um download manuel.</translation>
@@ -53025,19 +53025,19 @@ em o navigateur Internet do sistema para um download manuel.</translation>
     </message>
     <message>
         <source>Windows App SDK path exists.</source>
-        <translation>o caminho do SDK dapplication Windows existe.</translation>
+        <translation>o caminho do SDK da aplicação Windows existe.</translation>
     </message>
     <message>
         <source>Windows App SDK settings are OK.</source>
-        <translation>Os parâmetros do SDK dapplication Windows são corrects.</translation>
+        <translation>Os parâmetros do SDK da aplicação Windows são corrects.</translation>
     </message>
     <message>
         <source>Windows App SDK settings have errors.</source>
-        <translation>Os parâmetros do SDK dapplication Windows contiennent dos erreurs.</translation>
+        <translation>Os parâmetros do SDK da aplicação Windows contiennent dos erreurs.</translation>
     </message>
     <message>
         <source>Select Windows App SDK Path</source>
-        <translation>Selecione o caminho do SDK dapplication Windows</translation>
+        <translation>Selecione o caminho do SDK da aplicação Windows</translation>
     </message>
     <message>
         <source>Download Path</source>
@@ -53057,11 +53057,11 @@ em o navigateur Internet do sistema para um download manuel.</translation>
     </message>
     <message>
         <source>Windows App SDK Settings</source>
-        <translation>parâmetros do SDK dapplication Windows</translation>
+        <translation>parâmetros do SDK da aplicação Windows</translation>
     </message>
     <message>
         <source>Windows App SDK location:</source>
-        <translation>Emplacement do SDK dapplication Windows&#xa0;:</translation>
+        <translation>Emplacement do SDK da aplicação Windows&#xa0;:</translation>
     </message>
     <message>
         <source>NuGet download failed.</source>
@@ -53111,27 +53111,27 @@ Escolha um caminho différent.</translation>
     </message>
     <message>
         <source>Downloading Windows App SDK</source>
-        <translation>Download do SDK dapplication Windows</translation>
+        <translation>Download do SDK da aplicação Windows</translation>
     </message>
     <message>
         <source>Windows App SDK is already configured.</source>
-        <translation>o SDK dapplication Windows é já configurado.</translation>
+        <translation>o SDK da aplicação Windows é já configurado.</translation>
     </message>
     <message>
         <source>Downloading Windows App SDK...</source>
-        <translation>Download do SDK dapplication Windows…</translation>
+        <translation>Download do SDK da aplicação Windows…</translation>
     </message>
     <message>
         <source>Windows App SDK download failed.</source>
-        <translation>falha durante do download do SDK dapplication Windows.</translation>
+        <translation>falha durante do download do SDK da aplicação Windows.</translation>
     </message>
     <message>
         <source>Open Windows App SDK URL for manual download?</source>
-        <translation>Ouverture do URL do SDK dapplication Windows para um download manuel&#xa0;?</translation>
+        <translation>Ouverture do URL do SDK da aplicação Windows para um download manuel&#xa0;?</translation>
     </message>
     <message>
         <source>Windows App SDK</source>
-        <translation>SDK dapplication Windows</translation>
+        <translation>SDK da aplicação Windows</translation>
     </message>
     <message>
         <source>Enable to specify a private key file to use for authentication, otherwise the default mechanism is used for authentication (password, .sshconfig and the default private key).</source>
@@ -54090,7 +54090,7 @@ Vous avez rarement besoin de isso.</translation>
     </message>
     <message>
         <source>Restore Default App</source>
-        <translation>restaurar o application por padrão</translation>
+        <translation>restaurar o aplicação por padrão</translation>
     </message>
     <message>
         <source>WizardPage</source>
@@ -54122,19 +54122,19 @@ Vous avez rarement besoin de isso.</translation>
     </message>
     <message>
         <source>Set This Application to Start by Default</source>
-        <translation>Definir o inicialização por padrão de esta application</translation>
+        <translation>Definir o inicialização por padrão de esta aplicação</translation>
     </message>
     <message>
         <source>Reset Default Application</source>
-        <translation>Redefinir o application por padrão</translation>
+        <translation>Redefinir o aplicação por padrão</translation>
     </message>
     <message>
         <source>Application set as the default one.</source>
-        <translation>L&apos;application é definido como celle por padrão.</translation>
+        <translation>L&apos;aplicação é definido como celle por padrão.</translation>
     </message>
     <message>
         <source>Reset the default application.</source>
-        <translation>Redefinir o application por padrão.</translation>
+        <translation>Redefinir o aplicação por padrão.</translation>
     </message>
     <message>
         <source>Remote process failed: %1</source>
@@ -54142,7 +54142,7 @@ Vous avez rarement besoin de isso.</translation>
     </message>
     <message>
         <source>Change default application</source>
-        <translation>Changer o application por padrão</translation>
+        <translation>Changer o aplicação por padrão</translation>
     </message>
     <message>
         <source>Flash wizard &quot;%1&quot; failed to start.</source>
@@ -54183,11 +54183,11 @@ Vous avez rarement besoin de isso.</translation>
     </message>
     <message>
         <source>The remote executable must be set to run on a Boot to Qt device.</source>
-        <translation>L&apos;executável distant deve ser definido afin de ser exécuté em um dispositivo Boot to Qt.</translation>
+        <translation>L&apos;executável distant deve ser definido afin de ser executado em um dispositivo Boot to Qt.</translation>
     </message>
     <message>
         <source>No device to stop the application on.</source>
-        <translation>nenhum dispositivo em lequel stopper o application.</translation>
+        <translation>nenhum dispositivo em lequel stopper o aplicação.</translation>
     </message>
     <message>
         <source>Stopped the running application.</source>
@@ -54195,15 +54195,15 @@ Vous avez rarement besoin de isso.</translation>
     </message>
     <message>
         <source>Could not check and possibly stop running application.</source>
-        <translation>impossível de verificar e de parar o application em execução.</translation>
+        <translation>impossível de verificar e de parar o aplicação em execução.</translation>
     </message>
     <message>
         <source>Checked that there is no running application.</source>
-        <translation>Verificação do absence dapplication em execução.</translation>
+        <translation>Verificação do absence da aplicação em execução.</translation>
     </message>
     <message>
         <source>Stop already running application</source>
-        <translation>parar o application em execução</translation>
+        <translation>parar o aplicação em execução</translation>
     </message>
     <message>
         <source>Boot to Qt: %1</source>
@@ -54242,7 +54242,7 @@ Vous avez rarement besoin de isso.</translation>
     </message>
     <message>
         <source>The application &quot;%1&quot; could not be found.</source>
-        <translation>L’application «&#xa0;%1&#xa0;» é introuvable.</translation>
+        <translation>A aplicação «&#xa0;%1&#xa0;» é introuvable.</translation>
     </message>
     <message>
         <source>Details</source>
@@ -55152,7 +55152,7 @@ Ajoute a biblioteca e os chemins de inclusion em o arquivo .pro.</translation>
     </message>
     <message>
         <source>Binding Editor</source>
-        <translation>editor de liaison</translation>
+        <translation>editor de ligação</translation>
     </message>
     <message>
         <source>NOT</source>
@@ -55274,7 +55274,7 @@ Ajoute a biblioteca e os chemins de inclusion em o arquivo .pro.</translation>
     </message>
     <message>
         <source>The property %1 is bound to an expression.</source>
-        <translation>a propriedade %1 é liée à uma expression.</translation>
+        <translation>a propriedade %1 é vinculada à uma expression.</translation>
     </message>
     <message>
         <source>Overwrite Existing File?</source>
@@ -55583,7 +55583,7 @@ Souhaitez-vous editar este effet&#xa0;?</translation>
     </message>
     <message>
         <source>Snap with Anchors</source>
-        <translation>Aimantation com os ancres</translation>
+        <translation>Ajustar com âncoras</translation>
     </message>
     <message>
         <source>Snap Without Anchors</source>
@@ -55591,7 +55591,7 @@ Souhaitez-vous editar este effet&#xa0;?</translation>
     </message>
     <message>
         <source>Show Bounds</source>
-        <translation>exibir os bordures</translation>
+        <translation>exibir os bordas</translation>
     </message>
     <message>
         <source>Override Width</source>
@@ -55876,7 +55876,7 @@ erro&#xa0;:
     </message>
     <message>
         <source>Sibling component spacing:</source>
-        <translation>Espacement dos componentes voisins&#xa0;:</translation>
+        <translation>Espaçamento dos componentes voisins&#xa0;:</translation>
     </message>
     <message>
         <source>Canvas</source>
@@ -56036,7 +56036,7 @@ erro&#xa0;:
     </message>
     <message>
         <source>Displays the version ID of the Qt UI Viewer application.</source>
-        <translation>exibe o identifiant de versão do application Qt&#xa0;Ui&#xa0;Viewer.</translation>
+        <translation>exibe o identifiant de versão do aplicação Qt&#xa0;Ui&#xa0;Viewer.</translation>
     </message>
     <message>
         <source>Displays the ID created by the target device.</source>
@@ -56080,7 +56080,7 @@ erro&#xa0;:
     </message>
     <message>
         <source>App Version</source>
-        <translation>versão do application</translation>
+        <translation>versão do aplicação</translation>
     </message>
     <message>
         <source>Self ID</source>
@@ -56096,7 +56096,7 @@ erro&#xa0;:
     </message>
     <message>
         <source>Run App</source>
-        <translation>executar o application</translation>
+        <translation>executar o aplicação</translation>
     </message>
     <message>
         <source>Live Preview</source>
@@ -56260,7 +56260,7 @@ erro&#xa0;:
     </message>
     <message>
         <source>Border</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Easing</source>
@@ -56392,19 +56392,19 @@ erro&#xa0;:
     </message>
     <message>
         <source>Component definition is missing a name binding.</source>
-        <translation>Une liaison de nome é manquant na definição do componente.</translation>
+        <translation>Une ligação de nome é manquant na definição do componente.</translation>
     </message>
     <message>
         <source>ModuleApi definition has no or invalid version binding.</source>
-        <translation>a definição do ModuleApi ne possui pas de liaison de versão ou celle-ci é invalide.</translation>
+        <translation>a definição do ModuleApi ne possui pas de ligação de versão ou celle-ci é invalide.</translation>
     </message>
     <message>
         <source>Method or signal is missing a name script binding.</source>
-        <translation>Ele manque uma método ou um signal na liaison de script de nome.</translation>
+        <translation>Ele manque uma método ou um signal na ligação de script de nome.</translation>
     </message>
     <message>
         <source>Expected script binding.</source>
-        <translation>Une liaison de script é attendue.</translation>
+        <translation>Une ligação de script é attendue.</translation>
     </message>
     <message>
         <source>Major version different from 1 not supported.</source>
@@ -56416,7 +56416,7 @@ erro&#xa0;:
     </message>
     <message>
         <source>Property object is missing a name script binding.</source>
-        <translation>L&apos;objet Property ne dispose pas de uma liaison de script de nome.</translation>
+        <translation>L&apos;objet Property ne dispose pas de uma ligação de script de nome.</translation>
     </message>
     <message>
         <source>Expected string after colon.</source>
@@ -56728,7 +56728,7 @@ para mas de informations, allez à documentation «&#xa0;Checking Code Syntax&#x
     </message>
     <message>
         <source>This visual property binding cannot be evaluated in the local context and might not show up in Qt Design Studio as expected.</source>
-        <translation>a liaison de propriedade visuelle ne pode ser évaluée em o contexte local e pode ne pas apparaître como voulu em Qt Design Studio.</translation>
+        <translation>a ligação de propriedade visuelle ne pode ser évaluée em o contexte local e pode ne pas apparaître como voulu em Qt Design Studio.</translation>
     </message>
     <message>
         <source>Qt Design Studio only supports states in the root item.</source>
@@ -56772,7 +56772,7 @@ para mas de informations, allez à documentation «&#xa0;Checking Code Syntax&#x
     </message>
     <message>
         <source>Do not mix translation functions in a UI file (.ui.qml).</source>
-        <translation>Ne mélangez pas os fonctions de traductions em um arquivo UI (.ui.qml).</translation>
+        <translation>Não misture funções de tradução em um arquivo de UI (.ui.qml).</translation>
     </message>
     <message>
         <source>A State cannot have a child item (%1).</source>
@@ -57005,8 +57005,8 @@ erro : %2</translation>
     <message>
         <source>Could not locate the helper application for dumping type information from C++ plugins.
 Please build the qmldump application on the Qt version options page.</source>
-        <translation>impossível de trouver o application dajuda para a recepção dos informations em os types à partir dos plugins C++.
-Veuillez compiler o application qmldump à partir da page doptions à propos da versão de Qt.</translation>
+        <translation>impossível de trouver o aplicação dajuda para a recepção dos informations em os types à partir dos plugins C++.
+Veuillez compiler o aplicação qmldump à partir da page doptions à propos da versão de Qt.</translation>
     </message>
     <message>
         <source>XML error on line %1, col %2: %3</source>
@@ -57130,7 +57130,7 @@ Veuillez compiler o application qmldump à partir da page doptions à propos da 
     </message>
     <message>
         <source>Set the path to the Qt Design Studio application to enable the &quot;Open in Qt Design Studio&quot; feature. If you have Qt Design Studio installed alongside Qt Creator with the Qt Online Installer, it is used as the default. Use &lt;a href=&quot;linwithqt&quot;&gt;&quot;Link with Qt&quot;&lt;/a&gt; to link an offline installation of Qt Creator to a Qt Online Installer.</source>
-        <translation>Définissez o caminho do application Qt&#xa0;Design&#xa0;Studio para ativar a fonctionnalité «&#xa0;abrir em Qt&#xa0;Design&#xa0;Studio&#xa0;». se Qt&#xa0;Design&#xa0;Studio é instalado com Qt&#xa0;Creation grâce à Qt&#xa0;Online&#xa0;Installer, ele é utilizado por padrão. Utilisez &lt;a href=&quot;linwithqt&quot;&gt;&quot;Vincular com Qt&quot;&lt;/a&gt; para relier uma installation fora linha de Qt&#xa0;Creation à Qt&#xa0;Online&#xa0;Installer.</translation>
+        <translation>Définissez o caminho do aplicação Qt&#xa0;Design&#xa0;Studio para ativar a fonctionnalité «&#xa0;abrir em Qt&#xa0;Design&#xa0;Studio&#xa0;». se Qt&#xa0;Design&#xa0;Studio é instalado com Qt&#xa0;Creation grâce à Qt&#xa0;Online&#xa0;Installer, ele é utilizado por padrão. Utilisez &lt;a href=&quot;linwithqt&quot;&gt;&quot;Vincular com Qt&quot;&lt;/a&gt; para relier uma installation fora linha de Qt&#xa0;Creation à Qt&#xa0;Online&#xa0;Installer.</translation>
     </message>
     <message>
         <source>Install Qt Design Studio</source>
@@ -57597,7 +57597,7 @@ Veuillez compiler o application qmldump à partir da page doptions à propos da 
     </message>
     <message>
         <source>Preview changes to QML code live in your application.</source>
-        <translation>Prévisualiser os modifications apportées ao code QML em direct em votre application.</translation>
+        <translation>Prévisualiser os modifications apportées ao code QML em direct em votre aplicação.</translation>
     </message>
     <message>
         <source>Preview File</source>
@@ -57628,7 +57628,7 @@ Veuillez compiler o application qmldump à partir da page doptions à propos da 
     </message>
     <message>
         <source>Select an externally started QML-debug enabled application.&lt;p&gt;Commonly used command-line arguments are:</source>
-        <translation>selecionar uma application QML externe prête para o depuração. &lt;p&gt;Os arguments da linha de comando habituais são&#xa0;:</translation>
+        <translation>selecionar uma aplicação QML externe prête para o depuração. &lt;p&gt;Os arguments da linha de comando habituais são&#xa0;:</translation>
     </message>
     <message>
         <source>Kit:</source>
@@ -57660,7 +57660,7 @@ Veuillez compiler o application qmldump à partir da page doptions à propos da 
     </message>
     <message>
         <source>The QML Profiler can be used to find performance bottlenecks in applications using QML.</source>
-        <translation>o profileur QML pode ser utilizado para trouver os goulots de étranglement dos applications QML.</translation>
+        <translation>o profileur QML pode ser utilizado para trouver os goulots de étranglement dos aplicações QML.</translation>
     </message>
     <message>
         <source>QML Profiler Options</source>
@@ -57672,7 +57672,7 @@ Veuillez compiler o application qmldump à partir da page doptions à propos da 
     </message>
     <message>
         <source>QML Profiler (Attach to Waiting Application)</source>
-        <translation>Profileur QML (attacher ao application nattente)</translation>
+        <translation>Profileur QML (attacher ao aplicação nattente)</translation>
     </message>
     <message>
         <source>Save QML Trace</source>
@@ -57681,7 +57681,7 @@ Veuillez compiler o application qmldump à partir da page doptions à propos da 
     <message>
         <source>Application finished before loading profiled data.
 Please use the stop button instead.</source>
-        <translation>L’application se é concluída antes o carregamento dos dados de profilage.
+        <translation>A aplicação se é concluída antes o carregamento dos dados de profilage.
 Veuillez usar o botão de parada à lugar.</translation>
     </message>
     <message>
@@ -57710,7 +57710,7 @@ Veuillez usar o botão de parada à lugar.</translation>
     </message>
     <message>
         <source>The application finished before a connection could be established. No data was loaded.</source>
-        <translation>L&apos;application se é concluída antes que uma conexão ne puisse ser établie. nenhuma dado n&apos;a foi carregada.</translation>
+        <translation>L&apos;aplicação se é concluída antes que uma conexão ne puisse ser établie. nenhuma dado n&apos;a foi carregada.</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -57946,7 +57946,7 @@ Souhaitez-vous salvar os dados antes&#xa0;?</translation>
     <message>
         <source>Binding</source>
         <translatorcomment>Vérifier o contexte</translatorcomment>
-        <translation>Liaison</translation>
+        <translation>Ligação</translation>
     </message>
     <message>
         <source>Signal</source>
@@ -57979,13 +57979,13 @@ Souhaitez-vous salvar os dados antes&#xa0;?</translation>
     <message numerus="yes">
         <source>Profiling application: %n events</source>
         <translation>
-            <numerusform>Profilage do application&#xa0;: %n événement</numerusform>
-            <numerusform>Profilage do application&#xa0;: %n eventos</numerusform>
+            <numerusform>Profilage do aplicação&#xa0;: %n événement</numerusform>
+            <numerusform>Profilage do aplicação&#xa0;: %n eventos</numerusform>
         </translation>
     </message>
     <message>
         <source>Profiling application</source>
-        <translation>Profilage do application</translation>
+        <translation>Profilage do aplicação</translation>
     </message>
     <message>
         <source>No QML events recorded</source>
@@ -58169,7 +58169,7 @@ Enregistrement falhou.</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Result</source>
@@ -58256,7 +58256,7 @@ Enregistrement falhou.</translation>
 data and the memory usage in the application. It distorts the profile as the flushing
 itself takes time.</source>
         <translation>vazio périodiquement os dados do profileur nattente. isso réduit o atraso durante do carregamento dos dados
-e o uso memória do application. isso impacte o profilage sachant que o vidage
+e o uso memória do aplicação. isso impacte o profilage sachant que o vidage
 prend lui aussi do tempo.</translation>
     </message>
     <message>
@@ -58274,7 +58274,7 @@ for example if multiple QML engines start and stop sequentially during a single 
 the program.</source>
         <translation>Traite os dados uniquement quando o processo profilé se termine e não quando a session de enregistrement
 se termine. de esta façon, vários sessions de enregistrements podem ser rassemblés em uma trace,
-especialmente quando vários moteurs QML démarrent e se arrêtent ao cours de um apenas programme.</translation>
+especialmente quando vários motors QML démarrent e se arrêtent ao cours de um apenas programme.</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -58458,7 +58458,7 @@ especialmente quando vários moteurs QML démarrent e se arrêtent ao cours de u
     </message>
     <message>
         <source>Render Bind</source>
-        <translation>Liaison de renderização</translation>
+        <translation>Ligação de renderização</translation>
     </message>
     <message>
         <source>Render Render</source>
@@ -58478,7 +58478,7 @@ especialmente quando vários moteurs QML démarrent e se arrêtent ao cours de u
     </message>
     <message>
         <source>Texture Bind</source>
-        <translation>Liaison de texture</translation>
+        <translation>Ligação de texture</translation>
     </message>
     <message>
         <source>Texture Convert</source>
@@ -58486,7 +58486,7 @@ especialmente quando vários moteurs QML démarrent e se arrêtent ao cours de u
     </message>
     <message>
         <source>Texture Swizzle</source>
-        <translation>Mélange de texture</translation>
+        <translation>Mistura de texture</translation>
     </message>
     <message>
         <source>Texture Upload</source>
@@ -58718,7 +58718,7 @@ Voulez-vous vraiment continuer&#xa0;?</translation>
     </message>
     <message>
         <source>The project was created with a Qt Design Studio version earlier than Qt Design Studio 4.5. Due to limitations of the project structure in earlier Qt Design Studio versions, the resulting application might not display all the assets. Referring to assets between different QML modules does not work in the compiled application.&lt;br&gt;&lt;a href=&quot;https://doc.qt.io/qtdesignstudio/studio-designer-developer-workflow.html&quot;&gt;See the documentation for details.&lt;/a&gt;</source>
-        <translation>o projeto a foi criado com uma versão de Qt&#xa0;Design&#xa0;Studio antérieure à Qt&#xa0;Design&#xa0;Studio&#xa0;4.5. En raison de uma limitation na structure do projeto em os anciennes versão de Qt&#xa0;Design&#xa0;Studio, o application obtenue pourrait ne pas exibir todas os recursos. o référencement de recursos entre différents modules QML ne fonctionne pas em o application compilée.&lt;br&gt;&lt;a href=&quot;https://doc.qt.io/qtdesignstudio/studio-designer-developer-workflow.html&quot;&gt;Consultez a documentation para mas de detalhes.&lt;/a&gt;</translation>
+        <translation>o projeto a foi criado com uma versão de Qt&#xa0;Design&#xa0;Studio antérieure à Qt&#xa0;Design&#xa0;Studio&#xa0;4.5. En raison de uma limitation na structure do projeto em os anciennes versão de Qt&#xa0;Design&#xa0;Studio, o aplicação obtenue pourrait ne pas exibir todas os recursos. o référencement de recursos entre différents modules QML ne fonctionne pas em o aplicação compilée.&lt;br&gt;&lt;a href=&quot;https://doc.qt.io/qtdesignstudio/studio-designer-developer-workflow.html&quot;&gt;Consultez a documentation para mas de detalhes.&lt;/a&gt;</translation>
     </message>
     <message>
         <source>The project structure has changed.
@@ -58855,7 +58855,7 @@ Veuillez verificar o panneau de saída para mas de informations.</translation>
     </message>
     <message>
         <source>Attach to remote QNX application...</source>
-        <translation>Attacher à uma application QNX remoto…</translation>
+        <translation>Attacher à uma aplicação QNX remoto…</translation>
     </message>
     <message>
         <source>New QNX Device Configuration Setup</source>
@@ -59507,7 +59507,7 @@ Voulez-vous vraiment continuer&#xa0;?</translation>
     </message>
     <message>
         <source>%1 is currently linked to &quot;%2&quot;.</source>
-        <translation>%1 é actuellement lié à «&#xa0;%2&#xa0;».</translation>
+        <translation>%1 é actuellement vinculado à «&#xa0;%2&#xa0;».</translation>
     </message>
     <message>
         <source>Qt installation information was not found in &quot;%1&quot;. Choose a directory that contains one of the files %2</source>
@@ -59543,7 +59543,7 @@ Voulez-vous vraiment continuer&#xa0;?</translation>
     </message>
     <message>
         <source>Error Linking With Qt</source>
-        <translation>erro de liaison com Qt</translation>
+        <translation>erro de ligação com Qt</translation>
     </message>
     <message>
         <source>Could not write to &quot;%1&quot;.</source>
@@ -59739,7 +59739,7 @@ Voulez-vous vraiment continuer&#xa0;?</translation>
     </message>
     <message>
         <source>Might make your application vulnerable.&lt;br/&gt;Only use in a safe environment.</source>
-        <translation>Pode rendre votre application vulnérable.&lt;br/&gt;usar uniquement em um environnement sûr.</translation>
+        <translation>Pode rendre votre aplicação vulnérable.&lt;br/&gt;usar uniquement em um environnement sûr.</translation>
     </message>
     <message>
         <source>Qt Quick Compiler:</source>
@@ -60470,7 +60470,7 @@ o processo de controle n&apos;a pas pu iniciar.</translation>
     </message>
     <message>
         <source>Kill current application instance</source>
-        <translation>Tuer o instância do application atual</translation>
+        <translation>Tuer o instância do aplicação atual</translation>
     </message>
     <message>
         <source>Command:</source>
@@ -61994,7 +61994,7 @@ Linha&#xa0;: %4, colonne&#xa0;: %5
     </message>
     <message>
         <source>&lt;No Application&gt;</source>
-        <translation>&lt;nenhuma application&gt;</translation>
+        <translation>&lt;nenhuma aplicação&gt;</translation>
     </message>
     <message>
         <source>Arguments:</source>
@@ -62416,11 +62416,11 @@ Refus de salvar o cas de test «&#xa0;%2&#xa0;».</translation>
     </message>
     <message>
         <source>Select Application to test</source>
-        <translation>selecionar o application à tester</translation>
+        <translation>selecionar o aplicação à tester</translation>
     </message>
     <message>
         <source>Select Application Path</source>
-        <translation>selecionar o caminho do application</translation>
+        <translation>selecionar o caminho do aplicação</translation>
     </message>
     <message>
         <source>Squish Server Settings</source>
@@ -62483,7 +62483,7 @@ o servidor Squish se é concluído com o erro %1.</translation>
     <message>
         <source>Squish could not find the AUT &quot;%1&quot; to start. Make sure it has been added as a Mapped AUT in the squishserver settings.
 (Tools &gt; Squish &gt; Server Settings...)</source>
-        <translation>Squish n&apos;a pas pu trouver o AUT «&#xa0;%1&#xa0;» à iniciar. Assurez-vous que o application a foi adicionada ao «&#xa0;AUTs connus&#xa0;» em os parâmetros do servidor Squish.
+        <translation>Squish n&apos;a pas pu trouver o AUT «&#xa0;%1&#xa0;» à iniciar. Assurez-vous que o aplicação a foi adicionada ao «&#xa0;AUTs connus&#xa0;» em os parâmetros do servidor Squish.
 (ferramentas &gt; Squish &gt; parâmetros servidor…)</translation>
     </message>
     <message>
@@ -63436,7 +63436,7 @@ En outre, Maj+Entrada insere um caractere de échappement à posição do curseu
     </message>
     <message>
         <source>Remove the automatically inserted character if the trigger is deleted by backspace after the completion.</source>
-        <translation>Supprime o caractere inséré automatiquement se o déclencheur é removido por um espacement traseiro depois a conclusão.</translation>
+        <translation>Supprime o caractere inséré automatiquement se o déclencheur é removido por um espaçamento traseiro depois a conclusão.</translation>
     </message>
     <message>
         <source>Overwrite closing punctuation</source>
@@ -63569,7 +63569,7 @@ Une valor inférieure à 100 % pode entraîner um chevauchement e um mauvais ali
     </message>
     <message>
         <source>Line spacing:</source>
-        <translation>Espacement dos linhas :</translation>
+        <translation>Espaçamento dos linhas :</translation>
     </message>
     <message>
         <source>Color Scheme for Theme &quot;%1&quot;</source>
@@ -63921,7 +63921,7 @@ Une valor inférieure à 100 % pode entraîner um chevauchement e um mauvais ali
     </message>
     <message>
         <source>Join Lines</source>
-        <translation>Joindre os linhas</translation>
+        <translation>Unir as linhas</translation>
     </message>
     <message>
         <source>Delete Line from Cursor On</source>
@@ -64848,11 +64848,11 @@ Ne se aplica pas aos espaces blancs em os commentaires e em os cadeias de caract
     </message>
     <message>
         <source>QML Binding</source>
-        <translation>Liaison QML</translation>
+        <translation>Ligação QML</translation>
     </message>
     <message>
         <source>QML item property, that allows a binding to another property.</source>
-        <translation>propriedade do elemento QML, que permet a liaison com uma autre propriedade.</translation>
+        <translation>propriedade do elemento QML, que permet a ligação com uma autre propriedade.</translation>
     </message>
     <message>
         <source>QML Local Id</source>
@@ -65110,7 +65110,7 @@ Ne se aplica pas aos espaces blancs em os commentaires e em os cadeias de caract
     </message>
     <message>
         <source>Highlight definitions are provided by the %1 engine.</source>
-        <translation>Os definições em surbrillance são déterminées pelo moteur %1.</translation>
+        <translation>Os definições em surbrillance são déterminées pelo motor %1.</translation>
     </message>
     <message>
         <source>Download missing and update existing syntax definition files.</source>
@@ -65150,7 +65150,7 @@ Ne se aplica pas aos espaces blancs em os commentaires e em os cadeias de caract
     </message>
     <message>
         <source>No outline available</source>
-        <translation>nenhum contour disponível</translation>
+        <translation>nenhum contorno disponível</translation>
     </message>
     <message>
         <source>Synchronize with Editor</source>
@@ -65466,7 +65466,7 @@ Exclus : %3
     </message>
     <message>
         <source>Search engine:</source>
-        <translation>Moteur de pesquisa :</translation>
+        <translation>Motor de pesquisa :</translation>
     </message>
     <message>
         <source>Director&amp;y:</source>
@@ -65652,7 +65652,7 @@ Notez que os BOM UTF-8 são peu courants e traités de maneira incorrecte por ce
     </message>
     <message>
         <source>Removes trailing whitespace upon saving.</source>
-        <translation>Supprime os caracteres de espacement à fim das linhas durante do enregistrement.</translation>
+        <translation>Supprime os caracteres de espaçamento à fim das linhas durante do enregistrement.</translation>
     </message>
     <message>
         <source>&amp;Clean whitespace</source>
@@ -65777,7 +65777,7 @@ Notez que os BOM UTF-8 são peu courants e traités de maneira incorrecte por ce
     </message>
     <message>
         <source>&lt;i&gt;Set &lt;a href=&quot;font zoom&quot;&gt;font line spacing&lt;/a&gt; to 100% to enable text wrapping option.&lt;/i&gt;</source>
-        <translation>&lt;i&gt;Definir o &lt;a href=&quot;font zoom&quot;&gt;espacement dos linhas da police&lt;/a&gt; à 100 % para ativar o option de retour à linha do texto.&lt;/i&gt;</translation>
+        <translation>&lt;i&gt;Definir o &lt;a href=&quot;font zoom&quot;&gt;espaçamento dos linhas da police&lt;/a&gt; à 100 % para ativar o option de retour à linha do texto.&lt;/i&gt;</translation>
     </message>
     <message>
         <source>Display right &amp;margin after column:</source>
@@ -68340,7 +68340,7 @@ com a simulation do cache, dautres compteurs de eventos são ativados :
     </message>
     <message>
         <source>Valgrind Function Profiler (External Application)</source>
-        <translation>Profileur de fonctions de Valgrind (application externe)</translation>
+        <translation>Profileur de fonctions de Valgrind (aplicação externe)</translation>
     </message>
     <message>
         <source>Visualization</source>
@@ -68594,7 +68594,7 @@ com a simulation do cache, dautres compteurs de eventos são ativados :
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
         <translation>L’analyseur de memória de Valgrind com GDB usa o ferramenta Memcheck para trouver dos fuites memória.
-quando un problema é détecté, o application se interrompt e pode ser déboguée.</translation>
+quando un problema é détecté, o aplicação se interrompt e pode ser déboguée.</translation>
     </message>
     <message>
         <source>Heob</source>
@@ -68606,7 +68606,7 @@ quando un problema é détecté, o application se interrompt e pode ser débogu�
     </message>
     <message>
         <source>Valgrind Memory Analyzer (External Application)</source>
-        <translation>Analyseur de memória de Valgrind (application externe)</translation>
+        <translation>Analyseur de memória de Valgrind (aplicação externe)</translation>
     </message>
     <message>
         <source>Heob: No local run configuration available.</source>
@@ -68854,7 +68854,7 @@ quando un problema é détecté, o application se interrompt e pode ser débogu�
     </message>
     <message>
         <source>Only works with dynamically linked CRT.</source>
-        <translation>Ne fonctionne que com os CRT liés dynamiquement.</translation>
+        <translation>Ne fonctionne que com os CRT vinculados dynamiquement.</translation>
     </message>
     <message>
         <source>Process stopped with unhandled exception code 0x%1.</source>
@@ -68866,7 +68866,7 @@ quando un problema é détecté, o application se interrompt e pode ser débogu�
     </message>
     <message>
         <source>Application stopped unexpectedly.</source>
-        <translation>L’application se é arrêtée de maneira inattendue.</translation>
+        <translation>A aplicação se é arrêtée de maneira inattendue.</translation>
     </message>
     <message>
         <source>Extra console.</source>
@@ -69051,7 +69051,7 @@ quando un problema é détecté, o application se interrompt e pode ser débogu�
     </message>
     <message>
         <source>executed</source>
-        <translation>exécuté</translation>
+        <translation>executado</translation>
     </message>
     <message>
         <source>miss</source>
@@ -69884,7 +69884,7 @@ se um repositório requiert uma authentification SSH (voir a documentation em SS
     </message>
     <message>
         <source>&lt;p style=&quot;margin-top: 30px&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td style=&quot;padding-right: 20px&quot;&gt;Welcome:&lt;/td&gt;&lt;td&gt;Open examples, tutorials, and recent sessions and projects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edit:&lt;/td&gt;&lt;td&gt;Work with code and navigate your project.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Design:&lt;/td&gt;&lt;td&gt;Visually edit Widget-based user interfaces, state charts and UML models.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Debug:&lt;/td&gt;&lt;td&gt;Analyze your application with a debugger or other analyzers.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Projects:&lt;/td&gt;&lt;td&gt;Manage project settings.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Help:&lt;/td&gt;&lt;td&gt;Browse the help database.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</source>
-        <translation>&lt;p style=&quot;margin-top: 30px&quot;&gt;&lt;tabela&gt;&lt;tr&gt;&lt;td style=&quot;padding-right: 20px&quot;&gt;Accueil :&lt;/td&gt;&lt;td&gt;Ouvrez dos exemples, dos tutoriels e dos sessions e projetos récents.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Editar&#xa0;:&lt;/td&gt;&lt;td&gt;Travaillez com o code e naviguez em votre projeto.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Design&#xa0;:&lt;/td&gt;&lt;td&gt;Modifiez visuellement dos interfaces usuário basées em dos widgets, dos diagrammes de estado e dos modelos UML. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;depuração&#xa0;:&lt;/td&gt;&lt;td&gt;Analysez votre application com um depurador ou dautres analyseurs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;projetos&#xa0;:&lt;/td&gt;&lt;td&gt;Gérez os parâmetros do projeto.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ajuda&#xa0;:&lt;/td&gt;&lt;td&gt;Parcourez a base de dados dajuda.&lt;/td&gt;&lt;/tr&gt;&lt;/tabela&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p style=&quot;margin-top: 30px&quot;&gt;&lt;tabela&gt;&lt;tr&gt;&lt;td style=&quot;padding-right: 20px&quot;&gt;Accueil :&lt;/td&gt;&lt;td&gt;Ouvrez dos exemples, dos tutoriels e dos sessions e projetos récents.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Editar&#xa0;:&lt;/td&gt;&lt;td&gt;Travaillez com o code e naviguez em votre projeto.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Design&#xa0;:&lt;/td&gt;&lt;td&gt;Modifiez visuellement dos interfaces usuário basées em dos widgets, dos diagrammes de estado e dos modelos UML. &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;depuração&#xa0;:&lt;/td&gt;&lt;td&gt;Analysez votre aplicação com um depurador ou dautres analyseurs.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;projetos&#xa0;:&lt;/td&gt;&lt;td&gt;Gérez os parâmetros do projeto.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ajuda&#xa0;:&lt;/td&gt;&lt;td&gt;Parcourez a base de dados dajuda.&lt;/td&gt;&lt;/tr&gt;&lt;/tabela&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Kit Selector</source>
@@ -69936,7 +69936,7 @@ se um repositório requiert uma authentification SSH (voir a documentation em SS
     </message>
     <message>
         <source>Find compile and application output here, as well as a list of configuration and build issues, and the panel for global searches.</source>
-        <translation>Vous y trouverez os resultados da compilation e do application, assim que une lista dos problemas de configuração e de compilation, assim que o panneau dos recherches globales.</translation>
+        <translation>Vous y trouverez os resultados da compilation e do aplicação, assim que une lista dos problemas de configuração e de compilation, assim que o panneau dos recherches globales.</translation>
     </message>
     <message>
         <source>Progress Indicator</source>
@@ -70055,7 +70055,7 @@ se um repositório requiert uma authentification SSH (voir a documentation em SS
     </message>
     <message>
         <source>Open Linked File</source>
-        <translation>abrir o arquivo lié</translation>
+        <translation>abrir o arquivo vinculado</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -70590,18 +70590,18 @@ Membres&#xa0;:</translation>
     </message>
     <message>
         <source>Number of matching elements:</source>
-        <translation>Número de elementos correspondants&#xa0;:</translation>
+        <translation>Número de elementos correspondentes&#xa0;:</translation>
     </message>
 </context>
 <context>
     <name>RadialBlurEffectSpecifics</name>
     <message>
         <source>Radial Blur</source>
-        <translation>Flou radial</translation>
+        <translation>Desfoque radial</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <source>The direction for the blur and at the same time the level of blurring. The larger the angle, the more the result becomes blurred. The quality of the blur depends on samples property.</source>
@@ -70613,7 +70613,7 @@ Membres&#xa0;:</translation>
     </message>
     <message>
         <source>Samples per pixel for blur calculation. A larger value produces better quality, but is slower to render. This property is not intended to be animated. Changing this property may cause the underlying OpenGL shaders to be recompiled.</source>
-        <translation>Número damostras por pixel para o calcul do flou. Une mas grande valor offre um resultado de meilleure qualidade, mas será mas lent à exibir. esta propriedade não é prévue para ser animée. a modification de esta propriedade pode entraîner a recompilation dos shaders OpenGL sous-jacents.</translation>
+        <translation>Número damostras por pixel para o calcul do flou. Une mas grande valor offre um resultado de meilleure qualidade, mas será mas lent à exibir. esta propriedade não é prévue para ser animada. a modification de esta propriedade pode entraîner a recompilation dos shaders OpenGL sous-jacents.</translation>
     </message>
     <message>
         <source>Offsets</source>
@@ -70645,19 +70645,19 @@ Membres&#xa0;:</translation>
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparentee</translation>
+        <translation>Borda transparentee</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -70829,7 +70829,7 @@ define na tamanho de pas.</translation>
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado para o contour.</translation>
+        <translation>Define a cor do traçado para o contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -70837,7 +70837,7 @@ define na tamanho de pas.</translation>
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -70860,19 +70860,19 @@ define na tamanho de pas.</translation>
     </message>
     <message>
         <source>Border color</source>
-        <translation>Cor de bordure</translation>
+        <translation>Cor de borda</translation>
     </message>
     <message>
         <source>Sets the color for the border.</source>
-        <translation>Define a cor da bordure.</translation>
+        <translation>Define a cor da borda.</translation>
     </message>
     <message>
         <source>Border width</source>
-        <translation>largura da bordure</translation>
+        <translation>largura da borda</translation>
     </message>
     <message>
         <source>Sets the border width.</source>
-        <translation>Define a largura da bordure.</translation>
+        <translation>Define a largura da borda.</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -70880,18 +70880,18 @@ define na tamanho de pas.</translation>
     </message>
     <message>
         <source>Sets the radius by which the corners get rounded.</source>
-        <translation>Define o rayon utilizado para arrondir os coins.</translation>
+        <translation>Define o rayon utilizado para arrondir os cantos.</translation>
     </message>
 </context>
 <context>
     <name>RecursiveBlurEffectSpecifics</name>
     <message>
         <source>Recursive Blur</source>
-        <translation>Flou recursivo</translation>
+        <translation>Desfoque recursivo</translation>
     </message>
     <message>
         <source>Loops</source>
-        <translation>Passes</translation>
+        <translation>Passagens</translation>
     </message>
     <message>
         <source>The amount of blur iterations that are going to be performed for the source.</source>
@@ -70907,19 +70907,19 @@ define na tamanho de pas.</translation>
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels  to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparentee</translation>
+        <translation>Borda transparentee</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -71027,7 +71027,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado do contour.</translation>
+        <translation>Define a cor do traçado do contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -71035,7 +71035,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -71059,7 +71059,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets the radius of the corners in the Regular Polygon.</source>
-        <translation>Define o rayon dos coins em o polygone régulier.</translation>
+        <translation>Define o rayon dos cantos em o polygone régulier.</translation>
     </message>
 </context>
 <context>
@@ -71093,7 +71093,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     <name>Repeater3DSection</name>
     <message>
         <source>Repeater</source>
-        <translation>Répéteur</translation>
+        <translation>Repetidor</translation>
     </message>
     <message>
         <source>Model</source>
@@ -71101,7 +71101,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>The model providing data for the repeater. This can simply specify the number of delegate instances to create or it can be bound to an actual model.</source>
-        <translation>o modelo fournissant os dados ao répéteur. isso pode ser juste o número de instâncias déléguées à criar ou a propriedade pode ser liée à um modelo.</translation>
+        <translation>o modelo fournissant os dados ao répéteur. isso pode ser juste o número de instâncias déléguées à criar ou a propriedade pode ser vinculada à um modelo.</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -71116,7 +71116,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     <name>RepeaterSpecifics</name>
     <message>
         <source>Repeater</source>
-        <translation>Répéteur</translation>
+        <translation>Repetidor</translation>
     </message>
     <message>
         <source>Model</source>
@@ -71124,7 +71124,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>The model providing data for the repeater. This can simply specify the number of delegate instances to create or it can be bound to an actual model.</source>
-        <translation>o modelo fournissant os dados ao répéteur. isso pode ser juste o número de instâncias déléguées à criar ou a propriedade pode ser liée à um modelo.</translation>
+        <translation>o modelo fournissant os dados ao répéteur. isso pode ser juste o número de instâncias déléguées à criar ou a propriedade pode ser vinculada à um modelo.</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -71205,7 +71205,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     <name>RoundButtonSpecifics</name>
     <message>
         <source>Round Button</source>
-        <translation>Bouton arrondi</translation>
+        <translation>Bouton arredondado</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -71240,11 +71240,11 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Row spacing</source>
-        <translation>Espacement dos linhas</translation>
+        <translation>Espaçamento dos linhas</translation>
     </message>
     <message>
         <source>Sets the space between the items in pixels in the &lt;b&gt;Row Layout&lt;/b&gt;.</source>
-        <translation>Define o espacement em pixels entre os elementos do &lt;b&gt;agencement em linha&lt;/b&gt;.</translation>
+        <translation>Define o espaçamento em pixels entre os elementos do &lt;b&gt;agencement em linha&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -71271,7 +71271,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets the spacing between items in the row.</source>
-        <translation>Define o espacement entre os elementos da linha.</translation>
+        <translation>Define o espaçamento entre os elementos da linha.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -71283,7 +71283,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Espacement</translation>
+        <translation>Espaçamento</translation>
     </message>
 </context>
 <context>
@@ -71617,7 +71617,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     <name>ScaleAffector3DSection</name>
     <message>
         <source>Particle Scale Affector</source>
-        <translation>Affecteur da tamanho dos partículas</translation>
+        <translation>Afetador da tamanho dos partículas</translation>
     </message>
     <message>
         <source>Scaling Type</source>
@@ -71625,7 +71625,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets the scaling type of the affector.</source>
-        <translation>Define o tipo de redimensionnement effectué pelo affecteur.</translation>
+        <translation>Define o tipo de redimensionnement effectué pelo afetador.</translation>
     </message>
     <message>
         <source>Minimum Size</source>
@@ -71772,11 +71772,11 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Skybox Blur</source>
-        <translation>Flou do céu</translation>
+        <translation>Desfoque do céu</translation>
     </message>
     <message>
         <source>Sets how much to blur the skybox when using SceneEnvironment.SkyBox for the backgroundMode property.</source>
-        <translation>Define a quantidade de flou àplicar ao céu durante do uso do modo de plano de fundo SceneEnvironment.SkyBox.</translation>
+        <translation>Define a quantidade de desfoque a aplicar ao céu ao usar SceneEnvironment.SkyBox como modo de plano de fundo.</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -71905,7 +71905,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Enables scattering the edges of the ambient occlusion shadow bands to improve smoothness.</source>
-        <translation>ativa a dispersion dos bordures dos bandes dombres docclusion ambiente afin de melhorar a douceur.</translation>
+        <translation>ativa a dispersion dos bordas dos bandes dombres docclusion ambiente afin de melhorar a douceur.</translation>
     </message>
     <message>
         <source>Image Based Lighting</source>
@@ -71996,7 +71996,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Application size</source>
-        <translation>tamanho do application</translation>
+        <translation>tamanho do aplicação</translation>
     </message>
     <message>
         <source>W</source>
@@ -72031,7 +72031,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets the component and its property from which the value is copied.</source>
-        <translation>Define a propriedade do componente à partir de lao qualle a valor é copiée.</translation>
+        <translation>Define o componente e a propriedade de origem da qual o valor é copiado.</translation>
     </message>
     <message>
         <source>Sets the component and its property to which the copied value is assigned.</source>
@@ -72266,7 +72266,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets a slight offset to avoid self-shadowing artifacts.</source>
-        <translation>Define um léger deslocamento para éviter os artefacts liés à sa propre ombre.</translation>
+        <translation>Define um léger deslocamento para éviter os artefacts vinculados à sa propre ombre.</translation>
     </message>
     <message>
         <source>Far Distance</source>
@@ -72779,7 +72779,7 @@ Un gain de 1 augmentera o volume do signal sonore de environ 20&#xa0;dB quando o
     </message>
     <message>
         <source>Sets the minimum number of samples used for performing Parallax Occlusion Mapping using the heightMap.</source>
-        <translation>Define o número minimum damostras da texture dos hauteurs à usar durante do application do «&#xa0;Parallax&#xa0;Occlusion&#xa0;Mapping&#xa0;».</translation>
+        <translation>Define o número minimum damostras da texture dos hauteurs à usar durante do aplicação do «&#xa0;Parallax&#xa0;Occlusion&#xa0;Mapping&#xa0;».</translation>
     </message>
     <message>
         <source>Max Map Samples</source>
@@ -72787,7 +72787,7 @@ Un gain de 1 augmentera o volume do signal sonore de environ 20&#xa0;dB quando o
     </message>
     <message>
         <source>Sets the maximum number of samples used for performing Parallax Occlusion Mapping using the heightMap.</source>
-        <translation>Define o número maximum damostras da texture dos hauteurs à usar durante do application do «&#xa0;Parallax&#xa0;Occlusion&#xa0;Mapping&#xa0;».</translation>
+        <translation>Define o número maximum damostras da texture dos hauteurs à usar durante do aplicação do «&#xa0;Parallax&#xa0;Occlusion&#xa0;Mapping&#xa0;».</translation>
     </message>
     <message>
         <source>Clearcoat</source>
@@ -73398,7 +73398,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado do contour.</translation>
+        <translation>Define a cor do traçado do contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -73406,7 +73406,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -73438,7 +73438,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Sets the radius of the corners in the Regular Polygon.</source>
-        <translation>Define o rayon dos coins do polygone régulier.</translation>
+        <translation>Define o rayon dos cantos do polygone régulier.</translation>
     </message>
 </context>
 <context>
@@ -73594,7 +73594,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Custom Connections can only be edited with the binding editor</source>
-        <translation>Os connexions personnalisées ne podem ser modifiées que com o editor de liaison</translation>
+        <translation>Os connexions personnalisées ne podem ser modifiées que com o editor de ligação</translation>
     </message>
 </context>
 <context>
@@ -73629,11 +73629,11 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Corner</source>
-        <translation>Coin</translation>
+        <translation>Canto</translation>
     </message>
     <message>
         <source>Flip Corner</source>
-        <translation>Coin inversé</translation>
+        <translation>Canto inversé</translation>
     </message>
 </context>
 <context>
@@ -73663,11 +73663,11 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Border mode</source>
-        <translation>Modo de bordure</translation>
+        <translation>Modo de borda</translation>
     </message>
     <message>
         <source>Sets the way the border gets drawn along the boundary.</source>
-        <translation>Define como a bordure será dessinée com o contour.</translation>
+        <translation>Define como a borda será dessinée com o contorno.</translation>
     </message>
     <message>
         <source>Adjust radius</source>
@@ -73675,11 +73675,11 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Toggles the corners to adapt the radius of the component.</source>
-        <translation>Ativa/desativa os coins para se adapter ao rayon do componente.</translation>
+        <translation>Ativa/desativa os cantos para se adapter ao rayon do componente.</translation>
     </message>
     <message>
         <source>Adjust border radius</source>
-        <translation>Ajuster o rayon da bordure</translation>
+        <translation>Ajuster o rayon da borda</translation>
     </message>
     <message>
         <source>Stroke style</source>
@@ -73695,7 +73695,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Sets the style of the connecting points of the edges.</source>
-        <translation>Define o style dos pontos de liaison aos bordas.</translation>
+        <translation>Define o style dos pontos de ligação aos bordas.</translation>
     </message>
     <message>
         <source>Cap style</source>
@@ -73711,7 +73711,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Sets the Dash length and gap in the Stroke.</source>
-        <translation>Define a longueur e o espacement dos pontoillés do traçado.</translation>
+        <translation>Define a longueur e o espaçamento dos pontoillés do traçado.</translation>
     </message>
     <message>
         <source>Dash offset</source>
@@ -73808,7 +73808,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado do contour.</translation>
+        <translation>Define a cor do traçado do contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -73816,7 +73816,7 @@ atinge o início ou a fim.</translation>
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -74415,7 +74415,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado do contour.</translation>
+        <translation>Define a cor do traçado do contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -74423,7 +74423,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -74591,7 +74591,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets which method of mapping to use when sampling this texture.</source>
-        <translation>Define quelle método dapplication usar durante do échantillonage de esta texture.</translation>
+        <translation>Define quelle método da aplicação usar durante do échantillonage de esta texture.</translation>
     </message>
     <message>
         <source>U Tiling</source>
@@ -74631,11 +74631,11 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets the U coordinate mapping offset from left to right.</source>
-        <translation>Define o deslocamento durante do application dos coordenadas U de esquerda à direita.</translation>
+        <translation>Define o deslocamento durante do aplicação dos coordenadas U de esquerda à direita.</translation>
     </message>
     <message>
         <source>Sets the V coordinate mapping offset from bottom to top.</source>
-        <translation>Define o deslocamento durante do application dos coordenadas V de baixo à cima.</translation>
+        <translation>Define o deslocamento durante do aplicação dos coordenadas V de baixo à cima.</translation>
     </message>
     <message>
         <source>Pivot</source>
@@ -74711,15 +74711,15 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -74848,7 +74848,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Sets whether the timer is running or not.</source>
@@ -75022,11 +75022,11 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Border and Arc</source>
-        <translation>Bordure e arc</translation>
+        <translation>Borda e arc</translation>
     </message>
     <message>
         <source>Work with Border and Arc Studio Components.</source>
-        <translation>Travailler com os componentes bordure e arc do Studio.</translation>
+        <translation>Travailler com os componentes borda e arc do Studio.</translation>
     </message>
     <message>
         <source>Ellipse and Pie</source>
@@ -75094,7 +75094,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets the stroke color of the boundary.</source>
-        <translation>Define a cor do traçado do contour.</translation>
+        <translation>Define a cor do traçado do contorno.</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -75102,7 +75102,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets the stroke thickness of the boundary.</source>
-        <translation>Define o espessura do traçado do contour.</translation>
+        <translation>Define o espessura do traçado do contorno.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -75118,7 +75118,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Sets the radius of the corners and the radius for the edges of the intersections in the Triangle.</source>
-        <translation>Define o rayon dos coins e o rayon dos côtés dos intersections em o triangle.</translation>
+        <translation>Define o rayon dos cantos e o rayon dos côtés dos intersections em o triangle.</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -75308,7 +75308,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Sets if the direction should be normalized after applying the variation.</source>
-        <translation>Define se a direction deve ser normalisée depois application da variação.</translation>
+        <translation>Define se a direction deve ser normalisée depois aplicação da variação.</translation>
     </message>
 </context>
 <context>
@@ -75408,7 +75408,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Sets the duration in milliseconds for fading in the affector.</source>
-        <translation>Define a duração em milissegundos dapparition do affecteur.</translation>
+        <translation>Define a duração em milissegundos dapparition do afetador.</translation>
     </message>
     <message>
         <source>Fade Out Duration</source>
@@ -75417,7 +75417,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Sets the duration in milliseconds for fading out the affector.</source>
-        <translation>Define a duração em milissegundos de extinction do affecteur.</translation>
+        <translation>Define a duração em milissegundos de extinction do afetador.</translation>
     </message>
     <message>
         <source>Global</source>
@@ -75707,7 +75707,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>The maximum perceived amount of movement for each pixel. The amount is smaller near the center and reaches the specified value at the edges.</source>
-        <translation>o mouvement maximum perçu para cada pixel. a quantidade é mas pequena junto de do centro e atinge a valor definida em os bordures.</translation>
+        <translation>o mouvement maximum perçu para cada pixel. a quantidade é mas pequena junto de do centro e atinge a valor definida em os bordas.</translation>
     </message>
     <message>
         <source>Samples</source>
@@ -75747,19 +75747,19 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Caching and Border</source>
-        <translation>Mise em cache e bordure</translation>
+        <translation>Mise em cache e borda</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
-        <translation>Bordure transparentee</translation>
+        <translation>Borda transparentee</translation>
     </message>
     <message>
         <source>Pads the exterior of the component with a transparent edge, making sampling outside the source texture use transparency instead of the edge pixels.</source>
@@ -75813,7 +75813,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Border Image</source>
-        <translation>Imagem com bordure</translation>
+        <translation>Imagem com borda</translation>
     </message>
     <message>
         <source>Flickable</source>
@@ -75885,15 +75885,15 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Repeater</source>
-        <translation>Répéteur</translation>
+        <translation>Repetidor</translation>
     </message>
     <message>
         <source>Busy Indicator</source>
-        <translation>Indicateur doccupation</translation>
+        <translation>Indicador de atividade</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -75965,7 +75965,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Round Button</source>
-        <translation>Bouton arrondi</translation>
+        <translation>Bouton arredondado</translation>
     </message>
     <message>
         <source>Slider</source>
