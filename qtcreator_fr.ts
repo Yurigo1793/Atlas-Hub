@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>If set to false, this affector will not alter any particles. Usually this is used to conditionally turn an affector on or off.</source>
-        <translation>quando falso, este affecteur n&apos;altère pas os partículas. esta propriedade permet dativar ou de desativar o affecteur conditionnellement.</translation>
+        <translation>Quando falso, este afetador não altera nenhuma partícula. Esta propriedade permite ativar ou desativar o afetador condicionalmente.</translation>
     </message>
 </context>
 <context>
@@ -734,7 +734,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Indicates whether the application is running or not</source>
@@ -895,7 +895,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Whether the sprite is animating or not.</source>
@@ -926,7 +926,7 @@ Utilisez AmbientSound.Infinite para boucler indéfiniment.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Whether the animation is running and/or paused.</source>
@@ -1813,7 +1813,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>The owner of the property</source>
-        <translation>o propriétaire da propriedade</translation>
+        <translation>O proprietário da propriedade</translation>
     </message>
 </context>
 <context>
@@ -1824,7 +1824,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the component and its property from which the value is copied.</source>
-        <translation>Define a propriedade do componente à partir de lao qualle a valor é copiée.</translation>
+        <translation>Define o componente e a propriedade de origem da qual o valor é copiado.</translation>
     </message>
     <message>
         <source>To</source>
@@ -1832,14 +1832,14 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the property of the selected component to which the copied value is assigned.</source>
-        <translation>Define a propriedade do componente selecionado em lao qualle a valor copiée é assignée.</translation>
+        <translation>Define a propriedade do componente selecionado à qual o valor copiado é atribuído.</translation>
     </message>
 </context>
 <context>
     <name>BindingsListView</name>
     <message>
         <source>Removes the binding.</source>
-        <translation>Supprime a liaison.</translation>
+        <translation>Remove a ligação.</translation>
     </message>
 </context>
 <context>
@@ -1859,7 +1859,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Foreground source</source>
-        <translation>elemento de premier plan</translation>
+        <translation>Origem de primeiro plano</translation>
     </message>
     <message>
         <source>The component that is going to be blended over the source.</source>
@@ -1867,15 +1867,15 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -2013,7 +2013,7 @@ o caminho deve ser relatif.</translation>
     <name>BorderItemSpecifics</name>
     <message>
         <source>Border Item</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Stroke color</source>
@@ -2122,15 +2122,15 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -2174,7 +2174,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <source>Angle of the brush</source>
@@ -2257,7 +2257,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Sets the size multiplier for the buffer.</source>
-        <translation>Define o multiplicateur de tamanho para este tampon.</translation>
+        <translation>Define o multiplicador de tamanho para este buffer.</translation>
     </message>
 </context>
 <context>
@@ -2268,7 +2268,7 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Toggles if the busy indicator indicates activity.</source>
@@ -2283,7 +2283,7 @@ o caminho deve ser relatif.</translation>
     <name>ButtonSection</name>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -2306,7 +2306,7 @@ o caminho deve ser relatif.</translation>
     <name>ButtonSpecifics</name>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Text</source>
@@ -2973,15 +2973,15 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -3027,15 +3027,15 @@ o caminho deve ser relatif.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -4336,11 +4336,11 @@ Une valor de 0 n&apos;enveloppe pas a luz, tandis que uma valor de 1 vai envelop
     </message>
     <message>
         <source>Focus Range</source>
-        <translation>Plage de focus</translation>
+        <translation>Faixa de foco</translation>
     </message>
     <message>
         <source>Focus range of the blur.</source>
-        <translation>Plage de focus do desfoque.</translation>
+        <translation>Faixa de foco do desfoque.</translation>
     </message>
 </context>
 <context>
@@ -4355,7 +4355,7 @@ Une valor de 0 n&apos;enveloppe pas a luz, tandis que uma valor de 1 vai envelop
     </message>
     <message>
         <source>Strength of the desaturate.</source>
-        <translation>Force de désaturation.</translation>
+        <translation>Intensidade da dessaturação.</translation>
     </message>
 </context>
 <context>
@@ -4366,19 +4366,19 @@ Une valor de 0 n&apos;enveloppe pas a luz, tandis que uma valor de 1 vai envelop
     </message>
     <message>
         <source>How much the source colors are desaturated.</source>
-        <translation>valor indiquant o niveau de désaturation dos cores.</translation>
+        <translation>Valor que indica o nível de dessaturação das cores.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -4536,7 +4536,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <source>The direction for the blur. Blur is applied to both sides of each pixel. Therefore, setting the direction to 0 and 180 produces the same result.</source>
@@ -4564,11 +4564,11 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -4603,15 +4603,15 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -4626,7 +4626,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Radius of the effect.</source>
-        <translation>Rayon do effet.</translation>
+        <translation>Raio do efeito.</translation>
     </message>
     <message>
         <source>Width</source>
@@ -4658,7 +4658,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Center of the distortion.</source>
-        <translation>Centro da distortion.</translation>
+        <translation>Centro da distorção.</translation>
     </message>
 </context>
 <context>
@@ -4673,7 +4673,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Radius of the effect.</source>
-        <translation>Rayon do effet.</translation>
+        <translation>Raio do efeito.</translation>
     </message>
     <message>
         <source>Height</source>
@@ -4681,7 +4681,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Height of the distortion.</source>
-        <translation>altura da distortion.</translation>
+        <translation>Altura da distorção.</translation>
     </message>
     <message>
         <source>Center</source>
@@ -4689,7 +4689,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Center of the distortion.</source>
-        <translation>Centro da distortion.</translation>
+        <translation>Centro da distorção.</translation>
     </message>
 </context>
 <context>
@@ -4704,7 +4704,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Radius of the effect.</source>
-        <translation>Rayon do effet.</translation>
+        <translation>Raio do efeito.</translation>
     </message>
     <message>
         <source>Strength</source>
@@ -4720,7 +4720,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Center of the distortion.</source>
-        <translation>Centro da distortion.</translation>
+        <translation>Centro da distorção.</translation>
     </message>
 </context>
 <context>
@@ -4780,11 +4780,11 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Edge</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Defines the edge of the window the drawer will open from.</source>
-        <translation>Define a bordure da janela à partir de lao qualle o tiroir se ouvre.</translation>
+        <translation>Define a borda da janela a partir da qual a gaveta será aberta.</translation>
     </message>
     <message>
         <source>Drag margin</source>
@@ -4867,11 +4867,11 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -4967,7 +4967,7 @@ define por a&lt;b&gt;tamanho do pas&lt;/b&gt;.</translation>
     <name>EdgeDetectSection</name>
     <message>
         <source>Edge</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Strength</source>
@@ -5249,7 +5249,7 @@ Voulez-vous vraiment remover este nó&#xa0;:
     </message>
     <message>
         <source>Passes</source>
-        <translation>Passes</translation>
+        <translation>Passagens</translation>
     </message>
     <message>
         <source>Sets the render passes of the effect.</source>
@@ -5742,7 +5742,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Alpha Mix</source>
-        <translation>Mélange alpha</translation>
+        <translation>Mistura alfa</translation>
     </message>
     <message>
         <source>Sets the amount of color grading to mix with the scene.</source>
@@ -5822,7 +5822,7 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Focus Range</source>
-        <translation>Plage de focus</translation>
+        <translation>Faixa de foco</translation>
     </message>
     <message>
         <source>Sets the range of distances from the focus distance that are in focus.</source>
@@ -6199,11 +6199,11 @@ Os componentes ao premier plan devem ser transparentes e o componente em plano d
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -6884,15 +6884,15 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -6931,11 +6931,11 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -7105,11 +7105,11 @@ Fleurs, coup de gueule ou suggestions, tout retour é bienvenu&#xa0;!</translati
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -7822,15 +7822,15 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -8134,15 +8134,15 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -8737,15 +8737,15 @@ dessinée na texture.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -9671,15 +9671,15 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -10510,15 +10510,15 @@ Celle-ci remplacera a sonde de luz da cena.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -11485,7 +11485,7 @@ adicionar um componente em surbrillance.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Whether the physics world is running.</source>
@@ -12409,7 +12409,7 @@ Une barre de progressão em este modo exibe que uma operação
     </message>
     <message>
         <source>The owner of the property</source>
-        <translation>o propriétaire da propriedade</translation>
+        <translation>O proprietário da propriedade</translation>
     </message>
 </context>
 <context>
@@ -36610,7 +36610,7 @@ a recompilation do projeto podaider.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Set this property to animate the effect.</source>
@@ -37299,7 +37299,7 @@ désactivera également os greffons suivants :
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Stopped</source>
@@ -56260,7 +56260,7 @@ erro&#xa0;:
     </message>
     <message>
         <source>Border</source>
-        <translation>Bordure</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Easing</source>
@@ -58169,7 +58169,7 @@ Enregistrement falhou.</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Result</source>
@@ -70590,7 +70590,7 @@ Membres&#xa0;:</translation>
     </message>
     <message>
         <source>Number of matching elements:</source>
-        <translation>Número de elementos correspondants&#xa0;:</translation>
+        <translation>Número de elementos correspondentes&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -70601,7 +70601,7 @@ Membres&#xa0;:</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <source>The direction for the blur and at the same time the level of blurring. The larger the angle, the more the result becomes blurred. The quality of the blur depends on samples property.</source>
@@ -70649,11 +70649,11 @@ Membres&#xa0;:</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -70891,7 +70891,7 @@ define na tamanho de pas.</translation>
     </message>
     <message>
         <source>Loops</source>
-        <translation>Passes</translation>
+        <translation>Passagens</translation>
     </message>
     <message>
         <source>The amount of blur iterations that are going to be performed for the source.</source>
@@ -70911,11 +70911,11 @@ define na tamanho de pas.</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels  to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -71093,7 +71093,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     <name>Repeater3DSection</name>
     <message>
         <source>Repeater</source>
-        <translation>Répéteur</translation>
+        <translation>Repetidor</translation>
     </message>
     <message>
         <source>Model</source>
@@ -71116,7 +71116,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     <name>RepeaterSpecifics</name>
     <message>
         <source>Repeater</source>
-        <translation>Répéteur</translation>
+        <translation>Repetidor</translation>
     </message>
     <message>
         <source>Model</source>
@@ -71776,7 +71776,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets how much to blur the skybox when using SceneEnvironment.SkyBox for the backgroundMode property.</source>
-        <translation>Define a quantidade de flou àplicar ao céu durante do uso do modo de plano de fundo SceneEnvironment.SkyBox.</translation>
+        <translation>Define a quantidade de desfoque a aplicar ao céu ao usar SceneEnvironment.SkyBox como modo de plano de fundo.</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -72031,7 +72031,7 @@ En définissant esta propriedade à verdadeiro, a texture cubique será corrigé
     </message>
     <message>
         <source>Sets the component and its property from which the value is copied.</source>
-        <translation>Define a propriedade do componente à partir de lao qualle a valor é copiée.</translation>
+        <translation>Define o componente e a propriedade de origem da qual o valor é copiado.</translation>
     </message>
     <message>
         <source>Sets the component and its property to which the copied value is assigned.</source>
@@ -74711,15 +74711,15 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Caching</source>
-        <translation>Mise em cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
 </context>
 <context>
@@ -74848,7 +74848,7 @@ Ela é utilizada para calculer a tamanho totale implicite.</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation>En cours de execução</translation>
+        <translation>Em execução</translation>
     </message>
     <message>
         <source>Sets whether the timer is running or not.</source>
@@ -75751,11 +75751,11 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Cached</source>
-        <translation>En cache</translation>
+        <translation>Em cache</translation>
     </message>
     <message>
         <source>Caches the effect output pixels to improve the rendering performance.</source>
-        <translation>Met em cache os pixels resultante do effet afin de melhorar os performances de renderização.</translation>
+        <translation>Armazena em cache os pixels resultantes do efeito para melhorar o desempenho de renderização.</translation>
     </message>
     <message>
         <source>Transparent border</source>
@@ -75885,7 +75885,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Repeater</source>
-        <translation>Répéteur</translation>
+        <translation>Repetidor</translation>
     </message>
     <message>
         <source>Busy Indicator</source>
@@ -75893,7 +75893,7 @@ Voulez-vous vraiment o remover&#xa0;?</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <source>Check Box</source>
