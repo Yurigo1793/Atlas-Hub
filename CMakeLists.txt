@@ -77,7 +77,10 @@ target_link_libraries(AtlasHub PRIVATE
 )
 
 if(WIN32)
-    target_link_libraries(AtlasHub PRIVATE windowsapp)
+    find_library(ATLASHUB_WINDOWSAPP_LIB windowsapp)
+    if(ATLASHUB_WINDOWSAPP_LIB)
+        target_link_libraries(AtlasHub PRIVATE ${ATLASHUB_WINDOWSAPP_LIB})
+    endif()
 endif()
 
 if(MINGW)

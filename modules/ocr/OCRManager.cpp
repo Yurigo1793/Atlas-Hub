@@ -3,19 +3,26 @@
 #include <QImage>
 
 #ifdef _WIN32
+#if __has_include(<winrt/Windows.Foundation.h>) && __has_include(<winrt/Windows.Graphics.Imaging.h>) && \
+    __has_include(<winrt/Windows.Media.Ocr.h>)
+#define ATLASHUB_HAS_WINRT_OCR 1
 #include <algorithm>
 #include <cstring>
 #include <winrt/Windows.Foundation.h>
 #include <winrt/Windows.Graphics.Imaging.h>
 #include <winrt/Windows.Media.Ocr.h>
+#else
+#define ATLASHUB_HAS_WINRT_OCR 0
+#endif
+#endif
 
+#if defined(_WIN32) && ATLASHUB_HAS_WINRT_OCR
 using namespace winrt;
 using namespace Windows::Graphics::Imaging;
 using namespace Windows::Media::Ocr;
 
 namespace
 {
-
 struct __declspec(uuid("5B0D3235-4DBA-4D44-865E-8F1D0E4FD04D")) IMemoryBufferByteAccess : ::IUnknown
 {
     virtual HRESULT __stdcall GetBuffer(uint8_t **value, uint32_t *capacity) = 0;
@@ -77,7 +84,7 @@ QString OCRManager::processImage(const QImage &image) const
         return QStringLiteral("OCR failed");
     }
 
-#ifdef _WIN32
+#if defined(_WIN32) && ATLASHUB_HAS_WINRT_OCR
     try {
         return runWindowsOcr(image);
     } catch (...) {
