@@ -57,6 +57,10 @@ set(ATLASHUB_RESOURCES
     resources/branding.qrc
 )
 
+set(ATLASHUB_RESOURCES
+    resources/branding.qrc
+)
+
 add_executable(AtlasHub WIN32
     ${ATLASHUB_SOURCES}
     ${ATLASHUB_HEADERS}
