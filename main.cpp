@@ -1,8 +1,12 @@
 #include <QApplication>
+#include <QChar>
 #include <QDir>
-#include <QDirIterator>
 #include <QFileInfo>
 #include <QIcon>
+
+#ifdef _WIN32
+#include <ShObjIdl_core.h>
+#endif
 
 #include "core/AppController.h"
 #include "utils/Logger.h"
@@ -12,11 +16,10 @@ namespace
 QIcon resolveAppIcon()
 {
     const QString bundledSvg = QStringLiteral(":/branding/logo.svg");
-
     const QStringList searchRoots = {
         QCoreApplication::applicationDirPath(),
-        QDir::currentPath(),
-        QDir::current().filePath(QStringLiteral("assets"))
+        QDir::current().filePath(QStringLiteral("assets")),
+        QDir::currentPath()
     };
 
     for (const QString &root : searchRoots) {
@@ -25,24 +28,23 @@ QIcon resolveAppIcon()
             Logger::instance().info(QStringLiteral("Using application icon: %1").arg(expectedIco));
             return QIcon(expectedIco);
         }
-
-        QDirIterator it(root, {QStringLiteral("*.ico")}, QDir::Files, QDirIterator::NoIteratorFlags);
-        while (it.hasNext()) {
-            const QString candidate = it.next();
-            if (QFileInfo(candidate).fileName().contains(QStringLiteral("ChatGPT"), Qt::CaseInsensitive)) {
-                Logger::instance().info(QStringLiteral("Using uploaded .ico icon: %1").arg(candidate));
-                return QIcon(candidate);
-            }
-        }
     }
 
-    Logger::instance().warning(QStringLiteral("No .ico file found. Falling back to bundled SVG icon."));
+    Logger::instance().warning(QStringLiteral("No app.ico file found. Falling back to bundled SVG icon."));
     return QIcon(bundledSvg);
 }
 }
 
 int main(int argc, char *argv[])
 {
+#ifdef _WIN32
+    const HRESULT appIdResult = SetCurrentProcessExplicitAppUserModelID(L"AtlasHub.App");
+    if (FAILED(appIdResult)) {
+        Logger::instance().warning(QStringLiteral("Failed to set AppUserModelID. HRESULT=0x%1")
+                                       .arg(static_cast<qulonglong>(static_cast<unsigned long>(appIdResult)), 8, 16, QChar(u'0')));
+    }
+#endif
+
     QApplication app(argc, argv);
     QApplication::setApplicationName("AtlasHub");
     QApplication::setOrganizationName("AtlasHub");
