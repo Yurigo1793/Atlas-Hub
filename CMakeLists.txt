@@ -57,23 +57,7 @@ set(ATLASHUB_RESOURCES
     resources/branding.qrc
 )
 
-find_path(TESSERACT_INCLUDE_DIR tesseract/baseapi.h)
-find_path(LEPTONICA_INCLUDE_DIR leptonica/allheaders.h)
-find_library(TESSERACT_LIBRARY NAMES tesseract libtesseract)
-find_library(LEPTONICA_LIBRARY NAMES lept liblept)
-
-set(Tesseract_INCLUDE_DIRS
-    ${TESSERACT_INCLUDE_DIR}
-    ${LEPTONICA_INCLUDE_DIR}
-)
-set(Tesseract_LIBRARIES
-    ${TESSERACT_LIBRARY}
-    ${LEPTONICA_LIBRARY}
-)
-
-if(NOT TESSERACT_INCLUDE_DIR OR NOT LEPTONICA_INCLUDE_DIR OR NOT TESSERACT_LIBRARY OR NOT LEPTONICA_LIBRARY)
-    message(FATAL_ERROR "Tesseract/Leptonica not found. Install development packages and retry.")
-endif()
+set(TESSERACT_DIR ${CMAKE_SOURCE_DIR}/third_party/tesseract)
 
 qt_add_executable(AtlasHub WIN32
     ${ATLASHUB_SOURCES}
@@ -84,12 +68,21 @@ qt_add_executable(AtlasHub WIN32
 
 target_include_directories(AtlasHub PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}
-    ${Tesseract_INCLUDE_DIRS}
+    ${TESSERACT_DIR}/include
 )
+
+link_directories(${TESSERACT_DIR}/lib)
 
 target_link_libraries(AtlasHub PRIVATE
     Qt6::Widgets
-    ${Tesseract_LIBRARIES}
+    tesseract
+    leptonica
+)
+
+add_custom_command(TARGET AtlasHub POST_BUILD
+    COMMAND ${CMAKE_COMMAND} -E copy_directory
+    ${TESSERACT_DIR}/bin
+    $<TARGET_FILE_DIR:AtlasHub>
 )
 
 if(MINGW)

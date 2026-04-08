@@ -9,7 +9,7 @@
 
 namespace
 {
-constexpr auto kTessdataPath = "tesseract/tessdata";
+constexpr auto kTessdataPath = "third_party/tesseract/tessdata";
 constexpr auto kDefaultLanguage = "eng";
 
 const QString kInvalidImageMessage = QStringLiteral("Invalid image");
@@ -32,9 +32,10 @@ QString OCRManager::processImage(const QImage &image)
     tesseract::TessBaseAPI tess;
 
     if (tess.Init(kTessdataPath, kDefaultLanguage) != 0) {
-        Logger::instance().error(QStringLiteral("Failed to initialize OCR"));
+        const QString initError = QStringLiteral("Failed to initialize Tesseract (check tessdata path)");
+        Logger::instance().error(initError);
         tess.End();
-        return kOcrFailedMessage;
+        return initError;
     }
 
     tess.SetImage(img.bits(), img.width(), img.height(), 4, img.bytesPerLine());
