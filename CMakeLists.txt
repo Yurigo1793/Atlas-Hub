@@ -57,11 +57,9 @@ set(ATLASHUB_RESOURCES
     resources/branding.qrc
 )
 
-set(ATLASHUB_RESOURCES
-    resources/branding.qrc
-)
+set(TESSERACT_DIR ${CMAKE_SOURCE_DIR}/third_party/tesseract)
 
-add_executable(AtlasHub WIN32
+qt_add_executable(AtlasHub WIN32
     ${ATLASHUB_SOURCES}
     ${ATLASHUB_HEADERS}
     ${ATLASHUB_UIS}
@@ -70,18 +68,22 @@ add_executable(AtlasHub WIN32
 
 target_include_directories(AtlasHub PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}
+    ${TESSERACT_DIR}/include
 )
+
+link_directories(${TESSERACT_DIR}/lib)
 
 target_link_libraries(AtlasHub PRIVATE
     Qt6::Widgets
+    tesseract
+    leptonica
 )
 
-if(WIN32)
-    find_library(ATLASHUB_WINDOWSAPP_LIB windowsapp)
-    if(ATLASHUB_WINDOWSAPP_LIB)
-        target_link_libraries(AtlasHub PRIVATE ${ATLASHUB_WINDOWSAPP_LIB})
-    endif()
-endif()
+add_custom_command(TARGET AtlasHub POST_BUILD
+    COMMAND ${CMAKE_COMMAND} -E copy_directory
+    ${TESSERACT_DIR}/bin
+    $<TARGET_FILE_DIR:AtlasHub>
+)
 
 if(MINGW)
     target_link_options(AtlasHub PRIVATE -mwindows)
